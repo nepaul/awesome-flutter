@@ -31,6 +31,12 @@
 
 - ![](https://img.shields.io/github/stars/peng8350/flutter_pulltorefresh?style=social) [flutter_pulltorefresh](https://github.com/peng8350/flutter_pulltorefresh): a widget provided to the flutter scroll component drop-down refresh and pull up load.support android and ios.
 - ![](https://img.shields.io/github/stars/ponnamkarthik/FlutterToast?style=social) [FlutterToast](https://github.com/ponnamkarthik/FlutterToast): this toast library supports two kinds of toast messages one which requires BuildContext other with No BuildContext(Powered by platform channel!). Supported Platforms: Android, iOS, Web (Uses Toastify-JS)
+- ![](https://img.shields.io/github/stars/MMMzq/bot_toast?style=social) [💗 bot_toast](https://github.com/MMMzq/bot_toast): A really easy to use flutter toast library!
+  - In the true sense of Toast, you can call it whenever you need it, without any restrictions!
+  - Feature-rich, support for displaying notifications, text, loading, attachments, etc. Toast
+  - Support for popping up various custom Toasts, or you can pop up any Widget as long as it meets the requirements of the flutter code.
+  - API is simple and easy to use
+  - Pure flutter implementation
 
 ### Charts
 
