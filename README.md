@@ -5,11 +5,17 @@
 - [Awesome Flutter](#awesome-flutter)
 - [Table of Contents](#table-of-contents)
   - [Starer Samples](#starer-samples)
+  - [Router](#router)
+  - [Add Flutter to existing app](#add-flutter-to-existing-app)
   - [Components](#components)
     - [UI Kits](#ui-kits)
     - [Toast & Loading & Refresh](#toast--loading--refresh)
+    - [Bar](#bar)
     - [Charts](#charts)
+    - [Swipe & Slide & Indicator](#swipe--slide--indicator)
+    - [Badges & Labels](#badges--labels)
     - [Calendars](#calendars)
+    - [Clippers](#clippers)
   - [Apps](#apps)
 
 ## Starer Samples
@@ -18,12 +24,22 @@
 - ![](https://img.shields.io/github/stars/brianegan/flutter_architecture_samples?style=social)[flutter_architecture_samples](https://github.com/brianegan/flutter_architecture_samples): TodoMVC for Flutter <http://fluttersamples.com/>
 - ![](https://img.shields.io/github/stars/FilledStacks/flutter-tutorials?style=social)[flutter-tutorials](https://github.com/FilledStacks/flutter-tutorials): The repo contains the source code for all the tutorials on the FilledStacks Youtube channel.
 
+## Router
+
+- 💗🤔👀 ![](https://img.shields.io/github/stars/theyakka/fluro?style=social) [fluro](https://github.com/theyakka/fluro): The brightest, hippest, coolest router for Flutter.
+
+## Add Flutter to existing app
+
+- 💗💗👍👍![](https://img.shields.io/github/stars/alibaba/flutter_boost?style=social) [flutter_boost@alibabba](https://github.com/alibaba/flutter_boost): A next-generation Flutter-Native hybrid solution. FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts.The philosophy of FlutterBoost is to use Flutter as easy as using a WebView. Managing Native pages and Flutter pages at the same time is non-trivial in an existing App. FlutterBoost takes care of page resolution for you. The only thing you need to care about is the name of the page(usually could be an URL).
+- ![](https://img.shields.io/github/stars/hellobike/flutter_thrio?style=social) [flutter_thrio @hellobike](https://github.com/hellobike/flutter_thrio)
+
 ## Components
 
 ### UI Kits
 
 - ![](https://img.shields.io/github/stars/mitesh77/Best-Flutter-UI-Templates?style=social) [💗Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates)
 - ![](https://img.shields.io/github/stars/iampawan/Flutter-UI-Kit?style=social) [Flutter-UI-Kit: Flutter app for collection of UI in a UIKit](https://github.com/iampawan/Flutter-UI-Kit)
+- ![](https://img.shields.io/github/stars/nb312/flutter-ui-nice?style=social) [flutter-ui-nice](https://github.com/nb312/flutter-ui-nice)
 - ![](https://img.shields.io/github/stars/ionicfirebaseapp/getwidget?style=social) [getwidget](https://github.com/ionicfirebaseapp/getwidget): Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app.
 - ![](https://img.shields.io/github/stars/Rannie/flui?style=social) [flui](https://github.com/Rannie/flui): A powerful UI framework for Google Flutter. <https://www.flui.xin/en/>
 
@@ -37,14 +53,34 @@
   - Support for popping up various custom Toasts, or you can pop up any Widget as long as it meets the requirements of the flutter code.
   - API is simple and easy to use
   - Pure flutter implementation
+- ![](https://img.shields.io/github/stars/OpenFlutter/flutter_oktoast?style=social) [flutter_oktoast](https://github.com/OpenFlutter/flutter_oktoast): A pure dart toast Library. You can completely customize the style of toast.
+- ![](https://img.shields.io/github/stars/appdev/FlutterToast?style=social) [FlutterToast](https://github.com/appdev/FlutterToast)
+
+### Bar
+
+- ![](https://img.shields.io/github/stars/hacktons/convex_bottom_bar?style=social) [convex_bottom_bar](https://github.com/hacktons/convex_bottom_bar): The official BottomAppBar can only display a notch FAB with app bar, sometimes we need a convex FAB. This ConvexAppBar is inspired by BottomAppBar and NotchShape's implementation. Online example can be found at <https://appbar.codemagic.app>. convex_bottom_bar is now a **Flutter Favorite package**!
 
 ### Charts
 
-- ![](https://img.shields.io/github/stars/imaNNeoFighT/fl_chart?style=social) [fl_chart](https://github.com/imaNNeoFighT/fl_chart): A powerful Flutter chart library, currently supporting Line Chart, Bar Chart, Pie Chart and Scatter Chart.
+- ![](https://img.shields.io/github/stars/hacktons/convex_bottom_bar?style=social) [fl_chart](https://github.com/imaNNeoFighT/fl_chart): A powerful Flutter chart library, currently supporting Line Chart, Bar Chart, Pie Chart and Scatter Chart.
+
+### Swipe & Slide & Indicator
+
+- ![](https://img.shields.io/github/stars/best-flutter/flutter_swiper?style=social) [flutter_swiper](https://github.com/best-flutter/flutter_swiper): The best swiper for flutter , with multiple layouts, infinite loop. Compatible with Android & iOS.
+- ![](https://img.shields.io/github/stars/akshathjain/sliding_up_panel?style=social) [sliding_up_panel](https://github.com/akshathjain/sliding_up_panel): A draggable Flutter widget that makes implementing a SlidingUpPanel much easier! Based on the Material Design bottom sheet component, this widget works on both Android & iOS. (like DouBan)
+- ![](https://img.shields.io/github/stars/Milad-Akarie/smooth_page_indicator?style=social) [smooth_page_indicator](https://github.com/Milad-Akarie/smooth_page_indicator): Customizable animated page indicator with a set of built-in effects.
+
+### Badges & Labels
+
+- ![](https://img.shields.io/github/stars/yako-dev/flutter_badges?style=social) [flutter_badges](https://github.com/yako-dev/flutter_badges)
 
 ### Calendars
 
 - ![](https://img.shields.io/github/stars/aleksanderwozniak/table_calendar?style=social) [table_calendar](https://github.com/aleksanderwozniak/table_calendar): Highly customizable, feature-packed Flutter Calendar with gestures, animations and multiple formats
+
+### Clippers
+
+- ![](https://img.shields.io/github/stars/lohanidamodar/flutter_custom_clippers?style=social) [flutter_custom_clippers](https://github.com/lohanidamodar/flutter_custom_clippers): Flutter package that provides you custom clippers to help you achieve various custom shapes.
 
 ## Apps
 
