@@ -5,8 +5,8 @@
 - [Awesome Flutter](#awesome-flutter)
 - [Table of Contents](#table-of-contents)
   - [Starer Samples](#starer-samples)
-  - [Router](#router)
   - [Add Flutter to existing app](#add-flutter-to-existing-app)
+  - [Router](#router)
   - [Components](#components)
     - [UI Kits](#ui-kits)
     - [Toast & Loading & Refresh](#toast--loading--refresh)
@@ -25,14 +25,14 @@
 - ![](https://img.shields.io/github/stars/brianegan/flutter_architecture_samples?style=social)[flutter_architecture_samples](https://github.com/brianegan/flutter_architecture_samples): TodoMVC for Flutter <http://fluttersamples.com/>
 - ![](https://img.shields.io/github/stars/FilledStacks/flutter-tutorials?style=social)[flutter-tutorials](https://github.com/FilledStacks/flutter-tutorials): The repo contains the source code for all the tutorials on the FilledStacks Youtube channel.
 
-## Router
-
-- 💗🤔👀 ![](https://img.shields.io/github/stars/theyakka/fluro?style=social) [fluro](https://github.com/theyakka/fluro): The brightest, hippest, coolest router for Flutter.
-
 ## Add Flutter to existing app
 
 - 💗💗👍👍![](https://img.shields.io/github/stars/alibaba/flutter_boost?style=social) [flutter_boost@alibabba](https://github.com/alibaba/flutter_boost): A next-generation Flutter-Native hybrid solution. FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts.The philosophy of FlutterBoost is to use Flutter as easy as using a WebView. Managing Native pages and Flutter pages at the same time is non-trivial in an existing App. FlutterBoost takes care of page resolution for you. The only thing you need to care about is the name of the page(usually could be an URL).
 - ![](https://img.shields.io/github/stars/hellobike/flutter_thrio?style=social) [flutter_thrio @hellobike](https://github.com/hellobike/flutter_thrio)
+
+## Router
+
+- 💗🤔👀 ![](https://img.shields.io/github/stars/theyakka/fluro?style=social) [fluro](https://github.com/theyakka/fluro): The brightest, hippest, coolest router for Flutter.
 
 ## Components
 
