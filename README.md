@@ -10,6 +10,7 @@
   - [Components](#components)
     - [UI Kits](#ui-kits)
     - [Toast & Loading & Refresh](#toast--loading--refresh)
+    - [Dialog](#dialog)
     - [Bar](#bar)
     - [Charts](#charts)
     - [Swipe & Slide & Indicator](#swipe--slide--indicator)
@@ -55,6 +56,14 @@
   - Pure flutter implementation
 - ![](https://img.shields.io/github/stars/OpenFlutter/flutter_oktoast?style=social) [flutter_oktoast](https://github.com/OpenFlutter/flutter_oktoast): A pure dart toast Library. You can completely customize the style of toast.
 - ![](https://img.shields.io/github/stars/appdev/FlutterToast?style=social) [FlutterToast](https://github.com/appdev/FlutterToast)
+
+### Dialog
+
+- ![](https://img.shields.io/github/stars/YYFlutter/flutter-custom-dialog?style=social)  [flutter-custom-dialog](https://github.com/YYFlutter/flutter-custom-dialog): Global dialog function encapsulation, with a semantic way to fill the content inside the dialog, the current function provided
+  1. Support for a few semantic component methods to populate the component content inside dialog
+  1. Support for customizing semantic components for developers to freely populate component content inside dialog
+  1. Support setting dialog background color, foreground color, position, animation, click the external disappear and other functions, see the details below
+  1. Support no Context call dialog, see below
 
 ### Bar
 
