@@ -17,6 +17,7 @@
     - [Badges & Labels](#badges--labels)
     - [Calendars](#calendars)
     - [Clippers](#clippers)
+    - [Images](#images)
   - [Apps](#apps)
 
 ## Starer Samples
@@ -76,6 +77,7 @@
 ### Swipe & Slide & Indicator
 
 - ![](https://img.shields.io/github/stars/best-flutter/flutter_swiper?style=social) [flutter_swiper](https://github.com/best-flutter/flutter_swiper): The best swiper for flutter , with multiple layouts, infinite loop. Compatible with Android & iOS.
+- <img width="24" alt="flutter_favorite_badge" src="https://user-images.githubusercontent.com/1112181/109502339-d11da080-7ad3-11eb-8324-e2aaba817f16.png"> ![](https://img.shields.io/github/stars/letsar/flutter_slidable?style=social)  [flutter_slidable](https://github.com/letsar/flutter_slidable): A Flutter implementation of slidable list item with directional slide actions that can be dismissed.
 - ![](https://img.shields.io/github/stars/akshathjain/sliding_up_panel?style=social) [sliding_up_panel](https://github.com/akshathjain/sliding_up_panel): A draggable Flutter widget that makes implementing a SlidingUpPanel much easier! Based on the Material Design bottom sheet component, this widget works on both Android & iOS. (like DouBan)
 - ![](https://img.shields.io/github/stars/Milad-Akarie/smooth_page_indicator?style=social) [smooth_page_indicator](https://github.com/Milad-Akarie/smooth_page_indicator): Customizable animated page indicator with a set of built-in effects.
 
@@ -90,6 +92,10 @@
 ### Clippers
 
 - ![](https://img.shields.io/github/stars/lohanidamodar/flutter_custom_clippers?style=social) [flutter_custom_clippers](https://github.com/lohanidamodar/flutter_custom_clippers): Flutter package that provides you custom clippers to help you achieve various custom shapes.
+
+### Images
+
+- ![](https://img.shields.io/github/stars/dnfield/flutter_svg?style=social)  [flutter_svg](https://github.com/dnfield/flutter_svg): Draw SVG (and some Android VectorDrawable (XML)) files on a Flutter Widget.
 
 ## Apps
 
