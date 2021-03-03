@@ -20,6 +20,7 @@
     - [Calendars](#calendars)
     - [Clippers](#clippers)
     - [Images](#images)
+    - [List](#list)
   - [Apps](#apps)
 
 ## Starer Samples
@@ -50,7 +51,6 @@
 ### Text
 
 - ![](https://img.shields.io/github/stars/bytedance/RealRichText?style=social)  [RealRichText](https://github.com/bytedance/RealRichText): A Tricky Solution for Implementing Inline-Image-In-Text Feature in Flutter.
-
 
 ### Toast & Loading & Refresh
 
@@ -106,6 +106,10 @@
 ### Images
 
 - ![](https://img.shields.io/github/stars/dnfield/flutter_svg?style=social)  [flutter_svg](https://github.com/dnfield/flutter_svg): Draw SVG (and some Android VectorDrawable (XML)) files on a Flutter Widget.
+
+### List
+
+- ![](https://img.shields.io/github/stars/fluttercommunity/flutter_infinite_listview?style=social) [flutter_infinite_listview](https://github.com/fluttercommunity/flutter_infinite_listview): ListView with items that can be scrolled infinitely in both directions.
 
 ## Apps
 
