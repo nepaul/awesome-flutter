@@ -9,6 +9,7 @@
   - [Router](#router)
   - [Components](#components)
     - [UI Kits](#ui-kits)
+    - [Text](#text)
     - [Toast & Loading & Refresh](#toast--loading--refresh)
     - [Dialog](#dialog)
     - [Popup](#popup)
@@ -45,6 +46,11 @@
 - ![](https://img.shields.io/github/stars/nb312/flutter-ui-nice?style=social) [flutter-ui-nice](https://github.com/nb312/flutter-ui-nice)
 - ![](https://img.shields.io/github/stars/ionicfirebaseapp/getwidget?style=social) [getwidget](https://github.com/ionicfirebaseapp/getwidget): Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app.
 - ![](https://img.shields.io/github/stars/Rannie/flui?style=social) [flui](https://github.com/Rannie/flui): A powerful UI framework for Google Flutter. <https://www.flui.xin/en/>
+
+### Text
+
+- ![](https://img.shields.io/github/stars/bytedance/RealRichText?style=social)  [RealRichText](https://github.com/bytedance/RealRichText): A Tricky Solution for Implementing Inline-Image-In-Text Feature in Flutter.
+
 
 ### Toast & Loading & Refresh
 
