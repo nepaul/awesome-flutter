@@ -6,7 +6,9 @@
 - [Table of Contents](#table-of-contents)
   - [Starer Samples](#starer-samples)
   - [Add Flutter to existing app](#add-flutter-to-existing-app)
-  - [Router](#router)
+  - [Navigation & Routing](#navigation--routing)
+  - [Data & Backend](#data--backend)
+    - [Network](#network)
   - [Components](#components)
     - [UI Kits](#ui-kits)
     - [Text](#text)
@@ -34,9 +36,16 @@
 - 💗💗👍👍![](https://img.shields.io/github/stars/alibaba/flutter_boost?style=social) [flutter_boost@alibabba](https://github.com/alibaba/flutter_boost): A next-generation Flutter-Native hybrid solution. FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts.The philosophy of FlutterBoost is to use Flutter as easy as using a WebView. Managing Native pages and Flutter pages at the same time is non-trivial in an existing App. FlutterBoost takes care of page resolution for you. The only thing you need to care about is the name of the page(usually could be an URL).
 - ![](https://img.shields.io/github/stars/hellobike/flutter_thrio?style=social) [flutter_thrio @hellobike](https://github.com/hellobike/flutter_thrio)
 
-## Router
+## Navigation & Routing
 
 - 💗🤔👀 ![](https://img.shields.io/github/stars/theyakka/fluro?style=social) [fluro](https://github.com/theyakka/fluro): The brightest, hippest, coolest router for Flutter.
+- <img width="24" alt="flutter_favorite_badge" src="https://user-images.githubusercontent.com/1112181/109502339-d11da080-7ad3-11eb-8324-e2aaba817f16.png">  ![](https://img.shields.io/github/stars/lejard-h/chopper?style=social)  [chopper](https://github.com/lejard-h/chopper): Chopper is an http client generator for Dart and Flutter using source_gen and inspired by Retrofit.
+
+## Data & Backend
+
+### Network
+
+- ![](https://img.shields.io/github/stars/flutterchina/dio?style=social) [dio](https://github.com/flutterchina/dio): A powerful Http client for Dart, which supports Interceptors, Global configuration, FormData, Request Cancellation, File downloading, Timeout etc.
 
 ## Components
 
