@@ -23,6 +23,7 @@
     - [Clippers](#clippers)
     - [Images](#images)
     - [List](#list)
+    - [Effect](#effect)
   - [Apps](#apps)
 
 ## Starer Samples
@@ -119,6 +120,14 @@
 ### List
 
 - ![](https://img.shields.io/github/stars/fluttercommunity/flutter_infinite_listview?style=social) [flutter_infinite_listview](https://github.com/fluttercommunity/flutter_infinite_listview): ListView with items that can be scrolled infinitely in both directions.
+
+### Effect
+
+- ![](https://img.shields.io/github/stars/xvrh/lottie-flutter?style=social)  [Lottie for Flutter](https://github.com/xvrh/lottie-flutter): Lottie is a mobile library for Android and iOS that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile!
+
+  This repository is an unofficial conversion of the Lottie-android library in pure Dart.
+
+  It works on Android, iOS, macOS, linux, windows and web.
 
 ## Apps
 
