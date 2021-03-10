@@ -24,6 +24,7 @@
     - [Images](#images)
     - [List](#list)
     - [Effect](#effect)
+  - [Plugins](#plugins)
   - [Apps](#apps)
 
 ## Starer Samples
@@ -128,6 +129,18 @@
   This repository is an unofficial conversion of the Lottie-android library in pure Dart.
 
   It works on Android, iOS, macOS, linux, windows and web.
+
+## Plugins
+
+- ![](https://img.shields.io/github/stars/fluttercommunity/flutter_downloader?style=social) [flutter_downloader](https://github.com/fluttercommunity/flutter_downloader): A plugin for creating and managing download tasks. Supports iOS and Android.
+
+  This plugin is based on WorkManager in Android and NSURLSessionDownloadTask in iOS to run download task in background mode.
+
+- ![](https://img.shields.io/github/stars/fluttercommunity/flutter_uploader?style=social) [flutter_uploader](https://github.com/fluttercommunity/flutter_uploader): A plugin for creating and managing upload tasks. Supports iOS and Android.
+  
+  This plugin is based on WorkManager in Android and NSURLSessionUploadTask in iOS to run upload task in background mode.
+
+  This plugin is inspired by flutter_downloader. Thanks to Hung Duy Ha & Flutter Community for great plugins and inspiration.
 
 ## Apps
 
