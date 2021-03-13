@@ -129,6 +129,12 @@
   This repository is an unofficial conversion of the Lottie-android library in pure Dart.
 
   It works on Android, iOS, macOS, linux, windows and web.
+- ![](https://img.shields.io/github/stars/YYFlutter/flutter-animation-set?style=social)   [flutter-animation-set](https://github.com/YYFlutter/flutter-animation-set): Simplified Flutter stagger animation.To drive the Flutter stagger animation through a timeline in the form of an animation configuration.You can
+
+  1. Uses the existing Animation Widget of Flutter Animation Set
+  2. Use Flutter Animation Set to create a new Animation Widget
+  3. Contribute your Flutter Animation Set Widget
+  4. Watch All of the Curves of Flutter in example
 
 ## Plugins
 
