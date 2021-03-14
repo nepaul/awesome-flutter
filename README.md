@@ -25,6 +25,7 @@
     - [List](#list)
     - [Effect](#effect)
   - [Plugins](#plugins)
+  - [Utils](#utils)
   - [Apps](#apps)
 
 ## Starer Samples
@@ -148,6 +149,10 @@
   This plugin is based on WorkManager in Android and NSURLSessionUploadTask in iOS to run upload task in background mode.
 
   This plugin is inspired by flutter_downloader. Thanks to Hung Duy Ha & Flutter Community for great plugins and inspiration.
+
+## Utils
+
+- ![](https://img.shields.io/github/stars/Sub6Resources/flutter_html?style=social) [flutter_html](https://github.com/Sub6Resources/flutter_html): A Flutter widget for rendering HTML and CSS as Flutter widgets.
 
 ## Apps
 
