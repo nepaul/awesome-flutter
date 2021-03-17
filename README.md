@@ -186,6 +186,8 @@
 
 - ![](https://img.shields.io/github/stars/o1298098/Flutter-Movie?style=social) [Flutter-Movie](https://github.com/o1298098/Flutter-Movie): 😎 🎬 A Flutter movie app build with **Fish-Redux** and The Movie DB api.
 
+- ![](https://img.shields.io/github/stars/iampawan/AI-Radio?style=social)  [AI-Radio](https://github.com/iampawan/AI-Radio): AI-Powered Voice Assistant Flutter Radio App
+
 - ![](https://img.shields.io/github/stars/MDSADABWASIM/You?style=social) [You](https://github.com/MDSADABWASIM/You): The app checks what internet knows about you.
 
 - ![](https://img.shields.io/github/stars/MDSADABWASIM/Toughest?style=social) [toughest](https://github.com/MDSADABWASIM/Toughest): Interview questions and answers for preparation, built in pure flutter also have CI implementation for learning.
