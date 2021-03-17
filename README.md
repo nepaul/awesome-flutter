@@ -27,6 +27,7 @@
   - [Plugins](#plugins)
   - [Utils](#utils)
   - [Apps](#apps)
+  - [CI/CD](#cicd)
 
 ## Starer Samples
 
@@ -190,3 +191,13 @@
 - ![](https://img.shields.io/github/stars/MDSADABWASIM/Toughest?style=social) [toughest](https://github.com/MDSADABWASIM/Toughest): Interview questions and answers for preparation, built in pure flutter also have CI implementation for learning.
 
 - ![](https://img.shields.io/github/stars/Blakexx/CryptoTracker?style=social) [Platypus Crypto](https://github.com/Blakexx/CryptoTracker): Platypus Crypto is an ad-free cross-platform robust solution for tracking cryptocurrency assets. Our intuitive interface includes real-time 7-day graphs, current prices and market caps, and percent change over time. Featuring rapid sort, search and refresh features, and support for 32 fiat currencies, Platypus Crypto enables casual and power users alike to monitor cryptocurrency assets on-the-go! Our customization options allow for the removal of 7-day graphs for a more compact feel and a dark theme.
+
+## CI/CD
+
+- ![](https://img.shields.io/github/stars/f3ath/cider?style=social) [Cider(CI for Dart. Efficient Release)](https://github.com/f3ath/cider): A command-line utility to automate package maintenance. Manipulates the changelog and pubspec.yaml.
+
+  This tool assumes that the changelog:
+  - is called CHANGELOG.md
+  - is sitting in the project root folder
+  - strictly follows the Keep a Changelog v1.0.0 format
+  - uses basic markdown (no HTML and complex formatting supported)
