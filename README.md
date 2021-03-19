@@ -28,6 +28,7 @@
   - [Utils](#utils)
   - [Apps](#apps)
   - [CI/CD](#cicd)
+  - [Monitor](#monitor)
 
 ## Starer Samples
 
@@ -203,3 +204,9 @@
   - is sitting in the project root folder
   - strictly follows the Keep a Changelog v1.0.0 format
   - uses basic markdown (no HTML and complex formatting supported)
+
+## Monitor
+
+- ![](https://img.shields.io/github/stars/dart-lang/stack_trace?style=social)  [dart-lang/stack_trace](https://github.com/dart-lang/stack_trace): This library provides the ability to parse, inspect, and manipulate stack traces produced by the underlying Dart implementation. It also provides functions to produce string representations of stack traces in a more readable format than the native StackTrace implementation.
+
+  Traces can be parsed from native StackTraces using Trace.from, or captured using Trace.current. Native StackTraces can also be directly converted to human-readable strings using Trace.format.
