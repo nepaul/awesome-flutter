@@ -9,6 +9,7 @@
   - [Navigation & Routing](#navigation--routing)
   - [Data & Backend](#data--backend)
     - [Network](#network)
+  - [State management](#state-management)
   - [Components](#components)
     - [UI Kits](#ui-kits)
     - [Text](#text)
@@ -54,6 +55,17 @@
 ### Network
 
 - ![](https://img.shields.io/github/stars/flutterchina/dio?style=social) [dio](https://github.com/flutterchina/dio): A powerful Http client for Dart, which supports Interceptors, Global configuration, FormData, Request Cancellation, File downloading, Timeout etc.
+
+## State management
+
+- ![](https://img.shields.io/github/stars/alibaba/fish-redux?style=social) [alibaba/fish-redux](https://github.com/alibaba/fish-redux): is an assembled flutter application framework based on Redux state management. It is suitable for building medium and large applications.
+
+  It has four characteristics:
+
+  - Functional Programming
+  - Predictable state container
+  - Pluggable componentization
+  - Non-destructive performance
 
 ## Components
 
