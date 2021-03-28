@@ -4,6 +4,8 @@
 
 - [Awesome Flutter](#awesome-flutter)
 - [Table of Contents](#table-of-contents)
+  - [Style Guide](#style-guide)
+    - [Lint](#lint)
   - [Starer Samples](#starer-samples)
   - [Add Flutter to existing app](#add-flutter-to-existing-app)
   - [Navigation & Routing](#navigation--routing)
@@ -30,6 +32,17 @@
   - [Apps](#apps)
   - [CI/CD](#cicd)
   - [Monitor](#monitor)
+
+## Style Guide
+
+### Lint
+
+- [import_sorter](https://github.com/fluttercommunity/import_sorter): 🎯 Dart package to automatically organize your dart imports. Any dart project supported! Will sorts imports alphabetically and then group them in the following order:
+
+  1. Dart imports
+  2. Flutter imports
+  3. Package imports
+  4. Project imports
 
 ## Starer Samples
 
