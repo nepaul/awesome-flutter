@@ -81,6 +81,8 @@
   - Pluggable componentization
   - Non-destructive performance
 
+- ![](https://img.shields.io/github/stars/felangel/bloc?style=social)  [felangel/bloc](https://github.com/felangel/bloc): A predictable state management library that helps implement the [BLoC design pattern](https://www.didierboelens.com/2018/08/reactive-programming-streams-bloc/).
+
 ## Components
 
 ### UI Kits
