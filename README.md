@@ -15,6 +15,7 @@
   - [Components](#components)
     - [UI Kits](#ui-kits)
     - [Text](#text)
+    - [Icon](#icon)
     - [Toast & Loading & Refresh](#toast--loading--refresh)
     - [Dialog](#dialog)
     - [Popup](#popup)
@@ -72,6 +73,7 @@
 
 ## State management
 
+- ![](https://img.shields.io/github/stars/felangel/bloc?style=social)  [felangel/bloc](https://github.com/felangel/bloc): A predictable state management library that helps implement the [BLoC design pattern](https://www.didierboelens.com/2018/08/reactive-programming-streams-bloc/).
 - ![](https://img.shields.io/github/stars/alibaba/fish-redux?style=social) [alibaba/fish-redux](https://github.com/alibaba/fish-redux): is an assembled flutter application framework based on Redux state management. It is suitable for building medium and large applications.
 
   It has four characteristics:
@@ -81,7 +83,7 @@
   - Pluggable componentization
   - Non-destructive performance
 
-- ![](https://img.shields.io/github/stars/felangel/bloc?style=social)  [felangel/bloc](https://github.com/felangel/bloc): A predictable state management library that helps implement the [BLoC design pattern](https://www.didierboelens.com/2018/08/reactive-programming-streams-bloc/).
+- ![](https://img.shields.io/github/stars/brianegan/scoped_model?style=social) [scoped_model](https://github.com/brianegan/scoped_model): A set of utilities that allow you to easily pass a data Model from a parent Widget down to its descendants. In addition, it also rebuilds all of the children that use the model when the model is updated. This library was originally extracted from the Fuchsia codebase.
 
 ## Components
 
@@ -97,9 +99,29 @@
 
 - ![](https://img.shields.io/github/stars/bytedance/RealRichText?style=social)  [RealRichText](https://github.com/bytedance/RealRichText): A Tricky Solution for Implementing Inline-Image-In-Text Feature in Flutter.
 
+### Icon
+
+- ![](https://img.shields.io/github/stars/flutter-studio/flutter-icons?style=social) [flutter_icons](https://github.com/flutter-studio/flutter-icons): Customizable Icons for Flutter,Inspired by react-native-vector-icons.  
+  Bundled Icon Sets:
+  - AntDesign by AntFinance (297 icons)
+  - Entypo by Daniel Bruce (411 icons)
+  - EvilIcons by Alexander Madyankin & Roman Shamin (v1.10.1, 70 icons)
+  - Feather by Cole Bemis & Contributors (v4.7.0, 266 icons)
+  - FontAwesome by Dave Gandy (v4.7.0, 675 icons)
+  - FontAwesome 5 by Fonticons, Inc. (v5.7.0, 1500 (free))
+  - Foundation by ZURB, Inc. (v3.0, 283 icons)
+  - Ionicons by Ben Sperry (v4.2.4, 696 icons)
+  - MaterialIcons by Google, Inc. (v3.0.1, 932 icons)
+  - MaterialCommunityIcons by MaterialDesignIcons.com (v4.0.96, 4416 icons)
+  - Octicons by Github, Inc. (v8.0.0, 177 icons)
+  - Zocial by Sam Collins (v1.0, 100 icons)
+  - SimpleLineIcons by Sabbir & Contributors (v2.4.1, 189 icons)
+  - Weather Icons by erikflowers (v2.0.10, 596 icons)
+
 ### Toast & Loading & Refresh
 
 - ![](https://img.shields.io/github/stars/CoderMJLee/MJRefresh?style=social) [MJRefresh](https://github.com/CoderMJLee/MJRefresh): An easy way to use pull-to-refresh
+- ![](https://img.shields.io/github/stars/jogboms/flutter_spinkit?style=social) [Flutter Spinkit](https://github.com/jogboms/flutter_spinkit): A collection of loading indicators animated with flutter. Heavily inspired by @tobiasahlin's SpinKit.
 - ![](https://img.shields.io/github/stars/peng8350/flutter_pulltorefresh?style=social) [flutter_pulltorefresh](https://github.com/peng8350/flutter_pulltorefresh): a widget provided to the flutter scroll component drop-down refresh and pull up load.support android and ios.
 - ![](https://img.shields.io/github/stars/ponnamkarthik/FlutterToast?style=social) [FlutterToast](https://github.com/ponnamkarthik/FlutterToast): this toast library supports two kinds of toast messages one which requires BuildContext other with No BuildContext(Powered by platform channel!). Supported Platforms: Android, iOS, Web (Uses Toastify-JS)
 - ![](https://img.shields.io/github/stars/MMMzq/bot_toast?style=social) [💗 bot_toast](https://github.com/MMMzq/bot_toast): A really easy to use flutter toast library!
@@ -156,6 +178,9 @@
 ### List
 
 - ![](https://img.shields.io/github/stars/fluttercommunity/flutter_infinite_listview?style=social) [flutter_infinite_listview](https://github.com/fluttercommunity/flutter_infinite_listview): ListView with items that can be scrolled infinitely in both directions.
+- ![](https://img.shields.io/github/stars/marcglasberg/indexed_list_view?style=social) [indexed_list_view](https://github.com/marcglasberg/indexed_list_view): Similar to a ListView, but lets you programmatically jump to any item, by index. The index jump happens instantly, no matter if you have millions of items.
+
+  Limitation: The list is always infinite both to positive and negative indexes. In other words, it can be scrolled indefinitely both to the top and to the bottom.
 
 ### Effect
 
@@ -187,6 +212,7 @@
 
 - ![](https://img.shields.io/github/stars/Sub6Resources/flutter_html?style=social) [flutter_html](https://github.com/Sub6Resources/flutter_html): A Flutter widget for rendering HTML and CSS as Flutter widgets.
 - ![](https://img.shields.io/github/stars/google/quiver-dart?style=social) [google/quiver-dart](https://github.com/google/quiver-dart): Quiver is a set of utility libraries for Dart that makes using many Dart libraries easier and more convenient, or adds additional functionality. [👉 API Doc](https://pub.dev/documentation/quiver/latest/)
+- ![](https://img.shields.io/github/stars/flutterchina/lpinyin?style=social) [lpinyin](https://github.com/flutterchina/lpinyin): 汉字转拼音
 
 ## Apps
 
