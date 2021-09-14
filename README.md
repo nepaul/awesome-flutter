@@ -4,6 +4,7 @@
 
 - [Awesome Flutter](#awesome-flutter)
 - [Table of Contents](#table-of-contents)
+  - [Document](#document)
   - [Style Guide](#style-guide)
     - [Lint](#lint)
   - [Starer Samples](#starer-samples)
@@ -23,6 +24,7 @@
     - [Charts](#charts)
     - [Swipe & Slide & Indicator](#swipe--slide--indicator)
     - [Badges & Labels](#badges--labels)
+    - [Datetime](#datetime)
     - [Calendars](#calendars)
     - [Clippers](#clippers)
     - [Images](#images)
@@ -33,6 +35,10 @@
   - [Apps](#apps)
   - [CI/CD](#cicd)
   - [Monitor](#monitor)
+
+## Document
+
+- ![](https://img.shields.io/github/stars/olexale/flutter_roadmap?style=social)  [Flutter Roadmap](https://github.com/olexale/flutter_roadmap)
 
 ## Style Guide
 
@@ -163,6 +169,10 @@
 
 - ![](https://img.shields.io/github/stars/yako-dev/flutter_badges?style=social) [flutter_badges](https://github.com/yako-dev/flutter_badges)
 
+### Datetime
+
+- ![](https://img.shields.io/github/stars/Realank/flutter_datetime_picker?style=social) [Flutter Datetime Picker](https://github.com/Realank/flutter_datetime_picker): A flutter date time picker inspired by flutter-cupertino-date-picker
+  
 ### Calendars
 
 - ![](https://img.shields.io/github/stars/aleksanderwozniak/table_calendar?style=social) [table_calendar](https://github.com/aleksanderwozniak/table_calendar): Highly customizable, feature-packed Flutter Calendar with gestures, animations and multiple formats
