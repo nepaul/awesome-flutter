@@ -1,5 +1,11 @@
 # Awesome Flutter
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+All you should know about Flutter development!
+
+A curated list of awesome Flutter libraries, tools, tutorials, articles and more..
+
 # Table of Contents
 
 - [Awesome Flutter](#awesome-flutter)
