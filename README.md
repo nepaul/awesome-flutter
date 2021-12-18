@@ -55,12 +55,13 @@
 ## Starer Samples
 
 - ![](https://img.shields.io/github/stars/alibaba/flutter-go?style=social) [FlutterGo](https://github.com/alibaba/flutter-go)
-- ![][https://img.shields.io/github/stars/iampawan/FlutterExampleApps?style=social](FlutterExampleApps:[Example APPS) Basic Flutter apps, for flutter devs.](https://github.com/iampawan/FlutterExampleApps)
+- ![](https://img.shields.io/github/stars/iampawan/FlutterExampleApps?style=social) [FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps):Example APPS Basic Flutter apps, for flutter devs.
 - ![](https://img.shields.io/github/stars/flutter/samples?style=social) 🥰 [Flutter Official Samples](https://github.com/flutter/samples): A collection of open source samples that illustrate best practices for Flutter.
 - ![](https://img.shields.io/github/stars/brianegan/flutter_architecture_samples?style=social)[flutter_architecture_samples](https://github.com/brianegan/flutter_architecture_samples): TodoMVC for Flutter <http://fluttersamples.com/>
+- ![](https://img.shields.io/github/stars/Sky24n/flutter_wanandroid?style=social) [flutter_wanandroid](https://github.com/Sky24n/flutter_wanandroid)
 - ![](https://img.shields.io/github/stars/FilledStacks/flutter-tutorials?style=social)[flutter-tutorials](https://github.com/FilledStacks/flutter-tutorials): The repo contains the source code for all the tutorials on the FilledStacks Youtube channel.
 - ![](https://img.shields.io/github/stars/flutter/gallery?style=social) [Flutter Gallery](https://github.com/flutter/gallery) s a resource to help developers evaluate and use Flutter. It is a collection of Material Design & Cupertino widgets, behaviors, and vignettes implemented with Flutter. We often get asked how one can see Flutter in action, and this gallery demonstrates what Flutter provides and how it behaves in the wild.
-- ![](https://img.shields.io/github/stars/Sky24n/flutter_wanandroid?style=social) [flutter_wanandroid](https://github.com/Sky24n/flutter_wanandroid)
+- ![](https://img.shields.io/github/stars/diegoveloper/flutter-samples?style=social)  [flutter-samples](https://github.com/diegoveloper/flutter-samples)
 
 ## Add Flutter to existing app
 
