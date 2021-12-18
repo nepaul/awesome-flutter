@@ -32,6 +32,7 @@
     - [Effect](#effect)
   - [Plugins](#plugins)
   - [Utils](#utils)
+  - [Games](#games)
   - [Apps](#apps)
   - [CI/CD](#cicd)
   - [Monitor](#monitor)
@@ -54,7 +55,7 @@
 ## Starer Samples
 
 - ![](https://img.shields.io/github/stars/alibaba/flutter-go?style=social) [FlutterGo](https://github.com/alibaba/flutter-go)
-- ![](https://img.shields.io/github/stars/iampawan/FlutterExampleApps?style=social)[FlutterExampleApps:[Example APPS] Basic Flutter apps, for flutter devs.](https://github.com/iampawan/FlutterExampleApps)
+- ![][https://img.shields.io/github/stars/iampawan/FlutterExampleApps?style=social](FlutterExampleApps:[Example APPS) Basic Flutter apps, for flutter devs.](https://github.com/iampawan/FlutterExampleApps)
 - ![](https://img.shields.io/github/stars/flutter/samples?style=social) 🥰 [Flutter Official Samples](https://github.com/flutter/samples): A collection of open source samples that illustrate best practices for Flutter.
 - ![](https://img.shields.io/github/stars/brianegan/flutter_architecture_samples?style=social)[flutter_architecture_samples](https://github.com/brianegan/flutter_architecture_samples): TodoMVC for Flutter <http://fluttersamples.com/>
 - ![](https://img.shields.io/github/stars/FilledStacks/flutter-tutorials?style=social)[flutter-tutorials](https://github.com/FilledStacks/flutter-tutorials): The repo contains the source code for all the tutorials on the FilledStacks Youtube channel.
@@ -223,6 +224,10 @@
 - ![](https://img.shields.io/github/stars/Sub6Resources/flutter_html?style=social) [flutter_html](https://github.com/Sub6Resources/flutter_html): A Flutter widget for rendering HTML and CSS as Flutter widgets.
 - ![](https://img.shields.io/github/stars/google/quiver-dart?style=social) [google/quiver-dart](https://github.com/google/quiver-dart): Quiver is a set of utility libraries for Dart that makes using many Dart libraries easier and more convenient, or adds additional functionality. [👉 API Doc](https://pub.dev/documentation/quiver/latest/)
 - ![](https://img.shields.io/github/stars/flutterchina/lpinyin?style=social) [lpinyin](https://github.com/flutterchina/lpinyin): 汉字转拼音
+
+## Games
+
+- ![](https://img.shields.io/github/stars/flame-engine/flame?style=social) [flame](https://github.com/flame-engine/flame): A minimalist Flutter game engine
 
 ## Apps
 
