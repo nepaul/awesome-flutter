@@ -39,9 +39,9 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
   - [Plugins](#plugins)
   - [Utils](#utils)
   - [Games](#games)
-  - [Apps](#apps)
   - [CI/CD](#cicd)
   - [Monitor](#monitor)
+  - [Apps](#apps)
 
 ## Document
 
@@ -236,8 +236,27 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 
 - ![](https://img.shields.io/github/stars/flame-engine/flame?style=social) [flame](https://github.com/flame-engine/flame): A minimalist Flutter game engine
 
+## CI/CD
+
+- ![](https://img.shields.io/github/stars/f3ath/cider?style=social) [Cider(CI for Dart. Efficient Release)](https://github.com/f3ath/cider): A command-line utility to automate package maintenance. Manipulates the changelog and pubspec.yaml.
+
+  This tool assumes that the changelog:
+  - is called CHANGELOG.md
+  - is sitting in the project root folder
+  - strictly follows the Keep a Changelog v1.0.0 format
+  - uses basic markdown (no HTML and complex formatting supported)
+
+## Monitor
+
+- ![](https://img.shields.io/github/stars/dart-lang/stack_trace?style=social)  [dart-lang/stack_trace](https://github.com/dart-lang/stack_trace): This library provides the ability to parse, inspect, and manipulate stack traces produced by the underlying Dart implementation. It also provides functions to produce string representations of stack traces in a more readable format than the native StackTrace implementation.
+
+  Traces can be parsed from native StackTraces using Trace.from, or captured using Trace.current. Native StackTraces can also be directly converted to human-readable strings using Trace.format.
+
 ## Apps
 
+> Complete Projects(Open Source)
+
+- ![](https://img.shields.io/github/stars/AppFlowy-IO/appflowy?style=social) [appflowy](https://github.com/AppFlowy-IO/appflowy): Desktop App! The Open Source Notion Alternative(53+% Rust, 41+%Dart, C++...).
 - ![](https://img.shields.io/github/stars/roughike/inKino?style=social) [inKino](https://github.com/roughike/inKino): inKino is a multiplatform Dart app for browsing movies and showtimes for Finnkino cinemas.
 
   InKino showcases **Redux**, has an extensive set of automated tests and 40% code sharing between Flutter and web. The Android & iOS apps are made with a single Flutter codebase. The progressive web app is made with AngularDart. This project is generally something that I believe is a good example of a multiplatform Dart project.
@@ -271,19 +290,3 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 - ![](https://img.shields.io/github/stars/MDSADABWASIM/Toughest?style=social) [toughest](https://github.com/MDSADABWASIM/Toughest): Interview questions and answers for preparation, built in pure flutter also have CI implementation for learning.
 
 - ![](https://img.shields.io/github/stars/Blakexx/CryptoTracker?style=social) [Platypus Crypto](https://github.com/Blakexx/CryptoTracker): Platypus Crypto is an ad-free cross-platform robust solution for tracking cryptocurrency assets. Our intuitive interface includes real-time 7-day graphs, current prices and market caps, and percent change over time. Featuring rapid sort, search and refresh features, and support for 32 fiat currencies, Platypus Crypto enables casual and power users alike to monitor cryptocurrency assets on-the-go! Our customization options allow for the removal of 7-day graphs for a more compact feel and a dark theme.
-
-## CI/CD
-
-- ![](https://img.shields.io/github/stars/f3ath/cider?style=social) [Cider(CI for Dart. Efficient Release)](https://github.com/f3ath/cider): A command-line utility to automate package maintenance. Manipulates the changelog and pubspec.yaml.
-
-  This tool assumes that the changelog:
-  - is called CHANGELOG.md
-  - is sitting in the project root folder
-  - strictly follows the Keep a Changelog v1.0.0 format
-  - uses basic markdown (no HTML and complex formatting supported)
-
-## Monitor
-
-- ![](https://img.shields.io/github/stars/dart-lang/stack_trace?style=social)  [dart-lang/stack_trace](https://github.com/dart-lang/stack_trace): This library provides the ability to parse, inspect, and manipulate stack traces produced by the underlying Dart implementation. It also provides functions to produce string representations of stack traces in a more readable format than the native StackTrace implementation.
-
-  Traces can be parsed from native StackTraces using Trace.from, or captured using Trace.current. Native StackTraces can also be directly converted to human-readable strings using Trace.format.
