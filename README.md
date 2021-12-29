@@ -35,6 +35,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
     - [Clippers](#clippers)
     - [Images](#images)
     - [List](#list)
+    - [Steps & Timelines](#steps--timelines)
     - [Effect](#effect)
   - [Plugins](#plugins)
   - [Utils](#utils)
@@ -200,6 +201,10 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 
   Limitation: The list is always infinite both to positive and negative indexes. In other words, it can be scrolled indefinitely both to the top and to the bottom.
 
+### Steps & Timelines
+
+- ![](https://img.shields.io/github/stars/chulwoo-park/timelines?style=social) [timelines](https://github.com/chulwoo-park/timelines/): A powerful & easy to use timeline package for Flutter! (This package is an early stage. Not enough testing has been done to guarantee stability. Some APIs may change. 2021-12-29)
+
 ### Effect
 
 - ![](https://img.shields.io/github/stars/xvrh/lottie-flutter?style=social)  [Lottie for Flutter](https://github.com/xvrh/lottie-flutter): Lottie is a mobile library for Android and iOS that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile!
@@ -231,6 +236,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 - ![](https://img.shields.io/github/stars/Sub6Resources/flutter_html?style=social) [flutter_html](https://github.com/Sub6Resources/flutter_html): A Flutter widget for rendering HTML and CSS as Flutter widgets.
 - ![](https://img.shields.io/github/stars/google/quiver-dart?style=social) [google/quiver-dart](https://github.com/google/quiver-dart): Quiver is a set of utility libraries for Dart that makes using many Dart libraries easier and more convenient, or adds additional functionality. [👉 API Doc](https://pub.dev/documentation/quiver/latest/)
 - ![](https://img.shields.io/github/stars/flutterchina/lpinyin?style=social) [lpinyin](https://github.com/flutterchina/lpinyin): 汉字转拼音
+- ![](https://img.shields.io/github/stars/Ephenodrom/Dart-Basic-Utils?style=social) [Dart-Basic-Utils](https://github.com/Ephenodrom/Dart-Basic-Utils): A dart package for many helper methods fitting different situations. String, Domain, Email, Math, HTTP, DNS, Sort, Color, Date, Iterable, Crypto, ASN1, FunctionDefs, X509....
 
 ## Games
 
