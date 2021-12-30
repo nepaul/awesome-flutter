@@ -16,6 +16,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
   - [Starer Samples](#starer-samples)
   - [Add Flutter to existing app](#add-flutter-to-existing-app)
   - [Navigation & Routing](#navigation--routing)
+  - [Storage](#storage)
   - [Data & Backend](#data--backend)
     - [Network](#network)
   - [State management](#state-management)
@@ -79,6 +80,10 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 
 - 💗🤔👀 ![](https://img.shields.io/github/stars/theyakka/fluro?style=social) [fluro](https://github.com/theyakka/fluro): The brightest, hippest, coolest router for Flutter.
 - <img width="24" alt="flutter_favorite_badge" src="https://user-images.githubusercontent.com/1112181/109502339-d11da080-7ad3-11eb-8324-e2aaba817f16.png">  ![](https://img.shields.io/github/stars/lejard-h/chopper?style=social)  [chopper](https://github.com/lejard-h/chopper): Chopper is an http client generator for Dart and Flutter using source_gen and inspired by Retrofit.
+
+## Storage
+
+- ![](https://img.shields.io/github/stars/realm/realm-dart?style=social) [Realm](https://github.com/realm/realm-dart): a mobile database that runs directly inside phones, tablets or wearables. This repository holds the source code for the Realm SDK for Flutter™ and Dart™.
 
 ## Data & Backend
 
