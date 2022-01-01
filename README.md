@@ -42,6 +42,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
   - [Utils](#utils)
   - [Games](#games)
   - [CI/CD](#cicd)
+    - [Lint & Format](#lint--format)
   - [Monitor](#monitor)
   - [Apps](#apps)
 
@@ -256,6 +257,14 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
   - is sitting in the project root folder
   - strictly follows the Keep a Changelog v1.0.0 format
   - uses basic markdown (no HTML and complex formatting supported)
+
+### Lint & Format
+
+- ![](https://img.shields.io/github/stars/fluttercommunity/import_sorter?style=social) [import_sorter](https://github.com/fluttercommunity/import_sorter): 🎯 Dart package to automatically organize your dart imports. Any dart project supported! Will sorts imports alphabetically and then group them in the following order:
+  1. Dart imports
+  2. Flutter imports
+  3. Package imports
+  4. Project imports
 
 ## Monitor
 
