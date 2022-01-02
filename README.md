@@ -243,6 +243,14 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 - ![](https://img.shields.io/github/stars/google/quiver-dart?style=social) [google/quiver-dart](https://github.com/google/quiver-dart): Quiver is a set of utility libraries for Dart that makes using many Dart libraries easier and more convenient, or adds additional functionality. [👉 API Doc](https://pub.dev/documentation/quiver/latest/)
 - ![](https://img.shields.io/github/stars/flutterchina/lpinyin?style=social) [lpinyin](https://github.com/flutterchina/lpinyin): 汉字转拼音
 - ![](https://img.shields.io/github/stars/Ephenodrom/Dart-Basic-Utils?style=social) [Dart-Basic-Utils](https://github.com/Ephenodrom/Dart-Basic-Utils): A dart package for many helper methods fitting different situations. String, Domain, Email, Math, HTTP, DNS, Sort, Color, Date, Iterable, Crypto, ASN1, FunctionDefs, X509....
+- ![](https://img.shields.io/github/stars/ganeshrvel/pub-rules?style=social)[Rules](https://github.com/ganeshrvel/pub-rules) - Powerful and feature-rich validation library for both Dart and Flutter.
+  - Highly flexible
+  - Easy to understand
+  - Less boilerplate code
+  - Custom error handling
+  - Override individual errors
+  - Flutter friendly
+  - State management libraries friendly (Mobx example included)
 
 ## Games
 
