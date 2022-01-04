@@ -268,6 +268,11 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 
 ### Lint & Format
 
+- ![](https://img.shields.io/github/stars/passsy/dart-lint?style=social)  [dart-lint](https://github.com/passsy/dart-lint) - lint is a hand-picked, open-source, community-driven collection of lint rules for Dart and Flutter projects. The set of rules follows the Effective Dart: Style Guide.
+
+  This package can be used as a replacement for package:lints or the discontinued package:pedantic for those who prefer stricter rules.
+
+  lint tries to be strict but not annoying.
 - ![](https://img.shields.io/github/stars/fluttercommunity/import_sorter?style=social) [import_sorter](https://github.com/fluttercommunity/import_sorter): 🎯 Dart package to automatically organize your dart imports. Any dart project supported! Will sorts imports alphabetically and then group them in the following order:
   1. Dart imports
   2. Flutter imports
