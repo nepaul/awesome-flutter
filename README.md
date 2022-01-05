@@ -94,7 +94,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 
 ## State management
 
-- ![](https://img.shields.io/github/stars/felangel/bloc?style=social)  [felangel/bloc](https://github.com/felangel/bloc): A predictable state management library that helps implement the [BLoC design pattern](https://www.didierboelens.com/2018/08/reactive-programming-streams-bloc/).
+- ![](https://img.shields.io/github/stars/felangel/bloc?style=social) [felangel/bloc](https://github.com/felangel/bloc): A predictable state management library that helps implement the [BLoC design pattern](https://www.didierboelens.com/2018/08/reactive-programming-streams-bloc/).
 - ![](https://img.shields.io/github/stars/alibaba/fish-redux?style=social) [alibaba/fish-redux](https://github.com/alibaba/fish-redux): is an assembled flutter application framework based on Redux state management. It is suitable for building medium and large applications.
 
   It has four characteristics:
@@ -103,6 +103,15 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
   - Predictable state container
   - Pluggable componentization
   - Non-destructive performance
+- ![](https://img.shields.io/github/stars/rrousselGit/provider?style=social) [provider](https://github.com/rrousselGit/provider) - A wrapper around InheritedWidget to make them easier to use and more reusable.
+  
+  By using provider instead of manually writing InheritedWidget, you get:
+  - simplified allocation/disposal of resources
+  - lazy-loading
+  - a vastly reduced boilerplate over making a new class every time
+  - devtool friendly – using Provider, the state of your application will be visible in the Flutter devtool
+  - a common way to consume these InheritedWidgets (See Provider.of/Consumer/Selector)
+  - increased scalability for classes with a listening mechanism that grows exponentially in complexity (such as ChangeNotifier, which is O(N) for dispatching notifications).
 
 - ![](https://img.shields.io/github/stars/brianegan/scoped_model?style=social) [scoped_model](https://github.com/brianegan/scoped_model): A set of utilities that allow you to easily pass a data Model from a parent Widget down to its descendants. In addition, it also rebuilds all of the children that use the model when the model is updated. This library was originally extracted from the Fuchsia codebase.
 
