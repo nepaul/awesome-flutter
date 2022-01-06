@@ -44,6 +44,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
   - [CI/CD](#cicd)
     - [Lint & Format](#lint--format)
   - [Monitor](#monitor)
+  - [Tools](#tools)
   - [Apps](#apps)
 
 ## Document
@@ -293,6 +294,10 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 - ![](https://img.shields.io/github/stars/dart-lang/stack_trace?style=social)  [dart-lang/stack_trace](https://github.com/dart-lang/stack_trace): This library provides the ability to parse, inspect, and manipulate stack traces produced by the underlying Dart implementation. It also provides functions to produce string representations of stack traces in a more readable format than the native StackTrace implementation.
 
   Traces can be parsed from native StackTraces using Trace.from, or captured using Trace.current. Native StackTraces can also be directly converted to human-readable strings using Trace.format.
+
+## Tools
+
+- ![](https://img.shields.io/github/stars/aloisdeniel/flutter_device_preview?style=social) [Device Preview](https://github.com/aloisdeniel/flutter_device_preview) - Approximate how your app looks and performs on another device.
 
 ## Apps
 
