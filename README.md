@@ -13,7 +13,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
   - [Document](#document)
   - [Style Guide](#style-guide)
     - [Lint](#lint)
-  - [Starer Samples](#starer-samples)
+  - [Starter Samples](#starter-samples)
   - [Add Flutter to existing app](#add-flutter-to-existing-app)
   - [Navigation & Routing](#navigation--routing)
   - [Storage](#storage)
@@ -64,7 +64,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
   3. Package imports
   4. Project imports
 
-## Starer Samples
+## Starter Samples
 
 - ![](https://img.shields.io/github/stars/alibaba/flutter-go?style=social) [FlutterGo](https://github.com/alibaba/flutter-go)
 - ![](https://img.shields.io/github/stars/iampawan/FlutterExampleApps?style=social) [FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps):Example APPS Basic Flutter apps, for flutter devs.
@@ -73,7 +73,8 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 - ![](https://img.shields.io/github/stars/Sky24n/flutter_wanandroid?style=social) [flutter_wanandroid](https://github.com/Sky24n/flutter_wanandroid)
 - ![](https://img.shields.io/github/stars/FilledStacks/flutter-tutorials?style=social)[flutter-tutorials](https://github.com/FilledStacks/flutter-tutorials): The repo contains the source code for all the tutorials on the FilledStacks Youtube channel.
 - ![](https://img.shields.io/github/stars/flutter/gallery?style=social) [Flutter Gallery](https://github.com/flutter/gallery) s a resource to help developers evaluate and use Flutter. It is a collection of Material Design & Cupertino widgets, behaviors, and vignettes implemented with Flutter. We often get asked how one can see Flutter in action, and this gallery demonstrates what Flutter provides and how it behaves in the wild.
-- ![](https://img.shields.io/github/stars/diegoveloper/flutter-samples?style=social)  [flutter-samples](https://github.com/diegoveloper/flutter-samples)
+- ![](https://img.shields.io/github/stars/diegoveloper/flutter-samples?style=social) [flutter-samples](https://github.com/diegoveloper/flutter-samples)
+- ![](https://img.shields.io/github/stars/bdlukaa/fluent_ui?style=social) [fluent_ui](https://github.com/bdlukaa/fluent_ui) - Unofficial implementation of Fluent UI for Flutter. It's written based on the official documentation
 
 ## Add Flutter to existing app
 
