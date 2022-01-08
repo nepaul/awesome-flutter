@@ -35,7 +35,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
     - [Calendars](#calendars)
     - [Clippers](#clippers)
     - [Images](#images)
-    - [List](#list)
+    - [List & Grid](#list--grid)
     - [Steps & Timelines](#steps--timelines)
     - [Effect](#effect)
   - [Plugins](#plugins)
@@ -214,8 +214,9 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 
 - ![](https://img.shields.io/github/stars/dnfield/flutter_svg?style=social)  [flutter_svg](https://github.com/dnfield/flutter_svg): Draw SVG (and some Android VectorDrawable (XML)) files on a Flutter Widget.
 
-### List
+### List & Grid
 
+- ![](https://img.shields.io/github/stars/letsar/flutter_staggered_grid_view?style=social) [flutter_staggered_grid_view](https://github.com/letsar/flutter_staggered_grid_view) - Provides a collection of Flutter grids layouts. This package contains various grid layouts. In the following section, you'll discover each one of them. The explanation of the layout will always considered a top-to-bottom and left-to-right directions to simplify the description. However it is possible to change these directions in the code.
 - ![](https://img.shields.io/github/stars/fluttercommunity/flutter_infinite_listview?style=social) [flutter_infinite_listview](https://github.com/fluttercommunity/flutter_infinite_listview): ListView with items that can be scrolled infinitely in both directions.
 - ![](https://img.shields.io/github/stars/marcglasberg/indexed_list_view?style=social) [indexed_list_view](https://github.com/marcglasberg/indexed_list_view): Similar to a ListView, but lets you programmatically jump to any item, by index. The index jump happens instantly, no matter if you have millions of items.
 
