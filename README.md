@@ -245,7 +245,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 - ![](https://img.shields.io/github/stars/fluttercommunity/flutter_downloader?style=social) [flutter_downloader](https://github.com/fluttercommunity/flutter_downloader): A plugin for creating and managing download tasks. Supports iOS and Android.
 
   This plugin is based on WorkManager in Android and NSURLSessionDownloadTask in iOS to run download task in background mode.
-
+- ![](https://img.shields.io/github/stars/creativecreatorormaybenot/wakelock?style=social) [Wakelock](https://github.com/creativecreatorormaybenot/wakelock) - Wakelock is Flutter plugin that allows you to keep the device screen awake, i.e. prevent the screen from sleeping.
 - ![](https://img.shields.io/github/stars/fluttercommunity/flutter_uploader?style=social) [flutter_uploader](https://github.com/fluttercommunity/flutter_uploader): A plugin for creating and managing upload tasks. Supports iOS and Android.
   
   This plugin is based on WorkManager in Android and NSURLSessionUploadTask in iOS to run upload task in background mode.
