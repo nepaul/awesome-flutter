@@ -50,7 +50,8 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 
 ## Document
 
-- ![](https://img.shields.io/github/stars/olexale/flutter_roadmap?style=social)  [Flutter Roadmap](https://github.com/olexale/flutter_roadmap)
+- ![](https://img.shields.io/github/stars/olexale/flutter_roadmap?style=social) [Flutter Roadmap](https://github.com/olexale/flutter_roadmap)
+- ![](https://img.shields.io/github/stars/mkobuolys/flutter-design-patterns?style=social) [flutter-design-patterns](https://github.com/mkobuolys/flutter-design-patterns) - An open-source design patterns application built with Dart and Flutter.
 
 ## Style Guide
 
