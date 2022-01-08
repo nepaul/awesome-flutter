@@ -45,6 +45,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
     - [Lint & Format](#lint--format)
   - [Monitor](#monitor)
   - [Tools](#tools)
+    - [Docs](#docs)
   - [Apps](#apps)
 
 ## Document
@@ -299,6 +300,10 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 ## Tools
 
 - ![](https://img.shields.io/github/stars/aloisdeniel/flutter_device_preview?style=social) [Device Preview](https://github.com/aloisdeniel/flutter_device_preview) - Approximate how your app looks and performs on another device.
+
+### Docs
+
+- ![](https://img.shields.io/github/stars/glesica/dcdg.dart?style=social) [Dart Class Diagram Generator](https://github.com/glesica/dcdg.dart) - A small command line utility to generate a class (UML or similar) diagram from a Dart package.
 
 ## Apps
 
