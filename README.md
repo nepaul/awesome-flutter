@@ -201,7 +201,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 ### Datetime
 
 - ![](https://img.shields.io/github/stars/Realank/flutter_datetime_picker?style=social) [Flutter Datetime Picker](https://github.com/Realank/flutter_datetime_picker): A flutter date time picker inspired by flutter-cupertino-date-picker
-  
+
 ### Calendars
 
 - ![](https://img.shields.io/github/stars/aleksanderwozniak/table_calendar?style=social) [table_calendar](https://github.com/aleksanderwozniak/table_calendar): Highly customizable, feature-packed Flutter Calendar with gestures, animations and multiple formats
@@ -212,6 +212,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 
 ### Images
 
+- ![](https://img.shields.io/github/stars/fluttercandies/extended_image?style=social) [extended_image](https://github.com/fluttercandies/extended_image) - A powerful official extension library of image, which support placeholder(loading)/ failed state, cache network, zoom pan image, photo view, slide out page, editor(crop,rotate,flip), paint custom etc.
 - ![](https://img.shields.io/github/stars/dnfield/flutter_svg?style=social)  [flutter_svg](https://github.com/dnfield/flutter_svg): Draw SVG (and some Android VectorDrawable (XML)) files on a Flutter Widget.
 
 ### List & Grid
