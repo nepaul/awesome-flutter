@@ -252,6 +252,12 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 
   This plugin is inspired by flutter_downloader. Thanks to Hung Duy Ha & Flutter Community for great plugins and inspiration.
 
+**Plugins productivity**:
+
+- ![](https://img.shields.io/github/stars/dart-native/dart_native?style=social)  [Dart_Native](https://github.com/dart-native/dart_native) - Dart_Native operates as both a code generator tool and a bridge to communicate between Dart and native APIs.
+  
+  Replaces the low-performing Flutter channel with faster and more concise code
+
 ## Utils
 
 - ![](https://img.shields.io/github/stars/Sub6Resources/flutter_html?style=social) [flutter_html](https://github.com/Sub6Resources/flutter_html): A Flutter widget for rendering HTML and CSS as Flutter widgets.
