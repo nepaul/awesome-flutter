@@ -243,6 +243,10 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 
 ## Plugins
 
+- ![](https://img.shields.io/github/stars/FirebaseExtended/flutterfire?style=social) [FlutterFire](https://github.com/FirebaseExtended/flutterfire) - FlutterFire is a set of Flutter plugins that enable Flutter apps to use Firebase services. You can follow an example that shows how to use these plugins in the Firebase for Flutter codelab.
+
+  Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. Flutter is used by developers and organizations around the world, and is free and open source.
+
 - ![](https://img.shields.io/github/stars/fluttercommunity/flutter_downloader?style=social) [flutter_downloader](https://github.com/fluttercommunity/flutter_downloader): A plugin for creating and managing download tasks. Supports iOS and Android.
 
   This plugin is based on WorkManager in Android and NSURLSessionDownloadTask in iOS to run download task in background mode.
