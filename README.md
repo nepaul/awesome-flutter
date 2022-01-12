@@ -1,6 +1,6 @@
 # Awesome Flutter
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/dependencies-zero-green)
 
 All you should know about Flutter development!
 
@@ -28,7 +28,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
     - [Dialog](#dialog)
     - [Popup](#popup)
     - [Bar](#bar)
-    - [Charts](#charts)
+    - [Chart](#chart)
     - [Swipe & Slide & Indicator](#swipe--slide--indicator)
     - [Badges & Labels](#badges--labels)
     - [Datetime](#datetime)
@@ -184,9 +184,15 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 
 - ![](https://img.shields.io/github/stars/hacktons/convex_bottom_bar?style=social) [convex_bottom_bar](https://github.com/hacktons/convex_bottom_bar): The official BottomAppBar can only display a notch FAB with app bar, sometimes we need a convex FAB. This ConvexAppBar is inspired by BottomAppBar and NotchShape's implementation. Online example can be found at <https://appbar.codemagic.app>. convex_bottom_bar is now a **Flutter Favorite package**!
 
-### Charts
+### Chart
 
-- ![](https://img.shields.io/github/stars/hacktons/convex_bottom_bar?style=social) [fl_chart](https://github.com/imaNNeoFighT/fl_chart): A powerful Flutter chart library, currently supporting Line Chart, Bar Chart, Pie Chart and Scatter Chart.
+- ![](https://img.shields.io/github/stars/imaNNeoFighT/fl_chart?style=social) [fl_chart](https://github.com/imaNNeoFighT/fl_chart): A powerful Flutter chart library, currently supporting Line Chart, Bar Chart, Pie Chart and Scatter Chart.
+
+- ![](https://img.shields.io/github/stars/google/charts?style=social) [](https://github.com/google/charts) - Charts is a general charting library, currently enabled for the Flutter mobile UI framework.
+
+  See [the online gallery](https://google.github.io/charts/flutter/gallery.html) for supported chart types and examples of how to custom components of the chart.
+
+  Note: This is not an official Google product.
 
 ### Swipe & Slide & Indicator
 
