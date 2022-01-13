@@ -18,6 +18,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
   - [Navigation & Routing](#navigation--routing)
   - [Storage](#storage)
   - [Data & Backend](#data--backend)
+    - [Database](#database)
     - [Network](#network)
   - [State management](#state-management)
   - [Components](#components)
@@ -92,6 +93,28 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 - ![](https://img.shields.io/github/stars/realm/realm-dart?style=social) [Realm](https://github.com/realm/realm-dart): a mobile database that runs directly inside phones, tablets or wearables. This repository holds the source code for the Realm SDK for Flutter™ and Dart™.
 
 ## Data & Backend
+
+### Database
+
+- [hive](https://github.com/hivedb/hive) - Hive is a lightweight and blazing fast key-value database written in pure Dart. Inspired by Bitcask.
+
+  If you need queries, multi-isolate support or links between objects check out Isar Database.
+  Features
+  - 🚀 Cross platform: mobile, desktop, browser
+  - ⚡ Great performance (see benchmark)
+  - ❤️ Simple, powerful, & intuitive API
+  - 🔒 Strong encryption built in
+  - 🎈 NO native dependencies
+  - 🔋 Batteries included
+
+|                                         1000 read iterations                                         |                                    1000 write iterations                                    |
+| :--------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
+|         ![](https://raw.githubusercontent.com/hivedb/hive/master/.github/benchmark_read.png)         |    ![](https://raw.githubusercontent.com/hivedb/hive/master/.github/benchmark_write.png)    |
+| SharedPreferences is on par with Hive when it comes to read performance. SQLite performs much worse. | Hive greatly outperforms SQLite and SharedPreferences when it comes to writing or deleting. |
+
+  The benchmark was performed on a Oneplus 6T with Android Q. You can [run the benchmark yourself](https://github.com/hivedb/hive_benchmark).
+
+  Take this benchmark with a grain of salt. It is very hard to compare databases objectively since they were made for different purposes.
 
 ### Network
 
