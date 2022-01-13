@@ -48,6 +48,8 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
   - [Tools](#tools)
     - [Docs](#docs)
   - [Apps](#apps)
+  - [Contribution](#contribution)
+  - [License](#license)
 
 ## Document
 
@@ -388,3 +390,11 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 - ![](https://img.shields.io/github/stars/MDSADABWASIM/Toughest?style=social) [toughest](https://github.com/MDSADABWASIM/Toughest): Interview questions and answers for preparation, built in pure flutter also have CI implementation for learning.
 
 - ![](https://img.shields.io/github/stars/Blakexx/CryptoTracker?style=social) [Platypus Crypto](https://github.com/Blakexx/CryptoTracker): Platypus Crypto is an ad-free cross-platform robust solution for tracking cryptocurrency assets. Our intuitive interface includes real-time 7-day graphs, current prices and market caps, and percent change over time. Featuring rapid sort, search and refresh features, and support for 32 fiat currencies, Platypus Crypto enables casual and power users alike to monitor cryptocurrency assets on-the-go! Our customization options allow for the removal of 7-day graphs for a more compact feel and a dark theme.
+
+## Contribution
+
+Your contributions and suggestions are heartily welcome.
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
