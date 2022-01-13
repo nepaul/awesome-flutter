@@ -96,7 +96,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 
 ### Database
 
-- [hive](https://github.com/hivedb/hive) - Hive is a lightweight and blazing fast key-value database written in pure Dart. Inspired by Bitcask.
+- ![](https://img.shields.io/github/stars/hivedb/hive?style=social)  [hive](https://github.com/hivedb/hive) - Hive is a lightweight and blazing fast key-value database written in pure Dart. Inspired by Bitcask.
 
   If you need queries, multi-isolate support or links between objects check out Isar Database.
   Features
@@ -344,6 +344,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 ## Tools
 
 - ![](https://img.shields.io/github/stars/aloisdeniel/flutter_device_preview?style=social) [Device Preview](https://github.com/aloisdeniel/flutter_device_preview) - Approximate how your app looks and performs on another device.
+- ![](https://img.shields.io/github/stars/bytedance/flutter_ume?style=social) [flutter_ume](https://github.com/bytedance/flutter_ume) - UME is an in-app debug kits platform for Flutter apps**(Widget Info, Widget Detail, Align Ruler, Color Picker, Color Sucker, Touch Indicator, Memory Info, Perf Overlay, CPU Info, Device Info, Show Code, Console, Dio Inspector).**
 
 ### Docs
 
