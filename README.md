@@ -347,7 +347,11 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 
 - ![](https://img.shields.io/github/stars/aloisdeniel/flutter_device_preview?style=social) [Device Preview](https://github.com/aloisdeniel/flutter_device_preview) - Approximate how your app looks and performs on another device.
 - ![](https://img.shields.io/github/stars/rxlabz/panache?style=social) [panache](https://github.com/rxlabz/panache) - A Flutter Material Theme editor. Panache helps you to create beautiful Material themes for your Flutter applications. Customize widgets colors and shapes, and download your theme.dart file.
+
+**Debug**:
+
 - ![](https://img.shields.io/github/stars/bytedance/flutter_ume?style=social) [flutter_ume](https://github.com/bytedance/flutter_ume) - UME is an in-app debug kits platform for Flutter apps**(Widget Info, Widget Detail, Align Ruler, Color Picker, Color Sucker, Touch Indicator, Memory Info, Perf Overlay, CPU Info, Device Info, Show Code, Console, Dio Inspector).**
+- ![](https://img.shields.io/github/stars/leoafarias/fvm?style=social)  [fvm](https://github.com/leoafarias/fvm) - Flutter Version Management: A simple cli to manage Flutter SDK versions.
 
 ### Docs
 
