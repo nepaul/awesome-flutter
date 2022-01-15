@@ -18,7 +18,6 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
   - [Navigation & Routing](#navigation--routing)
   - [Storage](#storage)
   - [Data & Backend](#data--backend)
-    - [Database](#database)
     - [Network](#network)
   - [State management](#state-management)
   - [Components](#components)
@@ -92,12 +91,6 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 
 ## Storage
 
-- ![](https://img.shields.io/github/stars/realm/realm-dart?style=social) [Realm](https://github.com/realm/realm-dart): a mobile database that runs directly inside phones, tablets or wearables. This repository holds the source code for the Realm SDK for Flutter™ and Dart™.
-
-## Data & Backend
-
-### Database
-
 - ![](https://img.shields.io/github/stars/hivedb/hive?style=social)  [hive](https://github.com/hivedb/hive) - Hive is a lightweight and blazing fast key-value database written in pure Dart. Inspired by Bitcask.
 
   If you need queries, multi-isolate support or links between objects check out Isar Database.
@@ -117,6 +110,11 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
   The benchmark was performed on a Oneplus 6T with Android Q. You can [run the benchmark yourself](https://github.com/hivedb/hive_benchmark).
 
   Take this benchmark with a grain of salt. It is very hard to compare databases objectively since they were made for different purposes.
+
+- ![](https://img.shields.io/github/stars/realm/realm-dart?style=social) [Realm](https://github.com/realm/realm-dart): a mobile database that runs directly inside phones, tablets or wearables. This repository holds the source code for the Realm SDK for Flutter™ and Dart™.
+- ![](https://img.shields.io/github/stars/lesnitsky/flutter_localstorage?style=social) [flutter_localstorage](https://github.com/lesnitsky/flutter_localstorage) - Simple json file-based storage for flutter
+
+## Data & Backend
 
 ### Network
 
