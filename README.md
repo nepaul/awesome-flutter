@@ -16,10 +16,10 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
   - [Starter Samples](#starter-samples)
   - [Add Flutter to existing app](#add-flutter-to-existing-app)
   - [Navigation & Routing](#navigation--routing)
-  - [Storage](#storage)
   - [Data & Backend](#data--backend)
+    - [Storage](#storage)
+    - [State management](#state-management)
     - [Network](#network)
-  - [State management](#state-management)
   - [Components](#components)
     - [UI Kits](#ui-kits)
     - [Text](#text)
@@ -89,7 +89,9 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 - 💗🤔👀 ![](https://img.shields.io/github/stars/theyakka/fluro?style=social) [fluro](https://github.com/theyakka/fluro): The brightest, hippest, coolest router for Flutter.
 - <img width="24" alt="flutter_favorite_badge" src="https://user-images.githubusercontent.com/1112181/109502339-d11da080-7ad3-11eb-8324-e2aaba817f16.png">  ![](https://img.shields.io/github/stars/lejard-h/chopper?style=social)  [chopper](https://github.com/lejard-h/chopper): Chopper is an http client generator for Dart and Flutter using source_gen and inspired by Retrofit.
 
-## Storage
+## Data & Backend
+
+### Storage
 
 - ![](https://img.shields.io/github/stars/hivedb/hive?style=social)  [hive](https://github.com/hivedb/hive) - Hive is a lightweight and blazing fast key-value database written in pure Dart. Inspired by Bitcask.
 
@@ -102,25 +104,10 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
   - 🎈 NO native dependencies
   - 🔋 Batteries included
 
-|                                         1000 read iterations                                         |                                    1000 write iterations                                    |
-| :--------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
-|         ![](https://raw.githubusercontent.com/hivedb/hive/master/.github/benchmark_read.png)         |    ![](https://raw.githubusercontent.com/hivedb/hive/master/.github/benchmark_write.png)    |
-| SharedPreferences is on par with Hive when it comes to read performance. SQLite performs much worse. | Hive greatly outperforms SQLite and SharedPreferences when it comes to writing or deleting. |
-
-  The benchmark was performed on a Oneplus 6T with Android Q. You can [run the benchmark yourself](https://github.com/hivedb/hive_benchmark).
-
-  Take this benchmark with a grain of salt. It is very hard to compare databases objectively since they were made for different purposes.
-
 - ![](https://img.shields.io/github/stars/realm/realm-dart?style=social) [Realm](https://github.com/realm/realm-dart): a mobile database that runs directly inside phones, tablets or wearables. This repository holds the source code for the Realm SDK for Flutter™ and Dart™.
 - ![](https://img.shields.io/github/stars/lesnitsky/flutter_localstorage?style=social) [flutter_localstorage](https://github.com/lesnitsky/flutter_localstorage) - Simple json file-based storage for flutter
 
-## Data & Backend
-
-### Network
-
-- ![](https://img.shields.io/github/stars/flutterchina/dio?style=social) [dio](https://github.com/flutterchina/dio): A powerful Http client for Dart, which supports Interceptors, Global configuration, FormData, Request Cancellation, File downloading, Timeout etc.
-
-## State management
+### State management
 
 - ![](https://img.shields.io/github/stars/felangel/bloc?style=social) [felangel/bloc](https://github.com/felangel/bloc): A predictable state management library that helps implement the [BLoC design pattern](https://www.didierboelens.com/2018/08/reactive-programming-streams-bloc/).
 - ![](https://img.shields.io/github/stars/alibaba/fish-redux?style=social) [alibaba/fish-redux](https://github.com/alibaba/fish-redux): is an assembled flutter application framework based on Redux state management. It is suitable for building medium and large applications.
@@ -142,6 +129,10 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
   - increased scalability for classes with a listening mechanism that grows exponentially in complexity (such as ChangeNotifier, which is O(N) for dispatching notifications).
 
 - ![](https://img.shields.io/github/stars/brianegan/scoped_model?style=social) [scoped_model](https://github.com/brianegan/scoped_model): A set of utilities that allow you to easily pass a data Model from a parent Widget down to its descendants. In addition, it also rebuilds all of the children that use the model when the model is updated. This library was originally extracted from the Fuchsia codebase.
+
+### Network
+
+- ![](https://img.shields.io/github/stars/flutterchina/dio?style=social) [dio](https://github.com/flutterchina/dio): A powerful Http client for Dart, which supports Interceptors, Global configuration, FormData, Request Cancellation, File downloading, Timeout etc.
 
 ## Components
 
