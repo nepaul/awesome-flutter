@@ -25,7 +25,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
     - [Text](#text)
     - [Icon](#icon)
     - [Toast & Loading & Refresh](#toast--loading--refresh)
-    - [Dialog](#dialog)
+    - [Dialog & Alert](#dialog--alert)
     - [Popup](#popup)
     - [Bar](#bar)
     - [Chart](#chart)
@@ -77,7 +77,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 - ![](https://img.shields.io/github/stars/flutter/gallery?style=social) [Flutter Gallery](https://github.com/flutter/gallery) s a resource to help developers evaluate and use Flutter. It is a collection of Material Design & Cupertino widgets, behaviors, and vignettes implemented with Flutter. We often get asked how one can see Flutter in action, and this gallery demonstrates what Flutter provides and how it behaves in the wild.
 - ![](https://img.shields.io/github/stars/diegoveloper/flutter-samples?style=social) [flutter-samples](https://github.com/diegoveloper/flutter-samples)
 - ![](https://img.shields.io/github/stars/syncfusion/flutter-examples?style=social) [syncfusion/flutter-examples](https://github.com/syncfusion/flutter-examples) - This repository contains awesome demos of Syncfusion Flutter UI widgets. This is the best place to check our widgets to get more insight into the usage of APIs. You can also check our widgets by installing the complete Flutter sample browser from Google Play Store or App Store, in which you can browse the demo for all the widgets and view the source code of each sample within the app itself.
-- 💗[google/flutter.widgets](https://github.com/google/flutter.widgets) - This repository contains the source code for various Flutter widgets that are developed by Google but not by the core Flutter team.
+- ![](https://img.shields.io/github/stars/google/flutter.widgets?style=social) 💗[google/flutter.widgets](https://github.com/google/flutter.widgets) - This repository contains the source code for various Flutter widgets that are developed by Google but not by the core Flutter team.
   - [visibility_detector](https://github.com/google/flutter.widgets/blob/master/packages/visibility_detector/README.md)
   - [self_storing_input](https://github.com/google/flutter.widgets/blob/master/packages/self_storing_input/README.md) - A set of input widgets that automatically save and load the entered value to a data store.
   - [scrollable_positioned_list](https://github.com/google/flutter.widgets/blob/master/packages/scrollable_positioned_list/README.md) - A flutter list that allows scrolling to a specific item in the list. Also allows determining what items are currently visible.
@@ -190,13 +190,15 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 - ![](https://img.shields.io/github/stars/appdev/FlutterToast?style=social) [FlutterToast](https://github.com/appdev/FlutterToast)
 - ![](https://img.shields.io/github/stars/bytedance/pull_to_refresh?style=social) [bytedance pull_to_refresh](https://github.com/bytedance/pull_to_refresh): A widget that provided to pull-up load and pull-down refresh with Flutter.
 
-### Dialog
+### Dialog & Alert
 
 - ![](https://img.shields.io/github/stars/YYFlutter/flutter-custom-dialog?style=social)  [flutter-custom-dialog](https://github.com/YYFlutter/flutter-custom-dialog): Global dialog function encapsulation, with a semantic way to fill the content inside the dialog, the current function provided
   1. Support for a few semantic component methods to populate the component content inside dialog
   1. Support for customizing semantic components for developers to freely populate component content inside dialog
   1. Support setting dialog background color, foreground color, position, animation, click the external disappear and other functions, see the details below
   1. Support no Context call dialog, see below
+
+- ![](https://img.shields.io/github/stars/RatelHub/rflutter_alert?style=social) [rflutter_alert](https://github.com/RatelHub/rflutter_alert) - RFlutter Alert is super customizable and easy-to-use alert/popup dialogs for Flutter. You may create reusable alert styles or add buttons as much as you want with ease.
 
 ### Popup
 
