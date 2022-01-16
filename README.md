@@ -1,10 +1,16 @@
 # Awesome Flutter
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/dependencies-zero-green)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+![](https://img.shields.io/badge/dependencies-zero-green)
+[![Last Commits](https://img.shields.io/github/last-commit/nepaul/awesome-flutter?logo=git&logoColor=white)](https://github.com/nepaul/awesome-flutter/commits/master)
+[![Pull Requests](https://img.shields.io/github/issues-pr/nepaul/awesome-flutter?logo=github&logoColor=white)](https://github.com/nepaul/awesome-flutter/pulls)
+[![Code size](https://img.shields.io/github/languages/code-size/nepaul/awesome-flutter?logo=github&logoColor=white)](https://github.com/nepaul/awesome-flutter)
 
 All you should know about Flutter development!
 
 A curated list of awesome Flutter libraries, tools, tutorials, articles and more..
+
+**Show some ❤️ and star the repo to support the project**
 
 # Table of Contents
 
@@ -350,6 +356,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 
 - ![](https://img.shields.io/github/stars/bytedance/flutter_ume?style=social) [flutter_ume](https://github.com/bytedance/flutter_ume) - UME is an in-app debug kits platform for Flutter apps**(Widget Info, Widget Detail, Align Ruler, Color Picker, Color Sucker, Touch Indicator, Memory Info, Perf Overlay, CPU Info, Device Info, Show Code, Console, Dio Inspector).**
 - ![](https://img.shields.io/github/stars/leoafarias/fvm?style=social)  [fvm](https://github.com/leoafarias/fvm) - Flutter Version Management: A simple cli to manage Flutter SDK versions.
+- ![](https://img.shields.io/github/stars/nepaul/awesome-flutter?style=social)[logger](https://github.com/nepaul/awesome-flutter) - Small, easy to use and extensible logger which prints beautiful logs. Inspired by logger for Android.
 
 ### Docs
 
