@@ -104,6 +104,8 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 
 ## Data & Backend
 
+- ![](https://img.shields.io/github/stars/k-paxian/dart-json-mapper?style=social) [dart_json_mapper](https://github.com/k-paxian/dart-json-mapper) - This package allows programmers to annotate Dart objects in order to Serialize / Deserialize them to / from JSON.
+
 ### Storage
 
 - ![](https://img.shields.io/github/stars/hivedb/hive?style=social)  [hive](https://github.com/hivedb/hive) - Hive is a lightweight and blazing fast key-value database written in pure Dart. Inspired by Bitcask.
