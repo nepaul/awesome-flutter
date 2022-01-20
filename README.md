@@ -119,6 +119,15 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
   - 🔒 Strong encryption built in
   - 🎈 NO native dependencies
   - 🔋 Batteries included
+- ![Isar Database](https://github.com/isar/isar)
+  - 💙 Made for Flutter. Easy to use, no config, no boilerplate
+  - 🚀 Highly scalable from hundreds to hundreds of thousands of records
+  - 🍭 Feature rich. Composite & multi indexes, query modifiers, JSON support and more
+  - 🔎 Full-text search. Make searching fast and fun
+  - 📱 Multiplatform. iOS, Android, Desktop and the web (soon™)
+  - 🧪 ACID semantics. Rely on consistency
+  - ⏱ Asynchronous. Parallel query operations & multi-isolate support
+  - 💃 Static typing. Compile-time checked and autocompleted queries
 
 - ![](https://img.shields.io/github/stars/realm/realm-dart?style=social) [Realm](https://github.com/realm/realm-dart): a mobile database that runs directly inside phones, tablets or wearables. This repository holds the source code for the Realm SDK for Flutter™ and Dart™.
 - ![](https://img.shields.io/github/stars/lesnitsky/flutter_localstorage?style=social) [flutter_localstorage](https://github.com/lesnitsky/flutter_localstorage) - Simple json file-based storage for flutter
