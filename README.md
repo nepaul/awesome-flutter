@@ -143,6 +143,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
   - Predictable state container
   - Pluggable componentization
   - Non-destructive performance
+- ![](https://img.shields.io/github/stars/jonataslaw/getx?style=social) [getx](https://github.com/jonataslaw/getx) - GetX is an extra-light and powerful solution for Flutter. It combines high-performance state management, intelligent dependency injection, and route management quickly and practically. GetX has 3 basic principles. This means that these are the priority for all resources in the library: PRODUCTIVITY, PERFORMANCE AND ORGANIZATION.
 - <img width="24" alt="flutter_favorite_badge" src="https://user-images.githubusercontent.com/1112181/109502339-d11da080-7ad3-11eb-8324-e2aaba817f16.png"> ![](https://img.shields.io/github/stars/rrousselGit/provider?style=social) [provider](https://github.com/rrousselGit/provider) - A wrapper around InheritedWidget to make them easier to use and more reusable.
   
   By using provider instead of manually writing InheritedWidget, you get:
