@@ -102,6 +102,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 
 - 💗🤔👀 ![](https://img.shields.io/github/stars/theyakka/fluro?style=social) [fluro](https://github.com/theyakka/fluro): The brightest, hippest, coolest router for Flutter.
 - <img width="24" alt="flutter_favorite_badge" src="https://user-images.githubusercontent.com/1112181/109502339-d11da080-7ad3-11eb-8324-e2aaba817f16.png">  ![](https://img.shields.io/github/stars/lejard-h/chopper?style=social)  [chopper](https://github.com/lejard-h/chopper): Chopper is an http client generator for Dart and Flutter using source_gen and inspired by Retrofit.
+- ![](https://img.shields.io/github/stars/felangel/flow_builder?style=social [flow_builder](https://github.com/felangel/flow_builder) - Flutter Flows made easy!
 
 ## Data & Backend
 
