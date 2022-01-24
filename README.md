@@ -335,6 +335,10 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
   - Flutter friendly
   - State management libraries friendly (Mobx example included)
 
+**Screen**
+
+- ![](https://img.shields.io/github/stars/xamantra/relative_scale?style=social)[relative_scale](https://github.com/xamantra/relative_scale) - RelativeScale is a simple custom sizing system for flutter widgets to achieve the same physical sizes across different devices.
+
 ## Games
 
 - ![](https://img.shields.io/github/stars/flame-engine/flame?style=social) [flame](https://github.com/flame-engine/flame): A minimalist Flutter game engine
