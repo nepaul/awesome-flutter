@@ -28,6 +28,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
     - [Network](#network)
   - [Components](#components)
     - [UI Kits](#ui-kits)
+    - [Color](#color)
     - [Text](#text)
     - [Icon](#icon)
     - [Toast & Loading & Refresh](#toast--loading--refresh)
@@ -172,6 +173,14 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 - ![](https://img.shields.io/github/stars/nb312/flutter-ui-nice?style=social) [flutter-ui-nice](https://github.com/nb312/flutter-ui-nice)
 - ![](https://img.shields.io/github/stars/ionicfirebaseapp/getwidget?style=social) [getwidget](https://github.com/ionicfirebaseapp/getwidget): Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app.
 - ![](https://img.shields.io/github/stars/Rannie/flui?style=social) [flui](https://github.com/Rannie/flui): A powerful UI framework for Google Flutter. <https://www.flui.xin/en/>
+
+### Color
+
+- ![](https://img.shields.io/github/stars/bregydoc/pigment?style=social) [pigment](https://github.com/bregydoc/pigment) - A simple but useful plugin for use colors with Flutter.
+  - You can use string colors (like #01E19F) direct in flutter
+  - Pigment extends to Color dar:ui class, then you can use all methods of Color class
+  - Pigment 1.0.1 can parse 'rgb()' (e.g. 'rgb(29, 123, 10)').
+  - Added CSS colors with default name, you can access from this with CSSColor.* (e.g. Pigment.fromCSSColor(CSSColor.lightsalmon)) or directly with Pigment.fromString('lightsalmon').
 
 ### Text
 
