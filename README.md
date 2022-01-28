@@ -109,6 +109,13 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 
 ## Data & Backend
 
+- ![](https://img.shields.io/github/stars/ReactiveX/rxdart?style=social) [RxDart](https://github.com/ReactiveX/rxdart) - RxDart extends the capabilities of Dart Streams and StreamControllers.
+
+  Dart comes with a very decent Streams API out-of-the-box; rather than attempting to provide an alternative to this API, RxDart adds functionality from the reactive extensions specification on top of it.
+
+  RxDart does not provide its Observable class as a replacement for Dart Streams. Instead, it offers several additional Stream classes, operators (extension methods on the Stream class), and Subjects.
+
+  If you are familiar with Observables from other languages, please see the [Rx Observables vs. Dart Streams comparison chart](https://github.com/ReactiveX/rxdart#rx-observables-vs-dart-streams) for notable distinctions between the two.
 - ![](https://img.shields.io/github/stars/k-paxian/dart-json-mapper?style=social) [dart_json_mapper](https://github.com/k-paxian/dart-json-mapper) - This package allows programmers to annotate Dart objects in order to Serialize / Deserialize them to / from JSON.
 
 ### Storage
