@@ -45,6 +45,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
     - [List & Grid](#list--grid)
     - [Form](#form)
     - [Steps & Timelines](#steps--timelines)
+    - [Progress](#progress)
     - [Effect](#effect)
   - [Plugins](#plugins)
   - [Utils](#utils)
@@ -298,6 +299,20 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 ### Steps & Timelines
 
 - ![](https://img.shields.io/github/stars/chulwoo-park/timelines?style=social) [timelines](https://github.com/chulwoo-park/timelines/): A powerful & easy to use timeline package for Flutter! (This package is an early stage. Not enough testing has been done to guarantee stability. Some APIs may change. 2021-12-29)
+
+### Progress
+
+- ![](https://img.shields.io/github/stars/diegoveloper/flutter_percent_indicator?style=social) [flutter_percent_indicator](https://github.com/diegoveloper/flutter_percent_indicator) - Circular and Linear percent indicators:
+  - Circle percent indicator
+  - Linear percent indicator
+  - Toggle animation
+  - Custom duration of the animation
+  - Progress based on a percentage value
+  - Progress and background color
+  - Custom size
+  - Left , right or center child for Linear percent indicator
+  - Top, bottom or center child for Circular percent indicator
+  - Progress Color using gradients
 
 ### Effect
 
