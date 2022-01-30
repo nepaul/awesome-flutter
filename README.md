@@ -376,6 +376,12 @@ Because the keyboard that Android / iOS offers us specifically when we are in nu
 
 - ![](https://img.shields.io/github/stars/xamantra/relative_scale?style=social)[relative_scale](https://github.com/xamantra/relative_scale) - RelativeScale is a simple custom sizing system for flutter widgets to achieve the same physical sizes across different devices.
 
+**Code generator**
+
+- ![](https://img.shields.io/github/stars/FlutterGen/flutter_gen?style=social) [flutter_gen](https://github.com/FlutterGen/flutter_gen) - The Flutter code generator for your assets, fonts, colors, … — Get rid of all String-based APIs.
+
+Inspired by [SwiftGen](https://github.com/SwiftGen/SwiftGen).
+
 ## Games
 
 - ![](https://img.shields.io/github/stars/flame-engine/flame?style=social) [flame](https://github.com/flame-engine/flame): A minimalist Flutter game engine
