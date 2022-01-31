@@ -379,7 +379,7 @@ Because the keyboard that Android / iOS offers us specifically when we are in nu
 **Code generator**
 
 - ![](https://img.shields.io/github/stars/FlutterGen/flutter_gen?style=social) [flutter_gen](https://github.com/FlutterGen/flutter_gen) - The Flutter code generator for your assets, fonts, colors, … — Get rid of all String-based APIs.
-  
+
   Inspired by [SwiftGen](https://github.com/SwiftGen/SwiftGen).
 - ![](https://img.shields.io/github/stars/flutter/packages?style=social) [Flutter Official packages pigeon](https://github.com/flutter/packages/tree/master/packages/pigeon) - Pigeon is a code generator tool to make communication between Flutter and the host platform type-safe, easier and faster.
 
@@ -420,6 +420,10 @@ Because the keyboard that Android / iOS offers us specifically when we are in nu
 
 - ![](https://img.shields.io/github/stars/aloisdeniel/flutter_device_preview?style=social) [Device Preview](https://github.com/aloisdeniel/flutter_device_preview) - Approximate how your app looks and performs on another device.
 - ![](https://img.shields.io/github/stars/rxlabz/panache?style=social) [panache](https://github.com/rxlabz/panache) - A Flutter Material Theme editor. Panache helps you to create beautiful Material themes for your Flutter applications. Customize widgets colors and shapes, and download your theme.dart file.
+- [fvm](https://github.com/befovy/fvm/) - Flutter Version Management: A simple cli to manage Flutter SDK versions.
+  - Configure Flutter SDK version per project or globally
+  - Ability to install and cache multiple Flutter SDK Versions
+  - Easily switch between Flutter channels & versions
 
 **Debug**:
 
