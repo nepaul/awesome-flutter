@@ -379,8 +379,9 @@ Because the keyboard that Android / iOS offers us specifically when we are in nu
 **Code generator**
 
 - ![](https://img.shields.io/github/stars/FlutterGen/flutter_gen?style=social) [flutter_gen](https://github.com/FlutterGen/flutter_gen) - The Flutter code generator for your assets, fonts, colors, … — Get rid of all String-based APIs.
-
-Inspired by [SwiftGen](https://github.com/SwiftGen/SwiftGen).
+  
+  Inspired by [SwiftGen](https://github.com/SwiftGen/SwiftGen).
+- ![](https://img.shields.io/github/stars/flutter/packages?style=social) [Flutter Official packages pigeon](https://github.com/flutter/packages/tree/master/packages/pigeon) - Pigeon is a code generator tool to make communication between Flutter and the host platform type-safe, easier and faster.
 
 ## Games
 
