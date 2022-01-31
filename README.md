@@ -287,6 +287,16 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 ### List & Grid
 
 - ![](https://img.shields.io/github/stars/letsar/flutter_staggered_grid_view?style=social) [flutter_staggered_grid_view](https://github.com/letsar/flutter_staggered_grid_view) - Provides a collection of Flutter grids layouts. This package contains various grid layouts. In the following section, you'll discover each one of them. The explanation of the layout will always considered a top-to-bottom and left-to-right directions to simplify the description. However it is possible to change these directions in the code.
+- [flutterchina/azlistview](https://github.com/flutterchina/azlistview) - A Flutter sticky headers & index ListView. Based on scrollable_positioned_list.
+AzListView, SuspensionView, IndexBar.
+Easy creation of city list or contact list interfaces.
+  - List items can be grouped A-Z.
+  - Sticky headers with floating option.
+  - Support custom header.
+  - Support index linkage.
+  - IndexBar supports custom styles.
+  - IndexBar supports local images.
+  - Allows scrolling to a specific item in the list.  -
 - ![](https://img.shields.io/github/stars/fluttercommunity/flutter_infinite_listview?style=social) [flutter_infinite_listview](https://github.com/fluttercommunity/flutter_infinite_listview): ListView with items that can be scrolled infinitely in both directions.
 - ![](https://img.shields.io/github/stars/marcglasberg/indexed_list_view?style=social) [indexed_list_view](https://github.com/marcglasberg/indexed_list_view): Similar to a ListView, but lets you programmatically jump to any item, by index. The index jump happens instantly, no matter if you have millions of items.
 
