@@ -392,6 +392,11 @@ Because the keyboard that Android / iOS offers us specifically when we are in nu
 
   Inspired by [SwiftGen](https://github.com/SwiftGen/SwiftGen).
 - ![](https://img.shields.io/github/stars/flutter/packages?style=social) [Flutter Official packages pigeon](https://github.com/flutter/packages/tree/master/packages/pigeon) - Pigeon is a code generator tool to make communication between Flutter and the host platform type-safe, easier and faster.
+- ![](https://img.shields.io/github/stars/dart-lang/source_gen?style=social) [dart-lang/source_gen](https://github.com/dart-lang/source_gen) - source_gen provides utilities for automated source code generation for Dart:
+  - A framework for writing Builders that consume and produce Dart code.
+  - A convention for human and tool generated Dart code to coexist with clean separation, and for multiple code generators to integrate in the same project.
+
+  Its main purpose is to expose a developer-friendly API on top of lower-level packages like the analyzer or build. You don't have to use source_gen in order to generate source code; we also expose a set of library APIs that might be useful in your generators.
 
 ## Games
 
