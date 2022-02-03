@@ -222,6 +222,9 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 - ![](https://img.shields.io/github/stars/jogboms/flutter_spinkit?style=social) [Flutter Spinkit](https://github.com/jogboms/flutter_spinkit): A collection of loading indicators animated with flutter. Heavily inspired by @tobiasahlin's SpinKit.
 - ![](https://img.shields.io/github/stars/peng8350/flutter_pulltorefresh?style=social) [flutter_pulltorefresh](https://github.com/peng8350/flutter_pulltorefresh): a widget provided to the flutter scroll component drop-down refresh and pull up load.support android and ios.
 - ![](https://img.shields.io/github/stars/ponnamkarthik/FlutterToast?style=social) [FlutterToast](https://github.com/ponnamkarthik/FlutterToast): this toast library supports two kinds of toast messages one which requires BuildContext other with No BuildContext(Powered by platform channel!). Supported Platforms: Android, iOS, Web (Uses Toastify-JS)
+
+- ![](https://img.shields.io/github/stars/aagarwal1012/Liquid-Pull-To-Refresh?style=social) [Liquid-Pull-To-Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) - A beautiful and custom refresh indicator for flutter highly inspired from [Ramotion Pull Down](https://dribbble.com/shots/1797373-Pull-Down-To-Refresh) to Refresh. Try out our live [example app](https://liquid-pull-to-refresh.web.app/#/).
+
 - ![](https://img.shields.io/github/stars/MMMzq/bot_toast?style=social) [💗 bot_toast](https://github.com/MMMzq/bot_toast): A really easy to use flutter toast library!
   - In the true sense of Toast, you can call it whenever you need it, without any restrictions!
   - Feature-rich, support for displaying notifications, text, loading, attachments, etc. Toast
