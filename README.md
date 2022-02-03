@@ -193,6 +193,8 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 ### Text
 
 - <img width="24" alt="flutter_favorite_badge" src="https://user-images.githubusercontent.com/1112181/109502339-d11da080-7ad3-11eb-8324-e2aaba817f16.png"> ![](https://img.shields.io/github/stars/leisim/auto_size_text?style=social)[AutoSizeText](https://github.com/leisim/auto_size_text) - Flutter widget that automatically resizes text to fit perfectly within its bounds.
+- <img width="24" alt="flutter_favorite_badge" src="https://user-images.githubusercontent.com/1112181/109502339-d11da080-7ad3-11eb-8324-e2aaba817f16.png"> ![](https://img.shields.io/github/stars/aagarwal1012/Animated-Text-Kit?style=social) [Animated-Text-Kit](https://github.com/aagarwal1012/Animated-Text-Kit) - A flutter package which contains a collection of some cool and awesome text animations. Recommended package for text animations in Codemagic's Ebook, "Flutter libraries we love". Try out our live [example app](https://animated-text-kit.web.app/#/).
+    ![](https://github.com/aagarwal1012/Animated-Text-Kit/raw/master/display/cover.gif?raw=true)
 - ![](https://img.shields.io/github/stars/bytedance/RealRichText?style=social) [RealRichText](https://github.com/bytedance/RealRichText): A Tricky Solution for Implementing Inline-Image-In-Text Feature in Flutter.
 
 ### Icon
