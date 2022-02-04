@@ -398,6 +398,24 @@ Because the keyboard that Android / iOS offers us specifically when we are in nu
 
   Inspired by [SwiftGen](https://github.com/SwiftGen/SwiftGen).
 - ![](https://img.shields.io/github/stars/flutter/packages?style=social) [Flutter Official packages pigeon](https://github.com/flutter/packages/tree/master/packages/pigeon) - Pigeon is a code generator tool to make communication between Flutter and the host platform type-safe, easier and faster.
+- [Dart Official Build](https://github.com/dart-lang/build) - These packages provide libraries for generating, compiling and serving Dart code.
+  - build: Defines the interfaces for creating a Builder which is a way of doing codegen that is compatible across build systems (pub, bazel, standalone runner).
+
+    For packages doing code generation this should generally be the only package against which there is a public dependency. Packages may have a dev_dependency on one or more of the other packages.
+
+  - build_config: Support for parsing build.yaml files. Used by build_runner.
+  - build_modules: Support for discovering the sub-modules within packages and creating summaries of those modules. Used by build_web_compilers but should not be used directly by most users.
+  - build_resolvers: An implementation of the Resolver interface to use the analyzer during build steps.
+  - build_runner: Provides utilities to enact builds and a way to automatically run builds based on configuration.
+
+    This package should generally be a dev_dependency as it is used to run standalone builds. The only exception would be wrapping the build and watch methods with some other package.
+  - build_test: Stub implementations for classes in Build and some utilities for running instances of builds and checking their outputs.
+
+    This package generally only be a dev_dependency as it introduces a dependency on package:test. The exception to that would be if you were creating another testing-only package that wraps this one.
+  - build_web_compilers: Provides the dart2js and dartdevc support for your package. To use this package you should add it as a dev_dependency.
+
+    If you are using the automated build scripts, your project will automatically start being compiled with dartdevc, and you can start developing with chrome without any configuration.
+
 - ![](https://img.shields.io/github/stars/dart-lang/source_gen?style=social) [dart-lang/source_gen](https://github.com/dart-lang/source_gen) - source_gen provides utilities for automated source code generation for Dart:
   - A framework for writing Builders that consume and produce Dart code.
   - A convention for human and tool generated Dart code to coexist with clean separation, and for multiple code generators to integrate in the same project.
