@@ -398,7 +398,7 @@ Because the keyboard that Android / iOS offers us specifically when we are in nu
 
   Inspired by [SwiftGen](https://github.com/SwiftGen/SwiftGen).
 - ![](https://img.shields.io/github/stars/flutter/packages?style=social) [Flutter Official packages pigeon](https://github.com/flutter/packages/tree/master/packages/pigeon) - Pigeon is a code generator tool to make communication between Flutter and the host platform type-safe, easier and faster.
-- [Dart Official Build](https://github.com/dart-lang/build) - These packages provide libraries for generating, compiling and serving Dart code.
+- ![](https://img.shields.io/github/stars/dart-lang/build?style=social) [Dart Official Build](https://github.com/dart-lang/build) - These packages provide libraries for generating, compiling and serving Dart code.
   - build: Defines the interfaces for creating a Builder which is a way of doing codegen that is compatible across build systems (pub, bazel, standalone runner).
 
     For packages doing code generation this should generally be the only package against which there is a public dependency. Packages may have a dev_dependency on one or more of the other packages.
