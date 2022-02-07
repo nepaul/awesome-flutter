@@ -252,6 +252,11 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 
 ### Picker
 
+- ![](https://img.shields.io/github/stars/fluttercandies/flutter_wechat_assets_picker?style=social) [wechat_assets_picker](https://github.com/fluttercandies/flutter_wechat_assets_picker) - An assets picker which based on the WeChat's UI, using photo_manager for asset implementation, extended_image for image preview, and provider to help control the state of the picker.
+
+  To take a photo or a video for assets, please check the detailed usage in the example, and head over to [wechat_camera_picker](https://pub.dev/packages/wechat_camera_picker).
+
+  All UI designs are based on WeChat 8.x, and it will be updated following the WeChat update in anytime.
 - ![](https://img.shields.io/github/stars/yangyxd/flutter_picker?style=social) [flutter_picker](https://github.com/yangyxd/flutter_picker) - Flutter plugin picker. Include NumberPicker, DateTimePicker, ArrayPicker, and default linkage Picker. Provide flexible parameters to meet various needs. At the same time, you can extend more functions through custom adapters.
 
 ### Bar
