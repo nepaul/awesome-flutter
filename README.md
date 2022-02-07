@@ -34,6 +34,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
     - [Toast & Loading & Refresh](#toast--loading--refresh)
     - [Dialog & Alert](#dialog--alert)
     - [Popup](#popup)
+    - [Picker](#picker)
     - [Bar](#bar)
     - [Chart](#chart)
     - [Switch](#switch)
@@ -248,6 +249,10 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 - ![](https://img.shields.io/github/stars/RatelHub/rflutter_alert?style=social) [rflutter_alert](https://github.com/RatelHub/rflutter_alert) - RFlutter Alert is super customizable and easy-to-use alert/popup dialogs for Flutter. You may create reusable alert styles or add buttons as much as you want with ease.
 
 ### Popup
+
+### Picker
+
+- ![](https://img.shields.io/github/stars/yangyxd/flutter_picker?style=social) [flutter_picker](https://github.com/yangyxd/flutter_picker) - Flutter plugin picker. Include NumberPicker, DateTimePicker, ArrayPicker, and default linkage Picker. Provide flexible parameters to meet various needs. At the same time, you can extend more functions through custom adapters.
 
 ### Bar
 
