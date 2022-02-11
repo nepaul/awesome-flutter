@@ -200,6 +200,8 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
     ![](https://github.com/aagarwal1012/Animated-Text-Kit/raw/master/display/cover.gif?raw=true)
 - ![](https://img.shields.io/github/stars/bytedance/RealRichText?style=social) [RealRichText](https://github.com/bytedance/RealRichText): A Tricky Solution for Implementing Inline-Image-In-Text Feature in Flutter.
 
+- ![](https://img.shields.io/github/stars/marcelgarus/marquee?style=social) [marquee](https://github.com/marcelgarus/marquee) - A Flutter widget that scrolls text infinitely. Provides many customizations including custom scroll directions, durations, curves as well as pauses after every round.
+
 ### Icon
 
 - ![](https://img.shields.io/github/stars/flutter-studio/flutter-icons?style=social) [flutter_icons](https://github.com/flutter-studio/flutter-icons): Customizable Icons for Flutter,Inspired by react-native-vector-icons.  
