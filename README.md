@@ -397,10 +397,29 @@ Because the keyboard that Android / iOS offers us specifically when we are in nu
 ## Utils
 
 - ![](https://img.shields.io/github/stars/Sub6Resources/flutter_html?style=social) [flutter_html](https://github.com/Sub6Resources/flutter_html): A Flutter widget for rendering HTML and CSS as Flutter widgets.
+
 - ![](https://img.shields.io/github/stars/google/quiver-dart?style=social) [google/quiver-dart](https://github.com/google/quiver-dart): Quiver is a set of utility libraries for Dart that makes using many Dart libraries easier and more convenient, or adds additional functionality. [👉 API Doc](https://pub.dev/documentation/quiver/latest/)
+
 - ![](https://img.shields.io/github/stars/flutterchina/lpinyin?style=social) [lpinyin](https://github.com/flutterchina/lpinyin): 汉字转拼音
 - ❗️GOOGLE❗️ ![](https://img.shields.io/github/stars/google/reflectable.dart?style=social) [reflectable.dart](https://github.com/google/reflectable.dart) - This repository provides the Dart package reflectable along with a set of test cases, test_reflectable.
+
+- [Screenshots](https://github.com/mmcc007/screenshots) - A screenshot image with overlaid status bar placed in a device frame. Screenshots is a standalone command line utility and package for capturing screenshot images for Flutter.
+
+  Screenshots will start the required android emulators and iOS simulators (or find attached devices), run tests, process the captured screenshots, and drop them off to Fastlane for delivery to both stores.
+
+  Screenshots is inspired by three tools from Fastlane:
+
+  1. [Snapshots](https://docs.fastlane.tools/getting-started/ios/screenshots/)
+  This is used to capture screenshots on iOS using iOS UI Tests.
+  2. [Screengrab](https://docs.fastlane.tools/actions/screengrab/)
+  This captures screenshots on android using Android Espresso tests.
+  3. [FrameIt](https://docs.fastlane.tools/actions/frameit/)
+  This is used to place captured iOS screenshots in a device frame.
+
+  Since all three of these Fastlane tools do not work with Flutter, Screenshots combines key features of these Fastlane tools into one tool.
+
 - ![](https://img.shields.io/github/stars/Ephenodrom/Dart-Basic-Utils?style=social) [Dart-Basic-Utils](https://github.com/Ephenodrom/Dart-Basic-Utils): A dart package for many helper methods fitting different situations. String, Domain, Email, Math, HTTP, DNS, Sort, Color, Date, Iterable, Crypto, ASN1, FunctionDefs, X509....
+
 - ![](https://img.shields.io/github/stars/ganeshrvel/pub-rules?style=social)[Rules](https://github.com/ganeshrvel/pub-rules) - Powerful and feature-rich validation library for both Dart and Flutter.
   - Highly flexible
   - Easy to understand
