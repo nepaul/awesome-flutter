@@ -380,7 +380,7 @@ Because the keyboard that Android / iOS offers us specifically when we are in nu
 
 - ![](https://img.shields.io/github/stars/creativecreatorormaybenot/wakelock?style=social) [Wakelock](https://github.com/creativecreatorormaybenot/wakelock) - Wakelock is Flutter plugin that allows you to keep the device screen awake, i.e. prevent the screen from sleeping.
 - ![](https://img.shields.io/github/stars/fluttercommunity/flutter_uploader?style=social) [flutter_uploader](https://github.com/fluttercommunity/flutter_uploader): A plugin for creating and managing upload tasks. Supports iOS and Android.
-  
+
   This plugin is based on WorkManager in Android and NSURLSessionUploadTask in iOS to run upload task in background mode.
 
   This plugin is inspired by flutter_downloader. Thanks to Hung Duy Ha & Flutter Community for great plugins and inspiration.
@@ -388,7 +388,7 @@ Because the keyboard that Android / iOS offers us specifically when we are in nu
 **Plugins productivity**:
 
 - ![](https://img.shields.io/github/stars/dart-native/dart_native?style=social)  [Dart_Native](https://github.com/dart-native/dart_native) - Dart_Native operates as both a code generator tool and a bridge to communicate between Dart and native APIs.
-  
+
   Replaces the low-performing Flutter channel with faster and more concise code
 
 ## Utils
@@ -413,10 +413,14 @@ Because the keyboard that Android / iOS offers us specifically when we are in nu
 
 **Code generator**
 
+- <img width="24" alt="flutter_favorite_badge" src="https://user-images.githubusercontent.com/1112181/109502339-d11da080-7ad3-11eb-8324-e2aaba817f16.png"> [pigeon](https://github.com/flutter/packages/tree/master/packages/pigeon) - Pigeon is a code generator tool to make communication between Flutter and the host platform type-safe, easier and faster.
+
+- ![](https://img.shields.io/github/stars/flutter/packages?style=social) [Flutter Official packages pigeon](https://github.com/flutter/packages/tree/master/packages/pigeon) - Pigeon is a code generator tool to make communication between Flutter and the host platform type-safe, easier and faster.
+
 - ![](https://img.shields.io/github/stars/FlutterGen/flutter_gen?style=social) [flutter_gen](https://github.com/FlutterGen/flutter_gen) - The Flutter code generator for your assets, fonts, colors, … — Get rid of all String-based APIs.
 
   Inspired by [SwiftGen](https://github.com/SwiftGen/SwiftGen).
-- ![](https://img.shields.io/github/stars/flutter/packages?style=social) [Flutter Official packages pigeon](https://github.com/flutter/packages/tree/master/packages/pigeon) - Pigeon is a code generator tool to make communication between Flutter and the host platform type-safe, easier and faster.
+
 - ![](https://img.shields.io/github/stars/dart-lang/build?style=social) [Dart Official Build](https://github.com/dart-lang/build) - These packages provide libraries for generating, compiling and serving Dart code.
   - build: Defines the interfaces for creating a Builder which is a way of doing codegen that is compatible across build systems (pub, bazel, standalone runner).
 
