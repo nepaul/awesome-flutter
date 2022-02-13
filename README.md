@@ -173,6 +173,11 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
   - devtool friendly – using Provider, the state of your application will be visible in the Flutter devtool
   - a common way to consume these InheritedWidgets (See Provider.of/Consumer/Selector)
   - increased scalability for classes with a listening mechanism that grows exponentially in complexity (such as ChangeNotifier, which is O(N) for dispatching notifications).
+- <img width="24" alt="flutter_favorite_badge" src="https://user-images.githubusercontent.com/1112181/109502339-d11da080-7ad3-11eb-8324-e2aaba817f16.png"> ![](https://img.shields.io/github/stars/mobxjs/mobx.dart?style=social)  [mobx](https://github.com/mobxjs/mobx.dart) - MobX is a state-management library that makes it simple to connect the reactive data of your application with the UI. This wiring is completely automatic and feels very natural. As the application-developer, you focus purely on what reactive-data needs to be consumed in the UI (and elsewhere) without worrying about keeping the two in sync.
+
+  It's not really magic but it does have some smarts around what is being consumed (observables) and where (reactions), and automatically tracks it for you. When the observables change, all reactions are re-run. What's interesting is that these reactions can be anything from a simple console log, a network call to re-rendering the UI.
+
+  > MobX has been a very effective library for the JavaScript apps and this port to the Dart language aims to bring the same levels of productivity.
 
 - ![](https://img.shields.io/github/stars/brianegan/scoped_model?style=social) [scoped_model](https://github.com/brianegan/scoped_model): A set of utilities that allow you to easily pass a data Model from a parent Widget down to its descendants. In addition, it also rebuilds all of the children that use the model when the model is updated. This library was originally extracted from the Fuchsia codebase.
 
