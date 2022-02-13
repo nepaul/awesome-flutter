@@ -420,9 +420,6 @@ Because the keyboard that Android / iOS offers us specifically when we are in nu
   This is used to place captured iOS screenshots in a device frame.
 
   Since all three of these Fastlane tools do not work with Flutter, Screenshots combines key features of these Fastlane tools into one tool.
-
-- ![](https://img.shields.io/github/stars/Ephenodrom/Dart-Basic-Utils?style=social) [Dart-Basic-Utils](https://github.com/Ephenodrom/Dart-Basic-Utils): A dart package for many helper methods fitting different situations. String, Domain, Email, Math, HTTP, DNS, Sort, Color, Date, Iterable, Crypto, ASN1, FunctionDefs, X509....
-
 - ![](https://img.shields.io/github/stars/ganeshrvel/pub-rules?style=social)[Rules](https://github.com/ganeshrvel/pub-rules) - Powerful and feature-rich validation library for both Dart and Flutter.
   - Highly flexible
   - Easy to understand
@@ -431,6 +428,11 @@ Because the keyboard that Android / iOS offers us specifically when we are in nu
   - Override individual errors
   - Flutter friendly
   - State management libraries friendly (Mobx example included)
+
+**Dart Extend**:
+
+- ![](https://img.shields.io/github/stars/Ephenodrom/Dart-Basic-Utils?style=social) [Dart-Basic-Utils](https://github.com/Ephenodrom/Dart-Basic-Utils): A dart package for many helper methods fitting different situations. String, Domain, Email, Math, HTTP, DNS, Sort, Color, Date, Iterable, Crypto, ASN1, FunctionDefs, X509....
+- ![](https://img.shields.io/github/stars/dart-lang/collection?style=social) [dart-lang/collection](https://github.com/dart-lang/collection)(**Dart Official**) - Contains utility functions and classes in the style of dart:collection to make working with collections easier. Includes Algorithms, Equality, Iterable Zip, Priority Queue, Wrappers...
 
 **Lifecycle**
 
