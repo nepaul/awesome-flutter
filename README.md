@@ -147,6 +147,8 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
   - ⏱ Asynchronous. Parallel query operations & multi-isolate support
   - 💃 Static typing. Compile-time checked and autocompleted queries
 
+- ![](https://img.shields.io/github/stars/vitusortner/floor?style=social) [floor](https://github.com/vitusortner/floor) - Floor provides a neat SQLite abstraction for your Flutter applications inspired by the Room persistence library. It comes with automatic mapping between in-memory objects and database rows while still offering full control of the database with the use of SQL. As a consequence, it's necessary to have an understanding of SQL and SQLite in order to harvest Floor's full potential.
+
 - ![](https://img.shields.io/github/stars/realm/realm-dart?style=social) [Realm](https://github.com/realm/realm-dart): a mobile database that runs directly inside phones, tablets or wearables. This repository holds the source code for the Realm SDK for Flutter™ and Dart™.
 - ![](https://img.shields.io/github/stars/lesnitsky/flutter_localstorage?style=social) [flutter_localstorage](https://github.com/lesnitsky/flutter_localstorage) - Simple json file-based storage for flutter
 
