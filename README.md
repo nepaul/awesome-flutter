@@ -210,6 +210,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 
 ### Icon
 
+- ![](https://img.shields.io/github/stars/fluttercommunity/font_awesome_flutter?style=social) [font_awesome_flutter](https://github.com/fluttercommunity/font_awesome_flutter) - The [Font Awesome](https://fontawesome.com/icons) Icon pack available as set of Flutter Icons.
 - ![](https://img.shields.io/github/stars/flutter-studio/flutter-icons?style=social) [flutter_icons](https://github.com/flutter-studio/flutter-icons): Customizable Icons for Flutter,Inspired by react-native-vector-icons.  
   Bundled Icon Sets:
   - AntDesign by AntFinance (297 icons)
