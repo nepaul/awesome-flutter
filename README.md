@@ -405,7 +405,7 @@ Because the keyboard that Android / iOS offers us specifically when we are in nu
 - ![](https://img.shields.io/github/stars/flutterchina/lpinyin?style=social) [lpinyin](https://github.com/flutterchina/lpinyin): 汉字转拼音
 - ❗️GOOGLE❗️ ![](https://img.shields.io/github/stars/google/reflectable.dart?style=social) [reflectable.dart](https://github.com/google/reflectable.dart) - This repository provides the Dart package reflectable along with a set of test cases, test_reflectable.
 
-- [Screenshots](https://github.com/mmcc007/screenshots) - A screenshot image with overlaid status bar placed in a device frame. Screenshots is a standalone command line utility and package for capturing screenshot images for Flutter.
+- ![](https://img.shields.io/github/stars/mmcc007/screenshots?style=social) [Screenshots](https://github.com/mmcc007/screenshots) - A screenshot image with overlaid status bar placed in a device frame. Screenshots is a standalone command line utility and package for capturing screenshot images for Flutter.
 
   Screenshots will start the required android emulators and iOS simulators (or find attached devices), run tests, process the captured screenshots, and drop them off to Fastlane for delivery to both stores.
 
@@ -430,6 +430,10 @@ Because the keyboard that Android / iOS offers us specifically when we are in nu
   - Override individual errors
   - Flutter friendly
   - State management libraries friendly (Mobx example included)
+
+**Lifecycle**
+
+- ![](https://img.shields.io/github/stars/fluttercommunity/flutter_after_layout?style=social) [flutter_after_layout](https://github.com/fluttercommunity/flutter_after_layout) - Brings functionality to execute code after the first layout of a widget has been performed, i.e. after the first frame has been displayed.
 
 **Screen**
 
