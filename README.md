@@ -127,7 +127,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 
 ### Storage
 
-- ![](https://img.shields.io/github/stars/hivedb/hive?style=social)  [hive](https://github.com/hivedb/hive) - Hive is a lightweight and blazing fast key-value database written in pure Dart. Inspired by Bitcask.
+- ![](https://img.shields.io/github/stars/hivedb/hive?style=social) [hive](https://github.com/hivedb/hive) - Hive is a lightweight and blazing fast key-value database written in pure Dart. Inspired by Bitcask.
 
   If you need queries, multi-isolate support or links between objects check out Isar Database.
   Features
@@ -137,7 +137,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
   - 🔒 Strong encryption built in
   - 🎈 NO native dependencies
   - 🔋 Batteries included
-- ![Isar Database](https://github.com/isar/isar)
+- ![](https://img.shields.io/github/stars/isar/isar?style=social) [Isar Database](https://github.com/isar/isar)
   - 💙 Made for Flutter. Easy to use, no config, no boilerplate
   - 🚀 Highly scalable from hundreds to hundreds of thousands of records
   - 🍭 Feature rich. Composite & multi indexes, query modifiers, JSON support and more
