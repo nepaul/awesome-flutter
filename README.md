@@ -232,6 +232,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
   - Zocial by Sam Collins (v1.0, 100 icons)
   - SimpleLineIcons by Sabbir & Contributors (v2.4.1, 189 icons)
   - Weather Icons by erikflowers (v2.0.10, 596 icons)
+- ![](https://img.shields.io/github/stars/iconfont-cli/flutter-iconfont-cli?style=social) [flutter-iconfont-cli](https://github.com/iconfont-cli/flutter-iconfont-cli) - 用纯 JS 把 [iconfont](https://www.iconfont.cn/) 的图标转换成Flutter Widget，不依赖字体，支持多色彩
 
 ### Toast & Loading & Refresh
 
