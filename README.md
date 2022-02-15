@@ -442,6 +442,9 @@ Because the keyboard that Android / iOS offers us specifically when we are in nu
 
 **Lifecycle**
 
+- ![](https://img.shields.io/github/stars/rrousselGit/flutter_hooks?style=social) [flutter_hooks](https://github.com/rrousselGit/flutter_hooks) - A Flutter implementation of React hooks: <https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889>.
+Hooks are a new kind of object that manage the life-cycle of a Widget. They exist for one reason: increase the code-sharing between widgets by removing duplicates.
+
 - ![](https://img.shields.io/github/stars/fluttercommunity/flutter_after_layout?style=social) [flutter_after_layout](https://github.com/fluttercommunity/flutter_after_layout) - Brings functionality to execute code after the first layout of a widget has been performed, i.e. after the first frame has been displayed.
 
 **Screen**
