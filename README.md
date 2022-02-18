@@ -186,6 +186,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 ### Network
 
 - ![](https://img.shields.io/github/stars/flutterchina/dio?style=social) [dio](https://github.com/flutterchina/dio): A powerful Http client for Dart, which supports Interceptors, Global configuration, FormData, Request Cancellation, File downloading, Timeout etc.
+- **DART OFFICIAL** ![](https://img.shields.io/github/stars/dart-lang/http?style=social)  [dart-lang/http](https://github.com/dart-lang/http) - A composable, Future-based library for making HTTP requests. This package contains a set of high-level functions and classes that make it easy to consume HTTP resources. It's multi-platform, and supports mobile, desktop, and the browser.
 
 ## Components
 
