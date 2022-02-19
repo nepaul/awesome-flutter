@@ -18,7 +18,6 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 - [Table of Contents](#table-of-contents)
   - [Document](#document)
   - [Style Guide](#style-guide)
-    - [Lint](#lint)
   - [Starter Samples](#starter-samples)
   - [Add Flutter to existing app](#add-flutter-to-existing-app)
   - [Navigation & Routing](#navigation--routing)
@@ -53,10 +52,8 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
   - [Utils](#utils)
   - [Games](#games)
   - [CI/CD](#cicd)
-    - [Lint & Format](#lint--format)
   - [Monitor](#monitor)
   - [Tools](#tools)
-    - [Docs](#docs)
   - [Apps](#apps)
   - [Contribution](#contribution)
   - [License](#license)
@@ -69,7 +66,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 
 ## Style Guide
 
-### Lint
+**Lint**
 
 - [import_sorter](https://github.com/fluttercommunity/import_sorter): 🎯 Dart package to automatically organize your dart imports. Any dart project supported! Will sorts imports alphabetically and then group them in the following order:
 
@@ -502,7 +499,7 @@ Hooks are a new kind of object that manage the life-cycle of a Widget. They exis
   - strictly follows the Keep a Changelog v1.0.0 format
   - uses basic markdown (no HTML and complex formatting supported)
 
-### Lint & Format
+**Lint & Format**
 
 - ![](https://img.shields.io/github/stars/passsy/dart-lint?style=social)  [dart-lint](https://github.com/passsy/dart-lint) - lint is a hand-picked, open-source, community-driven collection of lint rules for Dart and Flutter projects. The set of rules follows the Effective Dart: Style Guide.
 
@@ -536,7 +533,7 @@ Hooks are a new kind of object that manage the life-cycle of a Widget. They exis
 - ![](https://img.shields.io/github/stars/leoafarias/fvm?style=social)  [fvm](https://github.com/leoafarias/fvm) - Flutter Version Management: A simple cli to manage Flutter SDK versions.
 - ![](https://img.shields.io/github/stars/nepaul/awesome-flutter?style=social)[logger](https://github.com/nepaul/awesome-flutter) - Small, easy to use and extensible logger which prints beautiful logs. Inspired by logger for Android.
 
-### Docs
+**Docs**
 
 - ![](https://img.shields.io/github/stars/glesica/dcdg.dart?style=social) [Dart Class Diagram Generator](https://github.com/glesica/dcdg.dart) - A small command line utility to generate a class (UML or similar) diagram from a Dart package.
 
