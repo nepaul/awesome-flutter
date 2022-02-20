@@ -47,6 +47,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
     - [Form](#form)
     - [Steps & Timelines](#steps--timelines)
     - [Progress](#progress)
+    - [Editor](#editor)
     - [Effect](#effect)
   - [Plugins](#plugins)
   - [Utils](#utils)
@@ -359,6 +360,14 @@ Easy creation of city list or contact list interfaces.
   - Left , right or center child for Linear percent indicator
   - Top, bottom or center child for Circular percent indicator
   - Progress Color using gradients
+
+### Editor
+
+- ![](https://img.shields.io/github/stars/singerdmx/flutter-quill?style=social) [flutter-quill](https://github.com/singerdmx/flutter-quill) - FlutterQuill is a rich text editor and a Quill component for Flutter.
+
+  This library is a WYSIWYG editor built for the modern mobile platform, with web compatibility under development. Check out our Youtube Playlist to take a detailed walkthrough of the code base. You can join our Slack Group for discussion.
+
+  Demo App: <https://bulletjournal.us/home/index.html>
 
 ### Effect
 
