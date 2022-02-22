@@ -275,6 +275,9 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
   All UI designs are based on WeChat 8.x, and it will be updated following the WeChat update in anytime.
 - ![](https://img.shields.io/github/stars/yangyxd/flutter_picker?style=social) [flutter_picker](https://github.com/yangyxd/flutter_picker) - Flutter plugin picker. Include NumberPicker, DateTimePicker, ArrayPicker, and default linkage Picker. Provide flexible parameters to meet various needs. At the same time, you can extend more functions through custom adapters.
 
+- ![](https://img.shields.io/github/stars/mchome/flutter_colorpicker?style=social) [flutter_colorpicker](https://github.com/mchome/flutter_colorpicker) - HSV(HSB)/HSL/RGB/Material color picker inspired by all the good design for your amazing flutter apps.
+Adorable color pickers out of the box with highly customized widgets to all developers' needs. [Web Example](https://mchome.github.io/flutter_colorpicker)
+
 ### Bar
 
 - ![](https://img.shields.io/github/stars/hacktons/convex_bottom_bar?style=social) [convex_bottom_bar](https://github.com/hacktons/convex_bottom_bar): The official BottomAppBar can only display a notch FAB with app bar, sometimes we need a convex FAB. This ConvexAppBar is inspired by BottomAppBar and NotchShape's implementation. Online example can be found at <https://appbar.codemagic.app>. convex_bottom_bar is now a **Flutter Favorite package**!
