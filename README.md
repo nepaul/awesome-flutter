@@ -121,6 +121,13 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
   RxDart does not provide its Observable class as a replacement for Dart Streams. Instead, it offers several additional Stream classes, operators (extension methods on the Stream class), and Subjects.
 
   If you are familiar with Observables from other languages, please see the [Rx Observables vs. Dart Streams comparison chart](https://github.com/ReactiveX/rxdart#rx-observables-vs-dart-streams) for notable distinctions between the two.
+- <img width="24" alt="flutter_favorite_badge" src="https://user-images.githubusercontent.com/1112181/109502339-d11da080-7ad3-11eb-8324-e2aaba817f16.png"> Google! [json_serializable](https://github.com/google/json_serializable.dart/tree/master/json_serializable) - Provides Dart Build System builders for handling JSON.
+  The builders generate code when they find members annotated with classes defined in package:json_annotation.
+
+  To generate to/from JSON code for a class, annotate it with JsonSerializable. You can provide arguments to JsonSerializable to configure the generated code. You can also customize individual fields by annotating them with JsonKey and providing custom arguments. See the table below for details on the annotation values.
+
+  To generate a Dart field with the contents of a file containing JSON, use the JsonLiteral annotation.
+
 - ![](https://img.shields.io/github/stars/k-paxian/dart-json-mapper?style=social) [dart_json_mapper](https://github.com/k-paxian/dart-json-mapper) - This package allows programmers to annotate Dart objects in order to Serialize / Deserialize them to / from JSON.
 
 ### Storage
