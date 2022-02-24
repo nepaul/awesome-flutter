@@ -599,6 +599,12 @@ Hooks are a new kind of object that manage the life-cycle of a Widget. They exis
 
 Your contributions and suggestions are heartily welcome.
 
+Thanks to all the people who already contributed!
+
+<a href="https://github.com/nepaul/awesome-flutter/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=nepaul/awesome-flutter" />
+</a>
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
