@@ -181,6 +181,15 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
   - devtool friendly – using Provider, the state of your application will be visible in the Flutter devtool
   - a common way to consume these InheritedWidgets (See Provider.of/Consumer/Selector)
   - increased scalability for classes with a listening mechanism that grows exponentially in complexity (such as ChangeNotifier, which is O(N) for dispatching notifications).
+- ![](https://img.shields.io/github/stars/rrousselGit/river_pod?style=social) [river_pod](https://github.com/rrousselGit/river_pod) - A state-management library that:
+  - catches programming errors at compile time rather than at runtime
+  - removes nesting for listening/combining objects
+  - ensures that the code is testable
+  
+  This project can be considered as a rewrite of provider to make improvements that would be otherwise impossible.
+
+  For learning how to use Riverpod, see its documentation: <https://riverpod.dev>
+
 - <img width="24" alt="flutter_favorite_badge" src="https://user-images.githubusercontent.com/1112181/109502339-d11da080-7ad3-11eb-8324-e2aaba817f16.png"> ![](https://img.shields.io/github/stars/mobxjs/mobx.dart?style=social)  [mobx](https://github.com/mobxjs/mobx.dart) - MobX is a state-management library that makes it simple to connect the reactive data of your application with the UI. This wiring is completely automatic and feels very natural. As the application-developer, you focus purely on what reactive-data needs to be consumed in the UI (and elsewhere) without worrying about keeping the two in sync.
 
   It's not really magic but it does have some smarts around what is being consumed (observables) and where (reactions), and automatically tracks it for you. When the observables change, all reactions are re-run. What's interesting is that these reactions can be anything from a simple console log, a network call to re-rendering the UI.
