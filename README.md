@@ -354,6 +354,10 @@ Easy creation of city list or contact list interfaces.
   - IndexBar supports custom styles.
   - IndexBar supports local images.
   - Allows scrolling to a specific item in the list.
+
+- <img width="24" alt="flutter_favorite_badge" src="https://user-images.githubusercontent.com/1112181/109502339-d11da080-7ad3-11eb-8324-e2aaba817f16.png"> ![](https://img.shields.io/github/stars/EdsonBueno/infinite_scroll_pagination?style=social) [infinite_scroll_pagination](https://github.com/EdsonBueno/infinite_scroll_pagination) - Unopinionated, extensible and highly customizable package to help you lazily load and display small chunks of items as the user scrolls down the screen – known as infinite scrolling pagination, endless scrolling pagination, auto-pagination, lazy loading pagination, progressive loading pagination, etc.
+
+  Designed to feel like part of the Flutter framework.
 - ![](https://img.shields.io/github/stars/fluttercommunity/flutter_infinite_listview?style=social) [flutter_infinite_listview](https://github.com/fluttercommunity/flutter_infinite_listview) - ListView with items that can be scrolled infinitely in both directions.
 - ![](https://img.shields.io/github/stars/marcglasberg/indexed_list_view?style=social) [indexed_list_view](https://github.com/marcglasberg/indexed_list_view) - Similar to a ListView, but lets you programmatically jump to any item, by index. The index jump happens instantly, no matter if you have millions of items.
 
