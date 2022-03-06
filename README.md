@@ -357,6 +357,8 @@ Easy creation of city list or contact list interfaces.
   - IndexBar supports local images.
   - Allows scrolling to a specific item in the list.
 
+- ![](https://img.shields.io/github/stars/fluttercommunity/flutter_sticky_headers?style=social) [flutter_sticky_headers](https://github.com/fluttercommunity/flutter_sticky_headers) - Lets you place headers on scrollable content that will stick to the top of the container whilst the content is scrolled.
+
 - <img width="24" alt="flutter_favorite_badge" src="https://user-images.githubusercontent.com/1112181/109502339-d11da080-7ad3-11eb-8324-e2aaba817f16.png"> ![](https://img.shields.io/github/stars/EdsonBueno/infinite_scroll_pagination?style=social) [infinite_scroll_pagination](https://github.com/EdsonBueno/infinite_scroll_pagination) - Unopinionated, extensible and highly customizable package to help you lazily load and display small chunks of items as the user scrolls down the screen – known as infinite scrolling pagination, endless scrolling pagination, auto-pagination, lazy loading pagination, progressive loading pagination, etc.
 
   Designed to feel like part of the Flutter framework.
