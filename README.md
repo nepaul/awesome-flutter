@@ -275,15 +275,15 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 
 ### Dialog & Alert
 
+- ![](https://img.shields.io/github/stars/xsahil03x/giffy_dialog?style=social) [giffy_dialog](https://github.com/xsahil03x/giffy_dialog) - A beautiful and custom alert dialog for flutter highly inspired from [FancyAlertDialog-Android](https://github.com/Shashank02051997/FancyGifDialog-Android). The source code is 100% Dart, and everything resides in the /lib folder.
+
 - ![](https://img.shields.io/github/stars/YYFlutter/flutter-custom-dialog?style=social)  [flutter-custom-dialog](https://github.com/YYFlutter/flutter-custom-dialog) - Global dialog function encapsulation, with a semantic way to fill the content inside the dialog, the current function provided
   1. Support for a few semantic component methods to populate the component content inside dialog
-  1. Support for customizing semantic components for developers to freely populate component content inside dialog
-  1. Support setting dialog background color, foreground color, position, animation, click the external disappear and other functions, see the details below
-  1. Support no Context call dialog, see below
+  2. Support for customizing semantic components for developers to freely populate component content inside dialog
+  3. Support setting dialog background color, foreground color, position, animation, click the external disappear and other functions, see the details below
+  4. Support no Context call dialog, see below
 
 - ![](https://img.shields.io/github/stars/RatelHub/rflutter_alert?style=social) [rflutter_alert](https://github.com/RatelHub/rflutter_alert) - RFlutter Alert is super customizable and easy-to-use alert/popup dialogs for Flutter. You may create reusable alert styles or add buttons as much as you want with ease.
-
-- ![](https://img.shields.io/github/stars/xsahil03x/giffy_dialog?style=social) [giffy_dialog](https://github.com/xsahil03x/giffy_dialog) - A beautiful and custom alert dialog for flutter highly inspired from [FancyAlertDialog-Android](https://github.com/Shashank02051997/FancyGifDialog-Android). The source code is 100% Dart, and everything resides in the /lib folder.
 
 ### Popup
 
