@@ -283,6 +283,8 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 
 - ![](https://img.shields.io/github/stars/RatelHub/rflutter_alert?style=social) [rflutter_alert](https://github.com/RatelHub/rflutter_alert) - RFlutter Alert is super customizable and easy-to-use alert/popup dialogs for Flutter. You may create reusable alert styles or add buttons as much as you want with ease.
 
+- ![](https://img.shields.io/github/stars/xsahil03x/giffy_dialog?style=social) [giffy_dialog](https://github.com/xsahil03x/giffy_dialog) - A beautiful and custom alert dialog for flutter highly inspired from [FancyAlertDialog-Android](https://github.com/Shashank02051997/FancyGifDialog-Android). The source code is 100% Dart, and everything resides in the /lib folder.
+
 ### Popup
 
 ### Picker
