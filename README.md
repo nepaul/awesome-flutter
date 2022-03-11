@@ -366,6 +366,8 @@ Easy creation of city list or contact list interfaces.
   - IndexBar supports local images.
   - Allows scrolling to a specific item in the list.
 
+- ![](https://img.shields.io/github/stars/mobiten/flutter_staggered_animations?style=social) [flutter_staggered_animations](https://github.com/mobiten/flutter_staggered_animations) - Easily add staggered animations to your ListView, GridView, Column and Row children as shown in [Material Design guidelines](https://material.io/design/motion/customization.html#sequencing)
+
 - ![](https://img.shields.io/github/stars/fluttercommunity/flutter_sticky_headers?style=social) [flutter_sticky_headers](https://github.com/fluttercommunity/flutter_sticky_headers) - Lets you place headers on scrollable content that will stick to the top of the container whilst the content is scrolled.
 
 - [sliver_tools](https://github.com/Kavantix/sliver_tools) - A set of useful sliver tools that are missing from the flutter framework. Here is a taste what you can make using this packages.
