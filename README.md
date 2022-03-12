@@ -607,6 +607,10 @@ Hooks are a new kind of object that manage the life-cycle of a Widget. They exis
 - ![](https://img.shields.io/github/stars/trentpiercy/trace?style=social) [trace](https://github.com/trentpiercy/trace) - Modern Crypto Portfolio & Market Explorer. Built with Flutter.
 Open Source. Lightweight. Clean. Straightforward. Fast. Powerful.
 
+- ![](https://img.shields.io/github/stars/MarcinusX/flutter_ui_challenge_flight_search?style=social) [Flight search](https://github.com/MarcinusX/flutter_ui_challenge_flight_search) - This is my second UI Challenge. I picked a [Jhony Vino's Flight search design](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e36a3e53917017.594779c56ecbf.gif) from [100 Mobile App UI Interactions](https://github.com/MarcinusX/flutter_ui_challenge_flight_search#:~:text=100%20Mobile%20App%20UI%20Interactions) and implemented it in Flutter.
+
+  Whole process of development is documented on my [blog](https://marcinszalek.pl/flutter/ui-challenge-flight-search/).
+
 - ![](https://img.shields.io/github/stars/jesusrp98/spacex-go?style=social) [spacex-go](https://github.com/jesusrp98/spacex-go) - The purpose of this project is to develop the ultimate SpaceX experience in a variety of platforms. A single experience, from a single codebase.
 
   From the start, SpaceX GO! has been developed to be light-weight, fast and easy to use. It takes all the data from the open-source r/SpaceX REST API, which can be found [here](https://github.com/r-spacex/SpaceX-API).
