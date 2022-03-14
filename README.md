@@ -467,6 +467,8 @@ Because the keyboard that Android / iOS offers us specifically when we are in nu
 
 - ![](https://img.shields.io/github/stars/google/quiver-dart?style=social) [google/quiver-dart](https://github.com/google/quiver-dart) - Quiver is a set of utility libraries for Dart that makes using many Dart libraries easier and more convenient, or adds additional functionality. [👉 API Doc](https://pub.dev/documentation/quiver/latest/)
 
+- ![](https://img.shields.io/github/stars/ReinBentdal/styled_widget?style=social) 💗👍 [styled_widget](https://github.com/ReinBentdal/styled_widget) - Simplifying your widget tree structure by defining widgets using methods.
+
 - ![](https://img.shields.io/github/stars/flutterchina/lpinyin?style=social) [lpinyin](https://github.com/flutterchina/lpinyin) - 汉字转拼音
 - ❗️GOOGLE❗️ ![](https://img.shields.io/github/stars/google/reflectable.dart?style=social) [reflectable.dart](https://github.com/google/reflectable.dart) - This repository provides the Dart package reflectable along with a set of test cases, test_reflectable.
 
