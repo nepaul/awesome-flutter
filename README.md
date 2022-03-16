@@ -495,6 +495,10 @@ Because the keyboard that Android / iOS offers us specifically when we are in nu
   - Flutter friendly
   - State management libraries friendly (Mobx example included)
 
+**Dynamic**:
+
+- ![](https://img.shields.io/github/stars/dengyin2000/dynamic_widget?style=social) [Flutter Dynamic Widget](https://github.com/dengyin2000/dynamic_widget) - A Backend-Driven UI toolkit, build your dynamic UI with json, and the json format is very similar with flutter widget code.
+
 **Dart Extend**:
 
 - ![](https://img.shields.io/github/stars/Ephenodrom/Dart-Basic-Utils?style=social) [Dart-Basic-Utils](https://github.com/Ephenodrom/Dart-Basic-Utils) - A dart package for many helper methods fitting different situations. String, Domain, Email, Math, HTTP, DNS, Sort, Color, Date, Iterable, Crypto, ASN1, FunctionDefs, X509....
