@@ -202,6 +202,13 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 
   > MobX has been a very effective library for the JavaScript apps and this port to the Dart language aims to bring the same levels of productivity.
 
+- ![](https://img.shields.io/github/stars/fluttercommunity/get_it?style=social) [get_it](https://github.com/fluttercommunity/get_it) - This is a simple Service Locator for Dart and Flutter projects with some additional goodies highly inspired by Splat. It can be used instead of InheritedWidget or Provider to access objects e.g. from your UI.
+
+  Typical usage:
+
+  - Accessing service objects like REST API clients or databases so that they easily can be mocked.
+  - Accessing View/AppModels/Managers/BLoCs from Flutter Views
+
 - ![](https://img.shields.io/github/stars/brianegan/scoped_model?style=social) [scoped_model](https://github.com/brianegan/scoped_model) - A set of utilities that allow you to easily pass a data Model from a parent Widget down to its descendants. In addition, it also rebuilds all of the children that use the model when the model is updated. This library was originally extracted from the Fuchsia codebase.
 
 ### Network
