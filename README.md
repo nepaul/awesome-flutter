@@ -47,6 +47,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
     - [Form](#form)
     - [Steps & Timelines](#steps--timelines)
     - [Progress](#progress)
+    - [Menu](#menu)
     - [Editor](#editor)
     - [Effect](#effect)
   - [Plugins](#plugins)
@@ -419,6 +420,10 @@ Easy creation of city list or contact list interfaces.
   - Left , right or center child for Linear percent indicator
   - Top, bottom or center child for Circular percent indicator
   - Progress Color using gradients
+
+### Menu
+
+- ![](https://img.shields.io/github/stars/medyas/flutter_zoom_drawer?style=social) [flutter_zoom_drawer](https://github.com/medyas/flutter_zoom_drawer) - A Flutter package with custom implementation of the Side Menu (Drawer)
 
 ### Editor
 
