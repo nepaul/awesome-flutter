@@ -536,6 +536,22 @@ Hooks are a new kind of object that manage the life-cycle of a Widget. They exis
 
 - ![](https://img.shields.io/github/stars/flutter/packages?style=social) [Flutter Official packages pigeon](https://github.com/flutter/packages/tree/master/packages/pigeon) - Pigeon is a code generator tool to make communication between Flutter and the host platform type-safe, easier and faster.
 
+- <img width="24" alt="flutter_favorite_badge" src="https://user-images.githubusercontent.com/1112181/109502339-d11da080-7ad3-11eb-8324-e2aaba817f16.png"> ![](https://img.shields.io/github/stars/rrousselGit/freezed?style=social) [freezed](https://github.com/rrousselGit/freezed) - another code generator for unions/pattern-matching/copy. Using Freezed, we will get:
+
+  - a simple and concise syntax for defining models, where we don't need to define both a constructor and a property.
+Instead, we only need to define the constructor, removing unnecessary duplication.
+
+  - a copyWith method, for cloning objects with different values.
+Note: As opposed to many alternatives, when using Freezed, that copyWith method correctly supports assigning null to a value.
+
+  - union-types/pattern matching, for making impossible states impossible. See also unions/sealed-classes.
+
+  - an automatic serialization/deserialization of your objects (including union types).
+
+  - a default ==/toString implementation which respectively compares/shows all properties of the object.
+
+  See [the example](https://github.com/rrousselGit/freezed/blob/master/packages/freezed/example/lib/main.dart) for a preview on what's available
+
 - ![](https://img.shields.io/github/stars/FlutterGen/flutter_gen?style=social) [flutter_gen](https://github.com/FlutterGen/flutter_gen) - The Flutter code generator for your assets, fonts, colors, … — Get rid of all String-based APIs.
 
   Inspired by [SwiftGen](https://github.com/SwiftGen/SwiftGen).
