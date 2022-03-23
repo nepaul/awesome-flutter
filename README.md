@@ -552,6 +552,10 @@ Note: As opposed to many alternatives, when using Freezed, that copyWith method 
 
   See [the example](https://github.com/rrousselGit/freezed/blob/master/packages/freezed/example/lib/main.dart) for a preview on what's available
 
+- ![](https://img.shields.io/github/stars/FlutterGen/flutter_gen?style=social) [json_to_dart](https://github.com/javiercbk/json_to_dart) - Given a JSON string, this library will generate all the necessary Dart classes to parse and generate JSON.
+
+  This library is designed to generate Flutter friendly model classes following the [flutter's doc recommendation](https://flutter.io/json/#serializing-json-manually-using-dartconvert).
+
 - ![](https://img.shields.io/github/stars/FlutterGen/flutter_gen?style=social) [flutter_gen](https://github.com/FlutterGen/flutter_gen) - The Flutter code generator for your assets, fonts, colors, … — Get rid of all String-based APIs.
 
   Inspired by [SwiftGen](https://github.com/SwiftGen/SwiftGen).
