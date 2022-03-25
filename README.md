@@ -516,7 +516,19 @@ Because the keyboard that Android / iOS offers us specifically when we are in nu
 
 **Dart Extend**:
 
+- ![](https://img.shields.io/github/stars/jogboms/time.dart?style=social) [time.dart](https://github.com/jogboms/time.dart)
+
+  ```dart
+  final Duration tenMinutes = 10.minutes;
+  final Duration oneHourThirtyMinutes = 1.5.hours;
+  final DateTime afterTenMinutes = DateTime.now() + 10.minutes;
+  final Duration tenMinutesAndSome = 10.minutes + 15.seconds;
+  final int tenMinutesInSeconds = 10.minutes.inSeconds;
+  final DateTime tenMinutesFromNow = 10.minutes.fromNow;
+  ```
+
 - ![](https://img.shields.io/github/stars/Ephenodrom/Dart-Basic-Utils?style=social) [Dart-Basic-Utils](https://github.com/Ephenodrom/Dart-Basic-Utils) - A dart package for many helper methods fitting different situations. String, Domain, Email, Math, HTTP, DNS, Sort, Color, Date, Iterable, Crypto, ASN1, FunctionDefs, X509....
+
 - ![](https://img.shields.io/github/stars/dart-lang/collection?style=social) [dart-lang/collection](https://github.com/dart-lang/collection)(**Dart Official**) - Contains utility functions and classes in the style of dart:collection to make working with collections easier. Includes Algorithms, Equality, Iterable Zip, Priority Queue, Wrappers...
 
 **Lifecycle**
