@@ -56,6 +56,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
   - [CI/CD](#cicd)
   - [Monitor](#monitor)
   - [Tools](#tools)
+  - [Services](#services)
   - [Apps](#apps)
   - [Contribution](#contribution)
   - [License](#license)
@@ -649,6 +650,11 @@ Note: As opposed to many alternatives, when using Freezed, that copyWith method 
 **Docs**
 
 - ![](https://img.shields.io/github/stars/glesica/dcdg.dart?style=social) [Dart Class Diagram Generator](https://github.com/glesica/dcdg.dart) - A small command line utility to generate a class (UML or similar) diagram from a Dart package.
+
+## Services
+
+- ![](https://img.shields.io/github/stars/OpenFlutter/fluwx?style=social) [fluwx](https://github.com/OpenFlutter/fluwx) - Fluwx is flutter plugin for WeChatSDK which allows developers to call
+WeChatSDK native APIs.
 
 ## Apps
 
