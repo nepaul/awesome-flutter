@@ -368,7 +368,9 @@ Adorable color pickers out of the box with highly customized widgets to all deve
 
 - ![](https://img.shields.io/github/stars/dnfield/flutter_svg?style=social) [flutter_svg](https://github.com/dnfield/flutter_svg) - Draw SVG (and some Android VectorDrawable (XML)) files on a Flutter Widget.
 
-- ![](https://img.shields.io/github/stars/hnvn/flutter_image_cropper?style=social)  [Image Cropper](https://github.com/hnvn/flutter_image_cropper) - A Flutter plugin for Android and iOS supports cropping images. This plugin is based on two different native libraries so it comes with different UI between these platforms.
+- ![](https://img.shields.io/github/stars/hnvn/flutter_image_cropper?style=social) [Image Cropper](https://github.com/hnvn/flutter_image_cropper) - A Flutter plugin for Android and iOS supports cropping images. This plugin is based on two different native libraries so it comes with different UI between these platforms.
+
+- ![](https://img.shields.io/github/stars/xsahil03x/before_after?style=social) [before_after](https://github.com/xsahil03x/before_after) - A flutter package which makes it easier to display the differences between two images.
 
 ### List & Grid
 
