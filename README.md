@@ -648,6 +648,9 @@ Note: As opposed to many alternatives, when using Freezed, that copyWith method 
   - Configure Flutter SDK version per project or globally
   - Ability to install and cache multiple Flutter SDK Versions
   - Easily switch between Flutter channels & versions
+- [unpub](https://github.com/bytedance/unpub) - Unpub is a self-hosted private Dart Pub server for Enterprise, with a simple web interface to search and view packages information.
+
+  ![](https://raw.githubusercontent.com/bytedance/unpub/master/assets/screenshot.png)
 
 **Debug**:
 
