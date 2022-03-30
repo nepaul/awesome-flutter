@@ -519,6 +519,11 @@ Because the keyboard that Android / iOS offers us specifically when we are in nu
 **Dynamic**:
 
 - ![](https://img.shields.io/github/stars/dengyin2000/dynamic_widget?style=social) [Flutter Dynamic Widget](https://github.com/dengyin2000/dynamic_widget) - A Backend-Driven UI toolkit, build your dynamic UI with json, and the json format is very similar with flutter widget code.
+- ![](https://img.shields.io/github/stars/wuba/fair?style=social) [fair](https://github.com/wuba/fair) - Fair is a lightweight package for Flutter, which can be used to update widget tree and state dynamically. This package is still at an early stage.
+
+  We create Fair so we can dispatch any pages changes to users as bundle(s), the way similar to React Native. With Flutter Fair integrated, you can publish your pages without waiting for the next release date of your App. Fair provides standard widget and some logic plugins, it can be used as a new dynamic page or as part of existing Flutter page.
+
+  ![](https://github.com/wuba/fair/raw/main/fair/what-is-fair-en.png)
 
 **Dart Extend**:
 
