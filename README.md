@@ -112,6 +112,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 
 - 💗💗👍👍![](https://img.shields.io/github/stars/alibaba/flutter_boost?style=social) [flutter_boost@alibabba](https://github.com/alibaba/flutter_boost) -  A next-generation Flutter-Native hybrid solution. FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts.The philosophy of FlutterBoost is to use Flutter as easy as using a WebView. Managing Native pages and Flutter pages at the same time is non-trivial in an existing App. FlutterBoost takes care of page resolution for you. The only thing you need to care about is the name of the page(usually could be an URL).
 - ![](https://img.shields.io/github/stars/hellobike/flutter_thrio?style=social) [flutter_thrio @hellobike](https://github.com/hellobike/flutter_thrio)
+- ![](https://img.shields.io/github/stars/gfaraday/g_faraday?style=social)  [Faraday](https://github.com/gfaraday/g_faraday/blob/develop/README_EN.md) - Flutter plugin for integrate flutter to existing app
 
 ## Navigation & Routing
 
