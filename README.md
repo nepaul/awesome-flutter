@@ -18,6 +18,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 - [Table of Contents](#table-of-contents)
   - [Document](#document)
   - [Style Guide](#style-guide)
+  - [Community](#community)
   - [Starter Samples](#starter-samples)
   - [Add Flutter to existing app](#add-flutter-to-existing-app)
   - [Navigation & Routing](#navigation--routing)
@@ -78,6 +79,10 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
   2. Flutter imports
   3. Package imports
   4. Project imports
+
+## Community
+
+- [fluttercandies](https://github.com/fluttercandies) - Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjoy it!
 
 ## Starter Samples
 
