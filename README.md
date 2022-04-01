@@ -618,6 +618,21 @@ Note: As opposed to many alternatives, when using Freezed, that copyWith method 
 
   Its main purpose is to expose a developer-friendly API on top of lower-level packages like the analyzer or build. You don't have to use source_gen in order to generate source code; we also expose a set of library APIs that might be useful in your generators.
 
+**Internationalization**
+
+- ![](https://img.shields.io/github/stars/aissat/easy_localization?style=social)  [easy_localization](https://github.com/aissat/easy_localization) - Easy and Fast internationalization for your Flutter Apps
+
+  - 🚀 Easy translations for many languages
+  - 🔌 Load translations as JSON, CSV, Yaml, Xml using Easy Localization Loader
+  - 💾 React and persist to locale changes
+  - ⚡ Supports plural, gender, nesting, RTL locales and more
+  - ↩️ Fallback locale keys redirection
+  - ⁉️ Error widget for missing translations
+  - ❤️ Extension methods on Text and BuildContext
+  - 💻 Code generation for localization files and keys.
+  - 🛡️ Null safety
+  - 🖨️ Customizable logger.
+
 ## Games
 
 - ![](https://img.shields.io/github/stars/flame-engine/flame?style=social) [flame](https://github.com/flame-engine/flame) - A minimalist Flutter game engine
