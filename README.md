@@ -82,6 +82,8 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 
 ## Community
 
+- [fluttercommunity](https://github.com/fluttercommunity) - A central place for all community made Flutter packages. To get started, see the README of the 'community' repository.
+
 - [fluttercandies](https://github.com/fluttercandies) - Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjoy it!
 
 ## Starter Samples
