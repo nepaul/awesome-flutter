@@ -634,6 +634,10 @@ Note: As opposed to many alternatives, when using Freezed, that copyWith method 
   - 💻 Code generation for localization files and keys.
   - 🛡️ Null safety
   - 🖨️ Customizable logger.
+  
+**Performance**
+
+- ![](https://img.shields.io/github/stars/rmawatson/flutter_isolate?style=social) [flutter_isolate](https://github.com/rmawatson/flutter_isolate) - FlutterIsolate allows creation of an Isolate in flutter that is able to use flutter plugins. It creates the necessary platform specific bits (FlutterBackgroundView on android & FlutterEngine on iOS) to enable the platform channels to work inside an isolate.
 
 ## Games
 
