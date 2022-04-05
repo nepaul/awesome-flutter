@@ -94,10 +94,10 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 - ![](https://img.shields.io/github/stars/brianegan/flutter_architecture_samples?style=social)[flutter_architecture_samples](https://github.com/brianegan/flutter_architecture_samples) -  TodoMVC for Flutter <http://fluttersamples.com/>
 - ![](https://img.shields.io/github/stars/Sky24n/flutter_wanandroid?style=social) [flutter_wanandroid](https://github.com/Sky24n/flutter_wanandroid)
 - ![](https://img.shields.io/github/stars/FilledStacks/flutter-tutorials?style=social)[flutter-tutorials](https://github.com/FilledStacks/flutter-tutorials) -  The repo contains the source code for all the tutorials on the FilledStacks Youtube channel.
-  
+
 - ![](https://img.shields.io/github/stars/flutter/gallery?style=social) [Flutter Gallery](https://github.com/flutter/gallery) s a resource to help developers evaluate and use Flutter. It is a collection of Material Design & Cupertino widgets, behaviors, and vignettes implemented with Flutter. We often get asked how one can see Flutter in action, and this gallery demonstrates what Flutter provides and how it behaves in the wild.
 
-- [The Flutter Vignettes](https://github.com/gskinnerTeam/flutter_vignettes) - A collection of explorations into the exciting user experience possibilities enabled by the Flutter platform. Built by [gskinner](https://gskinner.com/) in partnership with Google, these vignettes range from the practical to the novel. They aim to inspire both developers and designers to build delightful and beautiful experiences with Flutter.
+- ![](https://img.shields.io/github/stars/gskinnerTeam/flutter_vignettes?style=social) [The Flutter Vignettes](https://github.com/gskinnerTeam/flutter_vignettes) - A collection of explorations into the exciting user experience possibilities enabled by the Flutter platform. Built by [gskinner](https://gskinner.com/) in partnership with Google, these vignettes range from the practical to the novel. They aim to inspire both developers and designers to build delightful and beautiful experiences with Flutter.
 
   In addition to forking and reviewing the MIT licensed code available here, you can also check out more information on the [Vignette Showcase Website](https://flutter.gskinner.com/vignettes.html).
 
@@ -114,6 +114,8 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
   - [flutter_simple_treeview](https://github.com/google/flutter.widgets/blob/master/packages/flutter_simple_treeview/README.md) - This widget visualises a tree structure, where a node can be any widget.
 
 - ![](https://img.shields.io/github/stars/aagarwal1012/IntroViews-Flutter?style=social) [IntroViews-Flutter](https://github.com/aagarwal1012/IntroViews-Flutter) - IntroViews is inspired by [Paper Onboarding](https://github.com/Ramotion/paper-onboarding-android) and developed with love from scratch. Checkout our fully responsive [live example app](https://introviews-flutter.web.app/).
+
+- ![](https://img.shields.io/github/stars/MarcusNg/flutter_covid_dashboard_uir?style=social) [flutter_covid_dashboard_ui](https://github.com/MarcusNg/flutter_covid_dashboard_ui)[[YouTube Video](https://www.youtube.com/watch?v=krU-ASLb8lM&feature=youtu.be&ab_channel=MarcusNg))
 
 ## Add Flutter to existing app
 
