@@ -712,7 +712,9 @@ Note: As opposed to many alternatives, when using Freezed, that copyWith method 
 
 - ![](https://img.shields.io/github/stars/bytedance/flutter_ume?style=social) [flutter_ume](https://github.com/bytedance/flutter_ume) - UME is an in-app debug kits platform for Flutter apps(Widget Info, Widget Detail, Align Ruler, Color Picker, Color Sucker, Touch Indicator, Memory Info, Perf Overlay, CPU Info, Device Info, Show Code, Console, Dio Inspector).
 - ![](https://img.shields.io/github/stars/leoafarias/fvm?style=social)  [fvm](https://github.com/leoafarias/fvm) - Flutter Version Management: A simple cli to manage Flutter SDK versions.
-- ![](https://img.shields.io/github/stars/nepaul/awesome-flutter?style=social)[logger](https://github.com/nepaul/awesome-flutter) - Small, easy to use and extensible logger which prints beautiful logs. Inspired by logger for Android.
+- ![](https://img.shields.io/github/stars/leisim/logger?style=social)[logger](https://github.com/leisim/logger) - Small, easy to use and extensible logger which prints beautiful logs. Inspired by logger for Android.
+
+- ![](https://img.shields.io/github/stars/leanflutter/flutter_flipperkit?style=social) [flutter_flipperkit](https://github.com/leanflutter/flutter_flipperkit) - [Flipper](https://fbflipper.com/) (Extensible mobile app debugger) for flutter. [View document](https://flutter-widget.live/flutter_flipperkit)
 
 **Docs**
 
