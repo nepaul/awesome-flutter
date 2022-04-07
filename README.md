@@ -725,6 +725,8 @@ Note: As opposed to many alternatives, when using Freezed, that copyWith method 
 - ![](https://img.shields.io/github/stars/OpenFlutter/fluwx?style=social) [fluwx](https://github.com/OpenFlutter/fluwx) - Fluwx is flutter plugin for WeChatSDK which allows developers to call
 WeChatSDK native APIs.
 
+- ![usage](https://img.shields.io/github/stars/dart-lang/usage?style=social) [](https://github.com/dart-lang/usage) - A wrapper around Google Analytics for command-line, web, and Flutter apps.
+
 ## Apps
 
 > Complete Projects(Open Source)
