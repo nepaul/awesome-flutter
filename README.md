@@ -135,7 +135,9 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 
 - ![](https://img.shields.io/github/stars/aagarwal1012/IntroViews-Flutter?style=social) [IntroViews-Flutter](https://github.com/aagarwal1012/IntroViews-Flutter) - IntroViews is inspired by [Paper Onboarding](https://github.com/Ramotion/paper-onboarding-android) and developed with love from scratch. Checkout our fully responsive [live example app](https://introviews-flutter.web.app/).
 
-- ![](https://img.shields.io/github/stars/MarcusNg/flutter_covid_dashboard_uir?style=social) [flutter_covid_dashboard_ui](https://github.com/MarcusNg/flutter_covid_dashboard_ui)[[YouTube Video](https://www.youtube.com/watch?v=krU-ASLb8lM&feature=youtu.be&ab_channel=MarcusNg))
+- ![](https://img.shields.io/github/stars/MarcusNg/flutter_covid_dashboard_ui?style=social) [flutter_covid_dashboard_ui](https://github.com/MarcusNg/flutter_covid_dashboard_ui)[[YouTube Video](https://www.youtube.com/watch?v=krU-ASLb8lM&feature=youtu.be&ab_channel=MarcusNg))
+
+- ![](https://img.shields.io/github/stars/VB10/ecommerce_flutter_side?style=social)  [ecommerce_flutter_side](https://github.com/VB10/ecommerce_flutter_side)
 
 ## Add Flutter to existing app
 
