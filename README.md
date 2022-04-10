@@ -440,6 +440,8 @@ Easy creation of city list or contact list interfaces.
 
   Limitation: The list is always infinite both to positive and negative indexes. In other words, it can be scrolled indefinitely both to the top and to the bottom.
 
+- ![](https://img.shields.io/github/stars/MayLau-CbL/flutter_horizontal_data_table?style=social)  [flutter_horizontal_data_table](https://github.com/MayLau-CbL/flutter_horizontal_data_table) - A Flutter Widget that create a horizontal table with fixed column on left hand side.
+
 ### Input & Form
 
 - ![](https://img.shields.io/github/stars/danvick/flutter_form_builder?style=social) [Flutter Form Builder](https://github.com/danvick/flutter_form_builder) - Flutter Form Builder provides an easy way of working with forms in Flutter by removing the boilerplate needed to build a form, validate fields, react to changes, and collect final user input.
