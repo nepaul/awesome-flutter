@@ -481,11 +481,28 @@ Easy creation of city list or contact list interfaces.
 ### Effect
 
 - ![](https://img.shields.io/github/stars/2d-inc/Flare-Flutter?style=social) [Flare-Flutter](https://github.com/2d-inc/Flare-Flutter) - Rive 1 (previously Flare) offers powerful realtime vector design and animation for app and game designers alike. The primary goal of Flare is to allow designers to work directly with assets that run in their final product, eliminating the need to redo that work in code.
+
+- ![](https://img.shields.io/github/stars/felixblaschke/simple_animations?style=social) 💗[simple_animations](https://github.com/felixblaschke/simple_animations) - Simple Animations is a powerful package to create beautiful custom animations in no time.
+  - 💪 fully tested
+  - 📝 well documented
+  - 💼 enterprise-ready
+
+  Highlights
+
+  - Easily create custom animations in stateless widgets
+  - Animate multiple properties at once
+  - Create staggered animations within seconds
+  - Simplified working with AnimationController instances
+  - Debug animations
+
 - ![](https://img.shields.io/github/stars/xvrh/lottie-flutter?style=social)  [Lottie for Flutter](https://github.com/xvrh/lottie-flutter) - Lottie is a mobile library for Android and iOS that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile!
 
   This repository is an unofficial conversion of the Lottie-android library in pure Dart.
 
   It works on Android, iOS, macOS, linux, windows and web.
+
+- ![](https://img.shields.io/github/stars/i-protoss/wave?style=social) [wave](https://github.com/i-protoss/wave) - Widget for displaying waves with custom color, duration, floating and blur effects.
+
 - ![](https://img.shields.io/github/stars/YYFlutter/flutter-animation-set?style=social) [flutter-animation-set](https://github.com/YYFlutter/flutter-animation-set) - Simplified Flutter stagger animation.To drive the Flutter stagger animation through a timeline in the form of an animation configuration.You can
 
   1. Uses the existing Animation Widget of Flutter Animation Set
