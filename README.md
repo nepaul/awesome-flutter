@@ -729,6 +729,8 @@ Note: As opposed to many alternatives, when using Freezed, that copyWith method 
 
   ![](https://raw.githubusercontent.com/bytedance/unpub/master/assets/screenshot.png)
 
+- ![](https://img.shields.io/github/stars/dart-archive/pub_server?style=social) [pub_server](https://github.com/dart-archive/pub_server)
+
 **Debug**:
 
 - ![](https://img.shields.io/github/stars/bytedance/flutter_ume?style=social) [flutter_ume](https://github.com/bytedance/flutter_ume) - UME is an in-app debug kits platform for Flutter apps(Widget Info, Widget Detail, Align Ruler, Color Picker, Color Sucker, Touch Indicator, Memory Info, Perf Overlay, CPU Info, Device Info, Show Code, Console, Dio Inspector).
@@ -758,7 +760,7 @@ WeChatSDK native APIs.
   InKino showcases **Redux**, has an extensive set of automated tests and 40% code sharing between Flutter and web. The Android & iOS apps are made with a single Flutter codebase. The progressive web app is made with AngularDart. This project is generally something that I believe is a good example of a multiplatform Dart project.
 
 - ![](https://img.shields.io/github/stars/TheAlphamerc/flutter_ecommerce_app?style=social) [flutter_ecommerce_app: E-Commerce App built in flutter](https://github.com/TheAlphamerc/flutter_ecommerce_app)
-  
+
 - ![](https://img.shields.io/github/stars/mdanics/fluttergram?style=social) [fluttergram](https://github.com/mdanics/fluttergram) - A working Instagram clone written in Flutter using Firebase / Firestore
 
 - ![](https://img.shields.io/github/stars/aaronoe/FlutterCinematic?style=social) [❤️ FlutterCinematic](https://github.com/aaronoe/FlutterCinematic) - This app is a Flutter port of the native Android App [Cinematic](https://github.com/aaronoe/Cinematic). My intention in creating this app was understanding the intricacies of building apps in Flutter. Just like the native Android App this app does **not make any efforts in being a nicely architectured application**. That being said the whole point is to showcase Flutter's capabilities for building simple apps and to understand key difference and advantages to native development.
