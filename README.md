@@ -73,7 +73,9 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 
 **Lint**
 
-- [import_sorter](https://github.com/fluttercommunity/import_sorter) -  🎯 Dart package to automatically organize your dart imports. Any dart project supported! Will sorts imports alphabetically and then group them in the following order:
+- ![](https://img.shields.io/github/stars/dart-lang/lints?style=social) [Official Dart lint rules](https://github.com/dart-lang/lints) - The Dart linter is a static analyzer for identifying possible problems in your Dart source code. More than a hundred linter rules are available, checking anything from potential typing issues, coding style, and formatting. This package, lints, contains the lint settings recommended by the Dart team.
+
+- ![](https://img.shields.io/github/stars/fluttercommunity/import_sorter?style=social) [import_sorter](https://github.com/fluttercommunity/import_sorter) -  🎯 Dart package to automatically organize your dart imports. Any dart project supported! Will sorts imports alphabetically and then group them in the following order:
 
   1. Dart imports
   2. Flutter imports
