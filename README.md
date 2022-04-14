@@ -252,6 +252,9 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 - ![](https://img.shields.io/github/stars/flutterchina/dio?style=social) [dio](https://github.com/flutterchina/dio) - A powerful Http client for Dart, which supports Interceptors, Global configuration, FormData, Request Cancellation, File downloading, Timeout etc.
 - **DART OFFICIAL** ![](https://img.shields.io/github/stars/dart-lang/http?style=social)  [dart-lang/http](https://github.com/dart-lang/http) - A composable, Future-based library for making HTTP requests. This package contains a set of high-level functions and classes that make it easy to consume HTTP resources. It's multi-platform, and supports mobile, desktop, and the browser.
 
+  **Utils**:
+- ![](https://img.shields.io/github/stars/komapeb/data_connection_checker?style=social) [data_connection_checker](https://github.com/komapeb/data_connection_checker/) - A pure Dart utility library that checks for an internet connection by opening a socket to a list of specified addresses, each with individual port and timeout. Defaults are provided for convenience.
+
 ## Components
 
 ### UI Kits
