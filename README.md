@@ -744,6 +744,10 @@ Note: As opposed to many alternatives, when using Freezed, that copyWith method 
 
 - ![](https://img.shields.io/github/stars/leanflutter/flutter_flipperkit?style=social) [flutter_flipperkit](https://github.com/leanflutter/flutter_flipperkit) - [Flipper](https://fbflipper.com/) (Extensible mobile app debugger) for flutter. [View document](https://flutter-widget.live/flutter_flipperkit)
 
+**Git(Code Management)**:
+
+- ![](https://img.shields.io/github/stars/pre-commit/pre-commit?style=social) [pre-commit](https://github.com/pre-commit/pre-commit/) - A framework for managing and maintaining multi-language pre-commit hooks.
+
 **Docs**
 
 - ![](https://img.shields.io/github/stars/glesica/dcdg.dart?style=social) [Dart Class Diagram Generator](https://github.com/glesica/dcdg.dart) - A small command line utility to generate a class (UML or similar) diagram from a Dart package.
