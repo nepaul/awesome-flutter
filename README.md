@@ -58,7 +58,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
   - [CI/CD](#cicd)
   - [Monitor](#monitor)
   - [Tools](#tools)
-  - [Services](#services)
+  - [Service](#service)
   - [Apps](#apps)
   - [Contribution](#contribution)
   - [License](#license)
@@ -762,16 +762,18 @@ Note: As opposed to many alternatives, when using Freezed, that copyWith method 
 
 - ![](https://img.shields.io/github/stars/pre-commit/pre-commit?style=social) [pre-commit](https://github.com/pre-commit/pre-commit/) - A framework for managing and maintaining multi-language pre-commit hooks.
 
-**Docs**
+**Doc**
 
 - ![](https://img.shields.io/github/stars/glesica/dcdg.dart?style=social) [Dart Class Diagram Generator](https://github.com/glesica/dcdg.dart) - A small command line utility to generate a class (UML or similar) diagram from a Dart package.
 
-## Services
+## Service
 
 - ![](https://img.shields.io/github/stars/OpenFlutter/fluwx?style=social) [fluwx](https://github.com/OpenFlutter/fluwx) - Fluwx is flutter plugin for WeChatSDK which allows developers to call
 WeChatSDK native APIs.
 
-- ![usage](https://img.shields.io/github/stars/dart-lang/usage?style=social) [](https://github.com/dart-lang/usage) - A wrapper around Google Analytics for command-line, web, and Flutter apps.
+- ![](https://img.shields.io/github/stars/dart-lang/usage?style=social) [usage](https://github.com/dart-lang/usage) - A wrapper around Google Analytics for command-line, web, and Flutter apps.
+
+- [amplitude](https://www.amplitude.com/) - Give your teams self-service product data to understand your users, drive conversions, and increase engagement, growth and revenue.
 
 ## Apps
 
