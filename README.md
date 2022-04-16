@@ -773,9 +773,13 @@ WeChatSDK native APIs.
 
 - ![](https://img.shields.io/github/stars/dart-lang/usage?style=social) [usage](https://github.com/dart-lang/usage) - A wrapper around Google Analytics for command-line, web, and Flutter apps.
 
+- [Instabug: Superior Mobile App Performance. Improved User Experience.](https://instabug.com/) - Our comprehensive platform empowers users to monitor, prioritize, and debug performance and stability issues throughout the entire mobile app development lifecycle.
+
 - [amplitude](https://www.amplitude.com/) - Give your teams self-service product data to understand your users, drive conversions, and increase engagement, growth and revenue.
 
 - [Countly: Product analytics and innovation](https://count.ly/) - Countly is the best analytics platform to understand and enhance customer journeys in web, desktop and mobile applications. We securely process billions of data points every day in the cloud and on-premises in order to help companies across the globe grow their business.
+
+- [appsflyer: Make good choices](https://www.appsflyer.com/) - The world’s top marketing and product teams turn to AppsFlyer cloud to power predictable app growth, protect customer privacy and deliver exceptional mobile experiences
 
 ## Apps
 
