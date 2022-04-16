@@ -775,6 +775,8 @@ WeChatSDK native APIs.
 
 - [Instabug: Superior Mobile App Performance. Improved User Experience.](https://instabug.com/) - Our comprehensive platform empowers users to monitor, prioritize, and debug performance and stability issues throughout the entire mobile app development lifecycle.
 
+- [airship](https://www.airship.com/) - provides marketing and branding services. Airship allows companies to generate custom messages to consumers via push notifications, SMS messaging, and similar, and provides customer analytics services.
+
 - [amplitude](https://www.amplitude.com/) - Give your teams self-service product data to understand your users, drive conversions, and increase engagement, growth and revenue.
 
 - [Countly: Product analytics and innovation](https://count.ly/) - Countly is the best analytics platform to understand and enhance customer journeys in web, desktop and mobile applications. We securely process billions of data points every day in the cloud and on-premises in order to help companies across the globe grow their business.
