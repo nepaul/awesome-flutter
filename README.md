@@ -28,6 +28,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
     - [Network](#network)
   - [Components](#components)
     - [UI Kits](#ui-kits)
+    - [Theme](#theme)
     - [Color](#color)
     - [Text](#text)
     - [Icon](#icon)
@@ -227,7 +228,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
   - catches programming errors at compile time rather than at runtime
   - removes nesting for listening/combining objects
   - ensures that the code is testable
-  
+
   This project can be considered as a rewrite of provider to make improvements that would be otherwise impossible.
 
   For learning how to use Riverpod, see its documentation: <https://riverpod.dev>
@@ -272,6 +273,14 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 - ![](https://img.shields.io/github/stars/Rannie/flui?style=social) [flui](https://github.com/Rannie/flui) -  A powerful UI framework for Google Flutter. <https://www.flui.xin/en/>
 
 - ![](https://img.shields.io/github/stars/olayemii/flutter-ui-kits?style=social) [flutter-ui-kits](https://github.com/olayemii/flutter-ui-kits) - Free Flutter UI Kits based on designs on UpLabs 💓. Includes Wrist Watch Store UI Kit, Language Learning FLutter UI Kit, News UI Flutter UI Kit, Real Estate Flutter UI Kit, Repair Service Flutter UI Kit, AirBnB Redesign Flutter UI Kit, Laundry App Flutter UI Kit.
+
+### Theme
+
+- ![](https://img.shields.io/github/stars/rxlabz/panache?style=social) [panache](https://github.com/rxlabz/panache) - A Flutter Material Theme editor.
+
+  Panache helps you to create beautiful Material themes for your Flutter applications.
+
+  Customize widgets colors and shapes, and download your theme.dart file.
 
 ### Color
 
