@@ -778,6 +778,8 @@ WeChatSDK native APIs.
 - [WonderPush](https://www.wonderpush.com/) - Unlimited push notifications
 for iOS, Android and Web.
 
+- [RevenueCat: In-App Subscriptions Made Easy](https://www.revenuecat.com/) - RevenueCat makes it easy to implement and manage in-app subscriptions, analyze customer data, and grow recurring revenue on iOS, Android, and the web.
+
 - [airship](https://www.airship.com/) - provides marketing and branding services. Airship allows companies to generate custom messages to consumers via push notifications, SMS messaging, and similar, and provides customer analytics services.
 
 - [amplitude](https://www.amplitude.com/) - Give your teams self-service product data to understand your users, drive conversions, and increase engagement, growth and revenue.
