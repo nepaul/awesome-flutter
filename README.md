@@ -775,9 +775,6 @@ WeChatSDK native APIs.
 
 - [Instabug: Superior Mobile App Performance. Improved User Experience.](https://instabug.com/) - Our comprehensive platform empowers users to monitor, prioritize, and debug performance and stability issues throughout the entire mobile app development lifecycle.
 
-- [WonderPush](https://www.wonderpush.com/) - Unlimited push notifications
-for iOS, Android and Web.
-
 - [RevenueCat: In-App Subscriptions Made Easy](https://www.revenuecat.com/) - RevenueCat makes it easy to implement and manage in-app subscriptions, analyze customer data, and grow recurring revenue on iOS, Android, and the web.
 
 - [airship](https://www.airship.com/) - provides marketing and branding services. Airship allows companies to generate custom messages to consumers via push notifications, SMS messaging, and similar, and provides customer analytics services.
@@ -787,6 +784,13 @@ for iOS, Android and Web.
 - [Countly: Product analytics and innovation](https://count.ly/) - Countly is the best analytics platform to understand and enhance customer journeys in web, desktop and mobile applications. We securely process billions of data points every day in the cloud and on-premises in order to help companies across the globe grow their business.
 
 - [appsflyer: Make good choices](https://www.appsflyer.com/) - The world’s top marketing and product teams turn to AppsFlyer cloud to power predictable app growth, protect customer privacy and deliver exceptional mobile experiences
+
+**Messaging**:
+
+- [OneSignal: Customer Messaging Delivered](https://onesignal.com/) - The market leading self-serve customer engagement solution for Push Notifications, Email, SMS & In-App.
+
+- [WonderPush](https://www.wonderpush.com/) - Unlimited push notifications
+for iOS, Android and Web.
 
 ## Apps
 
