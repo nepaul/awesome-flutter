@@ -142,6 +142,10 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 
 - ![](https://img.shields.io/github/stars/VB10/ecommerce_flutter_side?style=social)  [ecommerce_flutter_side](https://github.com/VB10/ecommerce_flutter_side)
 
+**Architecture:**
+
+- ![](https://img.shields.io/github/stars/AndriousSolutions/mvc_pattern?style=social)v [mvc_pattern](https://github.com/AndriousSolutions/mvc_pattern) - Flutter Plugin to implement one of many variations of the MVC design pattern.
+
 ## Add Flutter to existing app
 
 - 💗💗👍👍![](https://img.shields.io/github/stars/alibaba/flutter_boost?style=social) [flutter_boost@alibabba](https://github.com/alibaba/flutter_boost) -  A next-generation Flutter-Native hybrid solution. FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts.The philosophy of FlutterBoost is to use Flutter as easy as using a WebView. Managing Native pages and Flutter pages at the same time is non-trivial in an existing App. FlutterBoost takes care of page resolution for you. The only thing you need to care about is the name of the page(usually could be an URL).
@@ -301,7 +305,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 
 ### Icon
 
-- ![](https://img.shields.io/github/stars/fluttercommunity/font_awesome_flutter?style=social) [font_awesome_flutter](https://github.com/fluttercommunity/font_awesome_flutter) - The [Font Awesome](https://fontawesome.com/icons) Icon pack available as set of Flutter Icons.
+- <img width="24" alt="flutter_favorite_badge" src="https://user-images.githubusercontent.com/1112181/109502339-d11da080-7ad3-11eb-8324-e2aaba817f16.png">  ![](https://img.shields.io/github/stars/fluttercommunity/font_awesome_flutter?style=social) [font_awesome_flutter](https://github.com/fluttercommunity/font_awesome_flutter) - The [Font Awesome](https://fontawesome.com/icons) Icon pack available as set of Flutter Icons.
 - ![](https://img.shields.io/github/stars/flutter-studio/flutter-icons?style=social) [flutter_icons](https://github.com/flutter-studio/flutter-icons) -  Customizable Icons for Flutter,Inspired by react-native-vector-icons.  
   Bundled Icon Sets:
   - AntDesign by AntFinance (297 icons)
