@@ -412,6 +412,8 @@ Adorable color pickers out of the box with highly customized widgets to all deve
 
 ### Images
 
+- ![](https://img.shields.io/github/stars/Baseflow/flutter_cached_network_image?style=social)  [flutter_cached_network_image](https://github.com/Baseflow/flutter_cached_network_image) - A flutter library to show images from the internet and keep them in the cache directory.
+
 - ![](https://img.shields.io/github/stars/fluttercandies/extended_image?style=social) [extended_image](https://github.com/fluttercandies/extended_image) - A powerful official extension library of image, which support placeholder(loading)/ failed state, cache network, zoom pan image, photo view, slide out page, editor(crop,rotate,flip), paint custom etc.
 
 - ![](https://img.shields.io/github/stars/dnfield/flutter_svg?style=social) [flutter_svg](https://github.com/dnfield/flutter_svg) - Draw SVG (and some Android VectorDrawable (XML)) files on a Flutter Widget.
