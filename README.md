@@ -70,6 +70,10 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 - ![](https://img.shields.io/github/stars/mkobuolys/flutter-design-patterns?style=social) [flutter-design-patterns](https://github.com/mkobuolys/flutter-design-patterns) - An open-source design patterns application built with Dart and Flutter.
 - ![](https://img.shields.io/github/stars/VB10/flutter-architecture-template?style=social) [flutter-architecture-template](https://github.com/VB10/flutter-architecture-template) - This project craeeted for proffesionel application arhitecture.
 
+**Best Practices**:
+
+- ![](https://img.shields.io/github/stars/erluxman/awesomefluttertips?style=social) [awesomefluttertips](https://github.com/erluxman/awesomefluttertips)
+
 ## Style Guide
 
 **Lint**
