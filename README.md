@@ -749,19 +749,6 @@ Note: As opposed to many alternatives, when using Freezed, that copyWith method 
   - strictly follows the Keep a Changelog v1.0.0 format
   - uses basic markdown (no HTML and complex formatting supported)
 
-**Lint & Format**
-
-- ![](https://img.shields.io/github/stars/passsy/dart-lint?style=social)  [dart-lint](https://github.com/passsy/dart-lint) - lint is a hand-picked, open-source, community-driven collection of lint rules for Dart and Flutter projects. The set of rules follows the Effective Dart: Style Guide.
-
-  This package can be used as a replacement for package:lints or the discontinued package:pedantic for those who prefer stricter rules.
-
-  lint tries to be strict but not annoying.
-- ![](https://img.shields.io/github/stars/fluttercommunity/import_sorter?style=social) [import_sorter](https://github.com/fluttercommunity/import_sorter) - 🎯 Dart package to automatically organize your dart imports. Any dart project supported! Will sorts imports alphabetically and then group them in the following order:
-  1. Dart imports
-  2. Flutter imports
-  3. Package imports
-  4. Project imports
-
 ## Monitor
 
 - ![](https://img.shields.io/github/stars/dart-lang/stack_trace?style=social)  [dart-lang/stack_trace](https://github.com/dart-lang/stack_trace) - This library provides the ability to parse, inspect, and manipulate stack traces produced by the underlying Dart implementation. It also provides functions to produce string representations of stack traces in a more readable format than the native StackTrace implementation.
@@ -776,6 +763,23 @@ Note: As opposed to many alternatives, when using Freezed, that copyWith method 
   - Configure Flutter SDK version per project or globally
   - Ability to install and cache multiple Flutter SDK Versions
   - Easily switch between Flutter channels & versions
+
+**Lint & Format:**
+
+- ![](https://img.shields.io/github/stars/passsy/dart-lint?style=social)  [dart-lint](https://github.com/passsy/dart-lint) - lint is a hand-picked, open-source, community-driven collection of lint rules for Dart and Flutter projects. The set of rules follows the Effective Dart: Style Guide.
+
+  This package can be used as a replacement for package:lints or the discontinued package:pedantic for those who prefer stricter rules.
+
+  lint tries to be strict but not annoying.
+- ![](https://img.shields.io/github/stars/fluttercommunity/import_sorter?style=social) [import_sorter](https://github.com/fluttercommunity/import_sorter) - 🎯 Dart package to automatically organize your dart imports. Any dart project supported! Will sorts imports alphabetically and then group them in the following order:
+  1. Dart imports
+  2. Flutter imports
+  3. Package imports
+  4. Project imports
+
+**Testing:**
+
+- ![](https://img.shields.io/github/stars/dart-lang/coverage?style=social) DART OFFICIAL [coverage](https://github.com/dart-lang/coverage)- Coverage provides coverage data collection, manipulation, and formatting for Dart.
 
 **Pub server:**
 
