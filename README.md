@@ -32,7 +32,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
     - [Color](#color)
     - [Text](#text)
     - [Icon](#icon)
-    - [Toast & Loading & Refresh](#toast--loading--refresh)
+    - [Toast & Loading & Refresh & Notifications](#toast--loading--refresh--notifications)
     - [Dialog & Alert](#dialog--alert)
     - [Popup & Sheet](#popup--sheet)
     - [Picker](#picker)
@@ -328,7 +328,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
   - Weather Icons by erikflowers (v2.0.10, 596 icons)
 - ![](https://img.shields.io/github/stars/iconfont-cli/flutter-iconfont-cli?style=social) [flutter-iconfont-cli](https://github.com/iconfont-cli/flutter-iconfont-cli) - 用纯 JS 把 [iconfont](https://www.iconfont.cn/) 的图标转换成Flutter Widget，不依赖字体，支持多色彩
 
-### Toast & Loading & Refresh
+### Toast & Loading & Refresh & Notifications
 
 - ![](https://img.shields.io/github/stars/CoderMJLee/MJRefresh?style=social) [MJRefresh](https://github.com/CoderMJLee/MJRefresh) - An easy way to use pull-to-refresh
 - ![](https://img.shields.io/github/stars/xuelongqy/flutter_easyrefresh?style=social) [flutter_easyrefresh](https://github.com/xuelongqy/flutter_easyrefresh)
@@ -348,6 +348,8 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 - ![](https://img.shields.io/github/stars/OpenFlutter/flutter_oktoast?style=social) [flutter_oktoast](https://github.com/OpenFlutter/flutter_oktoast) - A pure dart toast Library. You can completely customize the style of toast.
 - ![](https://img.shields.io/github/stars/appdev/FlutterToast?style=social) [FlutterToast](https://github.com/appdev/FlutterToast)
 - ![](https://img.shields.io/github/stars/bytedance/pull_to_refresh?style=social) [bytedance pull_to_refresh](https://github.com/bytedance/pull_to_refresh) - A widget that provided to pull-up load and pull-down refresh with Flutter.
+
+- ![](https://img.shields.io/github/stars/surfstudio/flutter-push-notificatio?style=social) [](https://github.com/surfstudio/flutter-push-notification)
 
 ### Dialog & Alert
 
