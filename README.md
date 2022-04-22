@@ -578,7 +578,7 @@ Check the `packages` directory for all plugins.
 
 - ![](https://img.shields.io/github/stars/diegoveloper/flutter_keyboard_actions?style=social) [flutter_keyboard_actions](https://github.com/diegoveloper/flutter_keyboard_actions/) - Add features to the Android / iOS keyboard in a simple way.
 
-Because the keyboard that Android / iOS offers us specifically when we are in numeric mode, does not bring the button to hide the keyboard. This causes a lot of inconvenience for users, so this package allows adding functionality to the existing keyboard.
+  Because the keyboard that Android / iOS offers us specifically when we are in numeric mode, does not bring the button to hide the keyboard. This causes a lot of inconvenience for users, so this package allows adding functionality to the existing keyboard.
 
 - ![](https://img.shields.io/github/stars/creativecreatorormaybenot/wakelock?style=social) [Wakelock](https://github.com/creativecreatorormaybenot/wakelock) - Wakelock is Flutter plugin that allows you to keep the device screen awake, i.e. prevent the screen from sleeping.
 - ![](https://img.shields.io/github/stars/fluttercommunity/flutter_uploader?style=social) [flutter_uploader](https://github.com/fluttercommunity/flutter_uploader) - A plugin for creating and managing upload tasks. Supports iOS and Android.
@@ -587,6 +587,11 @@ Because the keyboard that Android / iOS offers us specifically when we are in nu
 
   This plugin is inspired by flutter_downloader. Thanks to Hung Duy Ha & Flutter Community for great plugins and inspiration.
 
+- [flutter-otp-autofill](https://github.com/surfstudio/flutter-otp-autofill) - This plugin uses [SMS User Consent](https://developers.google.com/identity/sms-retriever/user-consent/overview) API and [SMS Retriever API](https://developers.google.com/identity/sms-retriever/overview) on Android.
+
+  You could use autofill from another input by using OTPStrategy. (e.g. from push-notification).
+
+  For testing you could create TestStrategy.
 **Plugins productivity**:
 
 - ![](https://img.shields.io/github/stars/dart-native/dart_native?style=social)  [Dart_Native](https://github.com/dart-native/dart_native) - Dart_Native operates as both a code generator tool and a bridge to communicate between Dart and native APIs.
