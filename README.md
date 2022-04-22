@@ -34,7 +34,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
     - [Icon](#icon)
     - [Toast & Loading & Refresh](#toast--loading--refresh)
     - [Dialog & Alert](#dialog--alert)
-    - [Popup](#popup)
+    - [Popup & Sheet](#popup--sheet)
     - [Picker](#picker)
     - [Bar](#bar)
     - [Chart](#chart)
@@ -360,10 +360,12 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
   4. Support no Context call dialog, see below
 
 - ![](https://img.shields.io/github/stars/fluttercandies/flutter_smart_dialog?style=social) [flutter_smart_dialog](https://github.com/fluttercandies/flutter_smart_dialog) - An elegant Flutter Dialog solution.
-  
+
 - ![](https://img.shields.io/github/stars/RatelHub/rflutter_alert?style=social) [rflutter_alert](https://github.com/RatelHub/rflutter_alert) - RFlutter Alert is super customizable and easy-to-use alert/popup dialogs for Flutter. You may create reusable alert styles or add buttons as much as you want with ease.
 
-### Popup
+### Popup & Sheet
+
+- ![](https://img.shields.io/github/stars/surfstudio/flutter-bottom-sheet?style=social) [surfstudio/flutter-bottom-sheet](https://github.com/surfstudio/flutter-bottom-sheet) - Custom bottom sheet widget that can be resized in response to drag gestures and then scrolled.
 
 ### Picker
 
