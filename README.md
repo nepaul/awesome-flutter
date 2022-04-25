@@ -194,6 +194,9 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
   - 🔒 Strong encryption built in
   - 🎈 NO native dependencies
   - 🔋 Batteries included
+
+- <img width="24" alt="flutter_favorite_badge" src="https://user-images.githubusercontent.com/1112181/109502339-d11da080-7ad3-11eb-8324-e2aaba817f16.png"> ![](https://img.shields.io/github/stars/tekartik/sqflite?style=social) [sqflite](https://github.com/tekartik/sqflite) - SQLite plugin for Flutter. Supports iOS, Android and MacOS.
+
 - ![](https://img.shields.io/github/stars/isar/isar?style=social) [Isar Database](https://github.com/isar/isar)
   - 💙 Made for Flutter. Easy to use, no config, no boilerplate
   - 🚀 Highly scalable from hundreds to hundreds of thousands of records
