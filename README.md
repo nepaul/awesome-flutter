@@ -197,6 +197,21 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 
 - <img width="24" alt="flutter_favorite_badge" src="https://user-images.githubusercontent.com/1112181/109502339-d11da080-7ad3-11eb-8324-e2aaba817f16.png"> ![](https://img.shields.io/github/stars/tekartik/sqflite?style=social) [sqflite](https://github.com/tekartik/sqflite) - SQLite plugin for Flutter. Supports iOS, Android and MacOS.
 
+- ![](https://img.shields.io/github/stars/simolus3/drift?style=social) [drift(Moor)](https://github.com/simolus3/drift) - Drift is a reactive persistence library for Flutter and Dart, built on top of sqlite. Drift is
+
+  Flexible: Drift let's you write queries in both SQL and Dart, providing fluent apis for both languages. You can filter and order results or use joins to run queries on multiple tables. You can even use complex sql features like WITH and WINDOW clauses.
+
+- 🔥 Feature rich: Drift has builtin support for transactions, schema migrations, complex filters and expressions, batched updates and joins. We even have a builtin IDE for SQL!
+- 📦 Modular: Thanks to builtin support for daos and imports in sql files, drift helps you keep your database code simple.
+- 🛡️ Safe: Drift generates typesafe code based on your tables and queries. If you make a mistake in your queries, drift will find it at compile time and provide helpful and descriptive lints.
+- ⚡ Fast: Even though drift lets you write powerful queries, it can keep up with the performance of key-value stores like shared preferences and Hive. Drift is the only major persistence library with builtin threading support, allowing you to run database code across isolates with zero additional effort.
+Reactive: Turn any sql query into an auto-updating stream! This includes complex queries across many tables
+- ⚙️ Cross-Platform support: Drift works on Android, iOS, macOS, Windows, Linux and the web. This template is a Flutter todo app that works on all platforms.
+- 🗡️ Battle tested and production ready: Drift is stable and well tested with a wide range of unit and integration tests. It powers production Flutter apps.
+With drift, persistence on Flutter is fun!
+
+  To start using drift, read our detailed [docs](https://drift.simonbinder.eu/docs/getting-started/).
+
 - ![](https://img.shields.io/github/stars/isar/isar?style=social) [Isar Database](https://github.com/isar/isar)
   - 💙 Made for Flutter. Easy to use, no config, no boilerplate
   - 🚀 Highly scalable from hundreds to hundreds of thousands of records
