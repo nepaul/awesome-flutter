@@ -357,7 +357,7 @@ With drift, persistence on Flutter is fun!
 
 - ![](https://img.shields.io/github/stars/aagarwal1012/Liquid-Pull-To-Refresh?style=social) [Liquid-Pull-To-Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) - A beautiful and custom refresh indicator for flutter highly inspired from [Ramotion Pull Down](https://dribbble.com/shots/1797373-Pull-Down-To-Refresh) to Refresh. Try out our live [example app](https://liquid-pull-to-refresh.web.app/#/).
 
-- ![](https://img.shields.io/github/stars/MMMzq/bot_toast?style=social) [💗 bot_toast](<https://github.com/MMMzq/bot_toast> -: A really easy to use flutter toast library!
+- ![](https://img.shields.io/github/stars/MMMzq/bot_toast?style=social) [💗 bot_toast](https://github.com/MMMzq/bot_toast) - A really easy to use flutter toast library!
   - In the true sense of Toast, you can call it whenever you need it, without any restrictions!
   - Feature-rich, support for displaying notifications, text, loading, attachments, etc. Toast
   - Support for popping up various custom Toasts, or you can pop up any Widget as long as it meets the requirements of the flutter code.
@@ -367,7 +367,9 @@ With drift, persistence on Flutter is fun!
 - ![](https://img.shields.io/github/stars/appdev/FlutterToast?style=social) [FlutterToast](https://github.com/appdev/FlutterToast)
 - ![](https://img.shields.io/github/stars/bytedance/pull_to_refresh?style=social) [bytedance pull_to_refresh](https://github.com/bytedance/pull_to_refresh) - A widget that provided to pull-up load and pull-down refresh with Flutter.
 
-- ![](https://img.shields.io/github/stars/surfstudio/flutter-push-notificatio?style=social) [](https://github.com/surfstudio/flutter-push-notification)
+- ![](https://img.shields.io/github/stars/surfstudio/flutter-push-notification?style=social) [flutter-push-notification](https://github.com/surfstudio/flutter-push-notification)
+
+- ![](https://img.shields.io/github/stars/surfstudio/surfstudio/flutter-swipe-refresh?style=social) [surfstudio/flutter-swipe-refresh](https://github.com/surfstudio/flutter-swipe-refresh) - Widget for refresh by swipe.
 
 ### Dialog & Alert
 
