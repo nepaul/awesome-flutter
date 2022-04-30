@@ -369,7 +369,7 @@ With drift, persistence on Flutter is fun!
 
 - ![](https://img.shields.io/github/stars/surfstudio/flutter-push-notification?style=social) [flutter-push-notification](https://github.com/surfstudio/flutter-push-notification)
 
-- ![](https://img.shields.io/github/stars/surfstudio/surfstudio/flutter-swipe-refresh?style=social) [surfstudio/flutter-swipe-refresh](https://github.com/surfstudio/flutter-swipe-refresh) - Widget for refresh by swipe.
+- ![](https://img.shields.io/github/stars/surfstudio/flutter-swipe-refresh?style=social) [surfstudio/flutter-swipe-refresh](https://github.com/surfstudio/flutter-swipe-refresh) - Widget for refresh by swipe.
 
 ### Dialog & Alert
 
