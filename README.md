@@ -810,6 +810,10 @@ Note: As opposed to many alternatives, when using Freezed, that copyWith method 
 
 - ![](https://img.shields.io/github/stars/dart-lang/coverage?style=social) DART OFFICIAL [coverage](https://github.com/dart-lang/coverage)- Coverage provides coverage data collection, manipulation, and formatting for Dart.
 
+**Mock:**
+
+- ![](https://img.shields.io/github/stars/felangel/mocktail?style=social)  [mocktail](https://github.com/felangel/mocktail) - This repository contains mocking libraries for Dart inspired by [mockito](https://pub.dev/packages/mockito).
+
 **Pub server:**
 
 - [unpub](https://github.com/bytedance/unpub) - Unpub is a self-hosted private Dart Pub server for Enterprise, with a simple web interface to search and view packages information.
