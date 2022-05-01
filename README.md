@@ -808,6 +808,11 @@ Note: As opposed to many alternatives, when using Freezed, that copyWith method 
 
 **Testing:**
 
+- ![](https://img.shields.io/github/stars/Betterment/alchemist?style=social) [alchemist](https://github.com/Betterment/alchemist) - **A Flutter tool that makes golden testing easy.**
+  Alchemist is a Flutter package that provides functions, extensions and documentation to support golden tests.
+
+  Heavily inspired by Ebay Motor's golden_toolkit package, Alchemist attempts to make writing and running golden tests in Flutter easier.
+
 - ![](https://img.shields.io/github/stars/dart-lang/coverage?style=social) DART OFFICIAL [coverage](https://github.com/dart-lang/coverage)- Coverage provides coverage data collection, manipulation, and formatting for Dart.
 
 **Mock:**
