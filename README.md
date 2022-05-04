@@ -721,6 +721,15 @@ Note: As opposed to many alternatives, when using Freezed, that copyWith method 
 
   Inspired by [SwiftGen](https://github.com/SwiftGen/SwiftGen).
 
+- <img width="24" alt="flutter_favorite_badge" src="https://user-images.githubusercontent.com/1112181/109502339-d11da080-7ad3-11eb-8324-e2aaba817f16.png"> ![](https://img.shields.io/github/stars/google/built_value.dart?style=social) [google/built_value](https://github.com/google/built_value.dart) - Built Value provides:
+
+  - Immutable value types;
+  - EnumClass, classes that behave like enums;
+  - JSON serialization.
+  - Immutable collections are from built_collection.
+
+  See the API docs.
+
 - ![](https://img.shields.io/github/stars/dart-lang/build?style=social) [Dart Official Build](https://github.com/dart-lang/build) - These packages provide libraries for generating, compiling and serving Dart code.
   - build: Defines the interfaces for creating a Builder which is a way of doing codegen that is compatible across build systems (pub, bazel, standalone runner).
 
