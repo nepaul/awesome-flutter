@@ -654,6 +654,12 @@ Check the `packages` directory for all plugins.
   - Flutter friendly
   - State management libraries friendly (Mobx example included)
 
+- ![](https://img.shields.io/github/stars/surfstudio/flutter-surf-util?style=social) [flutter-surf-util](https://github.com/surfstudio/flutter-surf-util) - A library with set of common classes and utilities used in different modules:
+
+  - Bitmask - A generic implementation of the Bitmask type.
+  - Enum - Java-like enum.
+  - DisableOverscroll - Prevent glowing when scrolling over the edge
+
 **Dynamic**:
 
 - ![](https://img.shields.io/github/stars/dengyin2000/dynamic_widget?style=social) [Flutter Dynamic Widget](https://github.com/dengyin2000/dynamic_widget) - A Backend-Driven UI toolkit, build your dynamic UI with json, and the json format is very similar with flutter widget code.
