@@ -87,6 +87,8 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
   3. Package imports
   4. Project imports
 
+- ![](https://img.shields.io/github/stars/fluttercommunity/import_sorter?style=social) [flutter-surf-lint-rules](https://github.com/surfstudio/flutter-surf-lint-rules)
+
 ## Community
 
 - [fluttercommunity](https://github.com/fluttercommunity) - A central place for all community made Flutter packages. To get started, see the README of the 'community' repository.
