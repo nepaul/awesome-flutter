@@ -150,7 +150,10 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 
 **Architecture:**
 
-- ![](https://img.shields.io/github/stars/AndriousSolutions/mvc_pattern?style=social)v [mvc_pattern](https://github.com/AndriousSolutions/mvc_pattern) - Flutter Plugin to implement one of many variations of the MVC design pattern.
+- ![](https://img.shields.io/github/stars/marcojakob/dart-event-bus?style=social) [Event Bus](https://github.com/marcojakob/dart-event-bus) - A simple Event Bus using Dart Streams for decoupling applications.
+ ![](https://raw.githubusercontent.com/marcojakob/dart-event-bus/master/doc/event-bus.png)
+
+- ![](https://img.shields.io/github/stars/AndriousSolutions/mvc_pattern?style=social) [mvc_pattern](https://github.com/AndriousSolutions/mvc_pattern) - Flutter Plugin to implement one of many variations of the MVC design pattern.
 
 ## Add Flutter to existing app
 
