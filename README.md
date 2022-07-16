@@ -144,6 +144,29 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 
 - ![](https://img.shields.io/github/stars/aagarwal1012/IntroViews-Flutter?style=social) [IntroViews-Flutter](https://github.com/aagarwal1012/IntroViews-Flutter) - IntroViews is inspired by [Paper Onboarding](https://github.com/Ramotion/paper-onboarding-android) and developed with love from scratch. Checkout our fully responsive [live example app](https://introviews-flutter.web.app/).
 
+- ![](https://img.shields.io/github/stars/flutter/codelabs?style=social) [Flutter Official CodeLabs](https://github.com/flutter/codelabs) - This repository contains the code for a variety of Flutter Codelabs. Here is a list of the codelabs represented here:
+  - [Adaptive Apps in Flutter](https://codelabs.developers.google.com/codelabs/flutter-adaptive-app) is in `adaptive_app`
+  - [Adding Google Maps to a Flutter app](https://codelabs.developers.google.com/codelabs/google-maps-in-flutter) is in `google-maps-in-flutter`
+  - [Adding in-app purchases to your Flutter app](https://codelabs.developers.google.com/codelabs/flutter-in-app-purchases) is in `in_app_purchases`
+  - [Adding WebView to your Flutter app](https://codelabs.developers.google.com/codelabs/flutter-webview) is in `webview_flutter`
+  - [Build a Photo Sharing app with Google Photos and Flutter
+](https://codelabs.developers.google.com/codelabs/google-photos-sharing) is in `photos-sharing`
+  - [Building a Cupertino app with Flutter](https://codelabs.developers.google.com/codelabs/flutter-cupertino) is in `cupertino_store`
+  - [Get to know Firebase for Flutter](https://firebase.google.com/codelabs/firebase-get-to-know-flutter) is in `firebase-get-to-know-flutter`
+  - [How to test a Flutter app](https://codelabs.developers.google.com/codelabs/flutter-app-testing) is in `testing_codelab`
+  - [How to write a Flutter plugin](https://codelabs.developers.google.com/codelabs/write-flutter-plugin) is in `plugin_codelab`
+  - [Using a plugin with a Flutter web app](https://codelabs.developers.google.com/codelabs/web-url-launcher) is in `star_counter`
+  - [Write a Flutter desktop application](https://codelabs.developers.google.com/codelabs/flutter-github-client) is in `github-client`
+  - [Write your first Flutter app, part 1](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1) and [Write your first Flutter app, part 2](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2) are in `startup_namer`
+  - [Get started with text classification in Flutter apps](https://developers.google.com/learn/pathways/text-classification-flutter) pathway is in `tfserving-flutter`
+  - [Building a fullstack movie recommendation system](https://codelabs.developers.google.com/tfrecommenders-flutter) is in `tfrs-flutter`
+  - [Building a board game with TensorFlow Agents and Flutter](https://codelabs.developers.google.com/tfagents-flutter#0) is in `tfagents-flutter`  
+
+  To learn more about setting up Flutter and running apps, see
+  [flutter.dev/get-started][].
+
+  [flutter.dev/get-started]: https://flutter.dev/docs/get-started
+
 - ![](https://img.shields.io/github/stars/MarcusNg/flutter_covid_dashboard_ui?style=social) [flutter_covid_dashboard_ui](https://github.com/MarcusNg/flutter_covid_dashboard_ui)[[YouTube Video](https://www.youtube.com/watch?v=krU-ASLb8lM&feature=youtu.be&ab_channel=MarcusNg))
 
 - ![](https://img.shields.io/github/stars/VB10/ecommerce_flutter_side?style=social)  [ecommerce_flutter_side](https://github.com/VB10/ecommerce_flutter_side)
