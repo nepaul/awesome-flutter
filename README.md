@@ -60,6 +60,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
   - [Tools](#tools)
   - [Service](#service)
   - [Apps](#apps)
+  - [Desktop Only](#desktop-only)
   - [Contribution](#contribution)
   - [License](#license)
 
@@ -965,6 +966,10 @@ Open Source. Lightweight. Clean. Straightforward. Fast. Powerful.
 - ![](https://img.shields.io/github/stars/PierreBresson/flutter-wordpress-podcast?style=social)  [Flutter Wordpress Podcast](https://github.com/PierreBresson/flutter-wordpress-podcast) -  🎤 Podcast white label app based on Wordpress API
 
 - ![](https://img.shields.io/github/stars/kaina404/FlutterDouBant?style=social) [FlutterDouBan](https://github.com/kaina404/FlutterDouBan)
+
+## Desktop Only
+
+- ![](https://img.shields.io/github/stars/leanflutter/window_manager?style=social) ![](https://img.shields.io/badge/platform-mac%20%7C%20linux%20%7C%20windows-lightgrey) [window_manager](https://github.com/leanflutter/window_manager) - This plugin allows Flutter desktop apps to resizing and repositioning the window.
 
 ## Contribution
 
