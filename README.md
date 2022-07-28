@@ -643,6 +643,9 @@ Check the `packages` directory for all plugins.
   You could use autofill from another input by using OTPStrategy. (e.g. from push-notification).
 
   For testing you could create TestStrategy.
+
+- ![](https://img.shields.io/github/stars/BestBurning/platform_device_id?style=social) [platform_device_id](https://github.com/BestBurning/platform_device_id) -  Get device id from android、ios、windows、linux、mac、web
+
 **Plugins productivity**:
 
 - ![](https://img.shields.io/github/stars/dart-native/dart_native?style=social)  [Dart_Native](https://github.com/dart-native/dart_native) - Dart_Native operates as both a code generator tool and a bridge to communicate between Dart and native APIs.
