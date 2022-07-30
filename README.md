@@ -483,6 +483,8 @@ Adorable color pickers out of the box with highly customized widgets to all deve
 
 - ![](https://img.shields.io/github/stars/xsahil03x/before_after?style=social) [before_after](https://github.com/xsahil03x/before_after) - A flutter package which makes it easier to display the differences between two images.
 
+- ![](https://img.shields.io/github/stars/alibaba/power_image?style=social) [alibaba/power_image](https://github.com/alibaba/power_image) - A powerful plugin that fully uses the native image library's ability to display images on the flutter side.
+
 ### List & Grid
 
 - ![](https://img.shields.io/github/stars/letsar/flutter_staggered_grid_view?style=social) [flutter_staggered_grid_view](https://github.com/letsar/flutter_staggered_grid_view) - Provides a collection of Flutter grids layouts. This package contains various grid layouts. In the following section, you'll discover each one of them. The explanation of the layout will always considered a top-to-bottom and left-to-right directions to simplify the description. However it is possible to change these directions in the code.
