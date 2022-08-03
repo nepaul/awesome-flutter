@@ -416,6 +416,8 @@ With drift, persistence on Flutter is fun!
 
 ### Popup & Sheet
 
+- ![](https://img.shields.io/github/stars/minikin/popover?style=social) [minikin/popover/](https://github.com/minikin/popover/) - A popover is a transient view that appears above other content onscreen when you tap a control or in an area. Typically, a popover includes an arrow pointing to the location from which it emerged. Popovers can be nonmodal or modal. A nonmodal popover is dismissed by tapping another part of the screen or a button on the popover. A modal popover is dismissed by tapping a Cancel or other button on the popover.
+
 - ![](https://img.shields.io/github/stars/surfstudio/flutter-bottom-sheet?style=social) [surfstudio/flutter-bottom-sheet](https://github.com/surfstudio/flutter-bottom-sheet) - Custom bottom sheet widget that can be resized in response to drag gestures and then scrolled.
 
 ### Picker
