@@ -650,7 +650,11 @@ Check the `packages` directory for all plugins.
 
 - ![](https://img.shields.io/github/stars/BestBurning/platform_device_id?style=social) [platform_device_id](https://github.com/BestBurning/platform_device_id) -  Get device id from android、ios、windows、linux、mac、web
 
-**Plugins productivity**:
+**Plugins FFI:**
+
+- ![](https://img.shields.io/github/stars/fzyzcjy/flutter_rust_bridge?style=social) [flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge) - High-level memory-safe binding generator for Flutter/Dart <-> Rust.
+
+**Plugins productivity:**
 
 - ![](https://img.shields.io/github/stars/dart-native/dart_native?style=social)  [Dart_Native](https://github.com/dart-native/dart_native) - Dart_Native operates as both a code generator tool and a bridge to communicate between Dart and native APIs.
 
