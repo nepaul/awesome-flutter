@@ -31,6 +31,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
     - [Theme](#theme)
     - [Color](#color)
     - [Text](#text)
+    - [Button](#button)
     - [Icon](#icon)
     - [Toast & Loading & Refresh & Notifications](#toast--loading--refresh--notifications)
     - [Dialog & Alert](#dialog--alert)
@@ -353,6 +354,9 @@ With drift, persistence on Flutter is fun!
 - ![](https://img.shields.io/github/stars/bytedance/RealRichText?style=social) [RealRichText](https://github.com/bytedance/RealRichText) - A Tricky Solution for Implementing Inline-Image-In-Text Feature in Flutter.
 
 - ![](https://img.shields.io/github/stars/marcelgarus/marquee?style=social) [marquee](https://github.com/marcelgarus/marquee) - A Flutter widget that scrolls text infinitely. Provides many customizations including custom scroll directions, durations, curves as well as pauses after every round.
+
+### Button
+- [group_button](https://github.com/Frezyx/group_button) - Flutter widget to create a group of buttons fast 🚀. Included Radio and CheckBox buttons models with custom groping types 🤤
 
 ### Icon
 
