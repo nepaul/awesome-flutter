@@ -356,6 +356,7 @@ With drift, persistence on Flutter is fun!
 - ![](https://img.shields.io/github/stars/marcelgarus/marquee?style=social) [marquee](https://github.com/marcelgarus/marquee) - A Flutter widget that scrolls text infinitely. Provides many customizations including custom scroll directions, durations, curves as well as pauses after every round.
 
 ### Button
+
 - [group_button](https://github.com/Frezyx/group_button) - Flutter widget to create a group of buttons fast 🚀. Included Radio and CheckBox buttons models with custom groping types 🤤
 
 ### Icon
@@ -516,6 +517,8 @@ Easy creation of city list or contact list interfaces.
 - ![](https://img.shields.io/github/stars/Kavantix/sliver_tools?style=social) [sliver_tools](https://github.com/Kavantix/sliver_tools) - A set of useful sliver tools that are missing from the flutter framework. Here is a taste what you can make using this packages.
 
   ![](https://raw.githubusercontent.com/Kavantix/sliver_tools/master/gifs/demo2.gif)
+
+- ![](https://img.shields.io/github/stars/fluttercandies/waterfall_flow?style=social) [fluttercandies/waterfall_flow](https://github.com/fluttercandies/waterfall_flow) - A Flutter grid view easy to build waterfall flow layout quickly.
 
 - ![](https://img.shields.io/github/stars/fluttercandies/loading_more_list?style=social) [loading_more_list](https://github.com/fluttercandies/loading_more_list) - A loading more list which supports ListView,GridView,WaterfallFlow and Slivers.
   
