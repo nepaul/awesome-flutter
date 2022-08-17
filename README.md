@@ -733,6 +733,8 @@ Check the `packages` directory for all plugins.
 
 - ![](https://img.shields.io/github/stars/dart-lang/collection?style=social) [dart-lang/collection](https://github.com/dart-lang/collection)(**Dart Official**) - Contains utility functions and classes in the style of dart:collection to make working with collections easier. Includes Algorithms, Equality, Iterable Zip, Priority Queue, Wrappers...
 
+- **DART OFFICIAL**![](https://img.shields.io/github/stars/dart-lang/stream_transform?style=social) [dart-lang/stream_transform](https://github.com/dart-lang/stream_transform) - Extension methods on Stream adding common transform operators.
+
 **Lifecycle**
 
 - ![](https://img.shields.io/github/stars/rrousselGit/flutter_hooks?style=social) [flutter_hooks](https://github.com/rrousselGit/flutter_hooks) - A Flutter implementation of React hooks: <https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889>.
