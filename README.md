@@ -979,6 +979,8 @@ Open Source. Lightweight. Clean. Straightforward. Fast. Powerful.
 
 - ![](https://img.shields.io/github/stars/MDSADABWASIM/Toughest?style=social) [toughest](https://github.com/MDSADABWASIM/Toughest) - Interview questions and answers for preparation, built in pure flutter also have CI implementation for learning.
 
+- ![](https://img.shields.io/github/stars/Roaa94/movies_app?style=social)[movies_app](https://github.com/Roaa94/movies_app) - A Flutter app that uses the "The Movie DB" api to fetch popular people and their info (their movies, images, ..etc).
+
 - ![](https://img.shields.io/github/stars/MDSADABWASIM/You?style=social) [You](https://github.com/MDSADABWASIM/You) - The app checks what internet knows about you.
 
 - ![](https://img.shields.io/github/stars/Blakexx/CryptoTracker?style=social) [Platypus Crypto](https://github.com/Blakexx/CryptoTracker) - Platypus Crypto is an ad-free cross-platform robust solution for tracking cryptocurrency assets. Our intuitive interface includes real-time 7-day graphs, current prices and market caps, and percent change over time. Featuring rapid sort, search and refresh features, and support for 32 fiat currencies, Platypus Crypto enables casual and power users alike to monitor cryptocurrency assets on-the-go! Our customization options allow for the removal of 7-day graphs for a more compact feel and a dark theme.
