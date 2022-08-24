@@ -274,6 +274,7 @@ With drift, persistence on Flutter is fun!
   - Pluggable componentization
   - Non-destructive performance
 - ![](https://img.shields.io/github/stars/jonataslaw/getx?style=social) [getx](https://github.com/jonataslaw/getx) - GetX is an extra-light and powerful solution for Flutter. It combines high-performance state management, intelligent dependency injection, and route management quickly and practically. GetX has 3 basic principles. This means that these are the priority for all resources in the library: PRODUCTIVITY, PERFORMANCE AND ORGANIZATION.
+
 - <img width="24" alt="flutter_favorite_badge" src="https://user-images.githubusercontent.com/1112181/109502339-d11da080-7ad3-11eb-8324-e2aaba817f16.png"> ![](https://img.shields.io/github/stars/rrousselGit/provider?style=social) [provider](https://github.com/rrousselGit/provider) - A wrapper around InheritedWidget to make them easier to use and more reusable.
 
   By using provider instead of manually writing InheritedWidget, you get:
@@ -283,7 +284,7 @@ With drift, persistence on Flutter is fun!
   - devtool friendly – using Provider, the state of your application will be visible in the Flutter devtool
   - a common way to consume these InheritedWidgets (See Provider.of/Consumer/Selector)
   - increased scalability for classes with a listening mechanism that grows exponentially in complexity (such as ChangeNotifier, which is O(N) for dispatching notifications).
-- ![](https://img.shields.io/github/stars/rrousselGit/river_pod?style=social) [river_pod](https://github.com/rrousselGit/river_pod) - A state-management library that:
+- ![](https://img.shields.io/github/stars/rrousselGit/riverpod?style=social) [river_pod](https://github.com/rrousselGit/riverpod) - A state-management library that:
   - catches programming errors at compile time rather than at runtime
   - removes nesting for listening/combining objects
   - ensures that the code is testable
