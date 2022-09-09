@@ -314,7 +314,9 @@ With drift, persistence on Flutter is fun!
 - **DART OFFICIAL** ![](https://img.shields.io/github/stars/dart-lang/http?style=social)  [dart-lang/http](https://github.com/dart-lang/http) - A composable, Future-based library for making HTTP requests. This package contains a set of high-level functions and classes that make it easy to consume HTTP resources. It's multi-platform, and supports mobile, desktop, and the browser.
 
   **Utils**:
-- ![](https://img.shields.io/github/stars/komapeb/data_connection_checker?style=social) [data_connection_checker](https://github.com/komapeb/data_connection_checker/) - A pure Dart utility library that checks for an internet connection by opening a socket to a list of specified addresses, each with individual port and timeout. Defaults are provided for convenience.
+  - ![](https://img.shields.io/github/stars/jogboms/flutter_offline?style=social) [flutter_offline](https://github.com/jogboms/flutter_offline) - A tidy utility to handle offline/online connectivity like a Boss. It provides support for both iOS and Android platforms (offcourse).
+
+  - ![](https://img.shields.io/github/stars/komapeb/data_connection_checker?style=social) [data_connection_checker](https://github.com/komapeb/data_connection_checker/) - A pure Dart utility library that checks for an internet connection by opening a socket to a list of specified addresses, each with individual port and timeout. Defaults are provided for convenience.
 
 ## Components
 
