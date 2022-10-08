@@ -363,7 +363,8 @@ With drift, persistence on Flutter is fun!
 
 ### Button
 
-- [group_button](https://github.com/Frezyx/group_button) - Flutter widget to create a group of buttons fast 🚀. Included Radio and CheckBox buttons models with custom groping types 🤤
+- ![](https://img.shields.io/github/stars/Frezyx/group_button?style=social) [group_button](https://github.com/Frezyx/group_button) - Flutter widget to create a group of buttons fast 🚀. Included Radio and CheckBox buttons models with custom groping types 🤤
+- ![](https://img.shields.io/github/stars/juliansteenbakker/sign_in_button?style=social) [sign_in_button](https://pub.dev/packages/sign_in_button) - A Flutter package that provides a set of buttons for signing in with Google, Facebook, Twitter, Apple, Microsoft, GitHub, and more.
 
 ### Icon
 
