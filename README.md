@@ -361,6 +361,10 @@ With drift, persistence on Flutter is fun!
 
 - ![](https://img.shields.io/github/stars/marcelgarus/marquee?style=social) [marquee](https://github.com/marcelgarus/marquee) - A Flutter widget that scrolls text infinitely. Provides many customizations including custom scroll directions, durations, curves as well as pauses after every round.
 
+- ![](https://img.shields.io/github/stars/faob-dev/flutter_circular_text?style=social) [flutter_circular_text](https://github.com/faob-dev/flutter_circular_text)
+
+  <img src="https://raw.githubusercontent.com/faob-dev/flutter_circular_text/master/screenshots/multi_circular_text.jpeg" width="200" height="320"/>
+
 ### Button
 
 - ![](https://img.shields.io/github/stars/Frezyx/group_button?style=social) [group_button](https://github.com/Frezyx/group_button) - Flutter widget to create a group of buttons fast 🚀. Included Radio and CheckBox buttons models with custom groping types 🤤
