@@ -91,6 +91,8 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 
 - ![](https://img.shields.io/github/stars/dart-lang/lints?style=social) [Official Dart lint rules](https://github.com/dart-lang/lints) - The Dart linter is a static analyzer for identifying possible problems in your Dart source code. More than a hundred linter rules are available, checking anything from potential typing issues, coding style, and formatting. This package, lints, contains the lint settings recommended by the Dart team.
 
+- ![](https://img.shields.io/github/stars/camus-design/camus_lints?style=social) [Camus Lints](https://github.com/camus-design/camus_lints)
+
 ## Community
 
 - [fluttercommunity](https://github.com/fluttercommunity) - A central place for all community made Flutter packages. To get started, see the README of the 'community' repository.
