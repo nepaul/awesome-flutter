@@ -21,8 +21,8 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
   - [Community](#community)
   - [Starter Samples](#starter-samples)
   - [Add Flutter to existing app](#add-flutter-to-existing-app)
-  - [Navigation & Routing](#navigation--routing)
-  - [Data & Backend](#data--backend)
+  - [Navigation \& Routing](#navigation--routing)
+  - [Data \& Backend](#data--backend)
     - [Storage](#storage)
     - [State management](#state-management)
     - [Network](#network)
@@ -33,22 +33,22 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
     - [Text](#text)
     - [Button](#button)
     - [Icon](#icon)
-    - [Toast & Loading & Refresh & Notifications](#toast--loading--refresh--notifications)
-    - [Dialog & Alert](#dialog--alert)
-    - [Popup & Sheet](#popup--sheet)
+    - [Toast \& Loading \& Refresh \& Notifications](#toast--loading--refresh--notifications)
+    - [Dialog \& Alert](#dialog--alert)
+    - [Popup \& Sheet](#popup--sheet)
     - [Picker](#picker)
     - [Bar](#bar)
     - [Chart](#chart)
     - [Switch](#switch)
-    - [Swipe & Slide & Indicator](#swipe--slide--indicator)
-    - [Badges & Labels](#badges--labels)
+    - [Swipe \& Slide \& Indicator](#swipe--slide--indicator)
+    - [Badges \& Labels](#badges--labels)
     - [Datetime](#datetime)
     - [Calendars](#calendars)
     - [Clippers](#clippers)
     - [Images](#images)
-    - [List & Grid](#list--grid)
-    - [Input & Form](#input--form)
-    - [Steps & Timelines](#steps--timelines)
+    - [List \& Grid](#list--grid)
+    - [Input \& Form](#input--form)
+    - [Steps \& Timelines](#steps--timelines)
     - [Progress](#progress)
     - [Menu](#menu)
     - [Editor](#editor)
@@ -1009,6 +1009,17 @@ Open Source. Lightweight. Clean. Straightforward. Fast. Powerful.
 - ![](https://img.shields.io/github/stars/kaina404/FlutterDouBant?style=social) [FlutterDouBan](https://github.com/kaina404/FlutterDouBan)
 
 ## Desktop Only
+
+- ![](https://img.shields.io/github/stars/google/flutter-desktop-embedding?style=social) [flutter-desktop-embedding](https://github.com/google/flutter-desktop-embedding/) - This project was originally created to develop Windows, macOS, and Linux embeddings of Flutter. That work has since become part of Flutter, and all that remains here are experimental, early-stage desktop plugins.
+
+  If you want to get started with Flutter on desktop, the place to start is now the Flutter documentation, rather than this project. You will already need to have followed the instructions there to get an application running on desktop before using any of the plugins here.
+
+  - [menubar](https://github.com/google/flutter-desktop-embedding/tree/main/plugins/menubar) - This plugin provides access to a native menubar.
+
+    This is a prototype, and in the long term will either be replaced by functionality within the Flutter framework itself, or a published plugin (likely part of flutter/plugins). Either way, the API will change significantly.
+  - [window_size](https://github.com/google/flutter-desktop-embedding/tree/main/plugins/window_size) - This plugin allows resizing and repositioning the window containing the Flutter content, as well as querying screen information.
+
+    This is a prototype, and in the long term is expected to be replaced by [functionality within the Flutter framework](https://docs.google.com/document/d/11_4wntz_9IJTQOo_Qhp7QF4RfpIMTfVygtOTxQ4OGHY/edit).
 
 - ![](https://img.shields.io/github/stars/leanflutter/window_manager?style=social) ![](https://img.shields.io/badge/platform-mac%20%7C%20linux%20%7C%20windows-lightgrey) [window_manager](https://github.com/leanflutter/window_manager) - This plugin allows Flutter desktop apps to resizing and repositioning the window.
 
