@@ -41,7 +41,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
     - [Chart](#chart)
     - [Switch](#switch)
     - [Swipe \& Slide \& Indicator](#swipe--slide--indicator)
-    - [Badges \& Labels](#badges--labels)
+    - [Badges \& Labels \& Tags](#badges--labels--tags)
     - [Datetime](#datetime)
     - [Calendars](#calendars)
     - [Clippers](#clippers)
@@ -477,9 +477,13 @@ Adorable color pickers out of the box with highly customized widgets to all deve
 - ![](https://img.shields.io/github/stars/akshathjain/sliding_up_panel?style=social) [sliding_up_panel](https://github.com/akshathjain/sliding_up_panel) - A draggable Flutter widget that makes implementing a SlidingUpPanel much easier! Based on the Material Design bottom sheet component, this widget works on both Android & iOS. (like DouBan)
 - ![](https://img.shields.io/github/stars/Milad-Akarie/smooth_page_indicator?style=social) [smooth_page_indicator](https://github.com/Milad-Akarie/smooth_page_indicator) - Customizable animated page indicator with a set of built-in effects.
 
-### Badges & Labels
+### Badges & Labels & Tags
 
 - ![](https://img.shields.io/github/stars/yako-dev/flutter_badges?style=social) [flutter_badges](https://github.com/yako-dev/flutter_badges)
+   <details><summary>Show Case</summary>
+    <img src="https://github.com/yako-dev/flutter_badges/blob/docs/readme/images/readme_header.png?raw=trueg" width="900" alt="" />
+  </details>
+- ![](https://img.shields.io/github/stars/Dn-a/flutter_tags?style=social) [flutter_tags](https://github.com/Dn-a/flutter_tags) - Create beautiful tags quickly and easily.
 
 ### Datetime
 
