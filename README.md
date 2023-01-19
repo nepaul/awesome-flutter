@@ -480,8 +480,8 @@ Adorable color pickers out of the box with highly customized widgets to all deve
 ### Badges & Labels & Tags
 
 - ![](https://img.shields.io/github/stars/yako-dev/flutter_badges?style=social) [flutter_badges](https://github.com/yako-dev/flutter_badges)
-   <details><summary>Show Case</summary>
-    <img src="https://github.com/yako-dev/flutter_badges/blob/docs/readme/images/readme_header.png?raw=trueg" width="900" alt="" />
+   <details><summary>Showcase</summary>
+    <img src="https://github.com/yako-dev/flutter_badges/blob/docs/readme/images/showcase.gif?raw=true" width="900" alt="" />
   </details>
 - ![](https://img.shields.io/github/stars/Dn-a/flutter_tags?style=social) [flutter_tags](https://github.com/Dn-a/flutter_tags) - Create beautiful tags quickly and easily.
 
