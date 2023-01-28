@@ -1027,6 +1027,8 @@ Open Source. Lightweight. Clean. Straightforward. Fast. Powerful.
 
 - ![](https://img.shields.io/github/stars/leanflutter/window_manager?style=social) ![](https://img.shields.io/badge/platform-mac%20%7C%20linux%20%7C%20windows-lightgrey) [window_manager](https://github.com/leanflutter/window_manager) - This plugin allows Flutter desktop apps to resizing and repositioning the window.
 
+- ![](https://img.shields.io/github/stars/leanflutter/launch_at_startup?style=social) ![](https://img.shields.io/badge/platform-mac%20%7C%20linux%20%7C%20windows-lightgrey) [launch_at_startup](https://github.com/leanflutter/launch_at_startup) - This plugin allows Flutter desktop apps to Auto launch on startup / login.
+
 ## Contribution
 
 Your contributions and suggestions are heartily welcome.
