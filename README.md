@@ -875,6 +875,7 @@ Note: As opposed to many alternatives, when using Freezed, that copyWith method 
   - Configure Flutter SDK version per project or globally
   - Ability to install and cache multiple Flutter SDK Versions
   - Easily switch between Flutter channels & versions
+- ![](https://img.shields.io/github/stars/filiph/linkcheck?style=social) [linkcheck](https://github.com/filiph/linkcheck) - Very fast link-checking.
 
 **Lint & Format:**
 
