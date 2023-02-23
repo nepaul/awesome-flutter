@@ -259,6 +259,12 @@ With drift, persistence on Flutter is fun!
   - ⏱ Asynchronous. Parallel query operations & multi-isolate support
   - 💃 Static typing. Compile-time checked and autocompleted queries
 
+- ![](https://img.shields.io/github/stars/mogol/flutter_secure_storage?style=social) [flutter_secure_storage](https://github.com/mogol/flutter_secure_storage) - A Flutter plugin to store data in secure storage:
+
+  - Keychain is used for iOS
+  - AES encryption is used for Android. AES secret key is encrypted with RSA and RSA key is stored in KeyStore
+  - With V5.0.0 we can use EncryptedSharedPreferences on Android
+
 - ![](https://img.shields.io/github/stars/vitusortner/floor?style=social) [floor](https://github.com/vitusortner/floor) - Floor provides a neat SQLite abstraction for your Flutter applications inspired by the Room persistence library. It comes with automatic mapping between in-memory objects and database rows while still offering full control of the database with the use of SQL. As a consequence, it's necessary to have an understanding of SQL and SQLite in order to harvest Floor's full potential.
 
 - ![](https://img.shields.io/github/stars/realm/realm-dart?style=social) [Realm](https://github.com/realm/realm-dart) -  a mobile database that runs directly inside phones, tablets or wearables. This repository holds the source code for the Realm SDK for Flutter™ and Dart™.
