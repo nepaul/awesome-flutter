@@ -41,7 +41,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
     - [Chart](#chart)
     - [Switch](#switch)
     - [Swipe \& Slide \& Indicator](#swipe--slide--indicator)
-    - [Badges \& Labels](#badges--labels)
+    - [Badges \& Labels \& Tags](#badges--labels--tags)
     - [Datetime](#datetime)
     - [Calendars](#calendars)
     - [Clippers](#clippers)
@@ -483,9 +483,13 @@ Adorable color pickers out of the box with highly customized widgets to all deve
 - ![](https://img.shields.io/github/stars/akshathjain/sliding_up_panel?style=social) [sliding_up_panel](https://github.com/akshathjain/sliding_up_panel) - A draggable Flutter widget that makes implementing a SlidingUpPanel much easier! Based on the Material Design bottom sheet component, this widget works on both Android & iOS. (like DouBan)
 - ![](https://img.shields.io/github/stars/Milad-Akarie/smooth_page_indicator?style=social) [smooth_page_indicator](https://github.com/Milad-Akarie/smooth_page_indicator) - Customizable animated page indicator with a set of built-in effects.
 
-### Badges & Labels
+### Badges & Labels & Tags
 
 - ![](https://img.shields.io/github/stars/yako-dev/flutter_badges?style=social) [flutter_badges](https://github.com/yako-dev/flutter_badges)
+   <details><summary>Showcase</summary>
+    <img src="https://github.com/yako-dev/flutter_badges/blob/docs/readme/images/showcase.gif?raw=true" width="900" alt="" />
+  </details>
+- ![](https://img.shields.io/github/stars/Dn-a/flutter_tags?style=social) [flutter_tags](https://github.com/Dn-a/flutter_tags) - Create beautiful tags quickly and easily.
 
 ### Datetime
 
@@ -877,6 +881,7 @@ Note: As opposed to many alternatives, when using Freezed, that copyWith method 
   - Configure Flutter SDK version per project or globally
   - Ability to install and cache multiple Flutter SDK Versions
   - Easily switch between Flutter channels & versions
+- ![](https://img.shields.io/github/stars/filiph/linkcheck?style=social) [linkcheck](https://github.com/filiph/linkcheck) - Very fast link-checking.
 
 **Lint & Format:**
 
@@ -1028,6 +1033,8 @@ Open Source. Lightweight. Clean. Straightforward. Fast. Powerful.
     This is a prototype, and in the long term is expected to be replaced by [functionality within the Flutter framework](https://docs.google.com/document/d/11_4wntz_9IJTQOo_Qhp7QF4RfpIMTfVygtOTxQ4OGHY/edit).
 
 - ![](https://img.shields.io/github/stars/leanflutter/window_manager?style=social) ![](https://img.shields.io/badge/platform-mac%20%7C%20linux%20%7C%20windows-lightgrey) [window_manager](https://github.com/leanflutter/window_manager) - This plugin allows Flutter desktop apps to resizing and repositioning the window.
+
+- ![](https://img.shields.io/github/stars/leanflutter/launch_at_startup?style=social) ![](https://img.shields.io/badge/platform-mac%20%7C%20linux%20%7C%20windows-lightgrey) [launch_at_startup](https://github.com/leanflutter/launch_at_startup) - This plugin allows Flutter desktop apps to Auto launch on startup / login.
 
 ## Contribution
 
