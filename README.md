@@ -698,6 +698,8 @@ Check the `packages` directory for all plugins.
 
 - ![](https://img.shields.io/github/stars/google/quiver-dart?style=social) [google/quiver-dart](https://github.com/google/quiver-dart) - Quiver is a set of utility libraries for Dart that makes using many Dart libraries easier and more convenient, or adds additional functionality. [👉 API Doc](https://pub.dev/documentation/quiver/latest/)
 
+- ![](https://img.shields.io/github/stars/dart-lang/intl?style=social)  [dart-lang/intl](https://github.com/dart-lang/intl) - Provides internationalization and localization facilities, including message translation, plurals and genders, date/number formatting and parsing, and bidirectional text.
+
 - ![](https://img.shields.io/github/stars/ReinBentdal/styled_widget?style=social) 💗👍 [styled_widget](https://github.com/ReinBentdal/styled_widget) - Simplifying your widget tree structure by defining widgets using methods.
 
 - ![](https://img.shields.io/github/stars/flutterchina/lpinyin?style=social) [lpinyin](https://github.com/flutterchina/lpinyin) - 汉字转拼音
@@ -711,9 +713,9 @@ Check the `packages` directory for all plugins.
 
   1. [Snapshots](https://docs.fastlane.tools/getting-started/ios/screenshots/)
   This is used to capture screenshots on iOS using iOS UI Tests.
-  2. [Screengrab](https://docs.fastlane.tools/actions/screengrab/)
+  1. [Screengrab](https://docs.fastlane.tools/actions/screengrab/)
   This captures screenshots on android using Android Espresso tests.
-  3. [FrameIt](https://docs.fastlane.tools/actions/frameit/)
+  1. [FrameIt](https://docs.fastlane.tools/actions/frameit/)
   This is used to place captured iOS screenshots in a device frame.
 
   Since all three of these Fastlane tools do not work with Flutter, Screenshots combines key features of these Fastlane tools into one tool.
