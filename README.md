@@ -273,6 +273,8 @@ With drift, persistence on Flutter is fun!
 
 - ![](https://img.shields.io/github/stars/flutterdata/flutter_data?style=social) [flutter_data](https://github.com/flutterdata/flutter_data/) - Persistent reactive models in Flutter with zero boilerplate. Flutter Data is an offline-first persistence framework that gives you a configurable REST client and powerful model relationships. Heavily inspired by [Ember Data](https://github.com/emberjs/data) and [ActiveRecord](https://guides.rubyonrails.org/active_record_basics.html)
 
+- ![](https://img.shields.io/github/stars/camus-design/simple_shared_preferences?style=social) [simple_shared_preferences](https://github.com/camus-design/simple_shared_preferences) - A simple wrapper for SharedPreferences
+
 ### State management
 
 - ![](https://img.shields.io/github/stars/felangel/bloc?style=social) [felangel/bloc](https://github.com/felangel/bloc) - A predictable state management library that helps implement the [BLoC design pattern](https://www.didierboelens.com/2018/08/reactive-programming-streams-bloc/).
