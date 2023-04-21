@@ -1000,10 +1000,10 @@ Open Source. Lightweight. Clean. Straightforward. Fast. Powerful.
 
   *App in action:*
 
-  ![Washing machine GIF 1](https://github.com/pawlik92/flutter_whirlpool/raw/master/doc/img/1.gif)
-  ![Washing machine GIF 2](https://github.com/pawlik92/flutter_whirlpool/raw/master/doc/img/2.gif)
-  ![Washing machine GIF 3](https://github.com/pawlik92/flutter_whirlpool/raw/master/doc/img/3.gif)
-  ![Washing machine GIF 4](https://github.com/pawlik92/flutter_whirlpool/raw/master/doc/img/4.gif)
+![Washing machine GIF 1](https://github.com/pawlik92/flutter_whirlpool/raw/master/doc/img/1.gif)
+![Washing machine GIF 2](https://github.com/pawlik92/flutter_whirlpool/raw/master/doc/img/2.gif)
+![Washing machine GIF 3](https://github.com/pawlik92/flutter_whirlpool/raw/master/doc/img/3.gif)
+![Washing machine GIF 4](https://github.com/pawlik92/flutter_whirlpool/raw/master/doc/img/4.gif)
 
 - ![](https://img.shields.io/github/stars/matthewtory/trinity-orientation-2018?style=social) [Trinity Orientation 2018](https://github.com/matthewtory/trinity-orientation-2018) - An app created for Trinity College at University of Toronto. The app is acts as a companion for all first year students during orientation week. Available on [Google Play](https://play.google.com/store/apps/details?id=com.tory.trinityOrientation) and the [App Store](https://itunes.apple.com/us/app/trinity-orientation-2t2000s/id1431022073)
 
