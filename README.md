@@ -71,6 +71,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 - ![](https://img.shields.io/github/stars/olexale/flutter_roadmap?style=social) [Flutter Roadmap](https://github.com/olexale/flutter_roadmap)
 - ![](https://img.shields.io/github/stars/mkobuolys/flutter-design-patterns?style=social) [flutter-design-patterns](https://github.com/mkobuolys/flutter-design-patterns) - An open-source design patterns application built with Dart and Flutter.
 - ![](https://img.shields.io/github/stars/VB10/flutter-architecture-template?style=social) [flutter-architecture-template](https://github.com/VB10/flutter-architecture-template) - This project craeeted for proffesionel application arhitecture.
+- ![](https://img.shields.io/github/stars/kamranahmedse/developer-roadmap?style=social) [Flutter Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
 **Best Practices**:
 
@@ -259,12 +260,20 @@ With drift, persistence on Flutter is fun!
   - ⏱ Asynchronous. Parallel query operations & multi-isolate support
   - 💃 Static typing. Compile-time checked and autocompleted queries
 
+- ![](https://img.shields.io/github/stars/mogol/flutter_secure_storage?style=social) [flutter_secure_storage](https://github.com/mogol/flutter_secure_storage) - A Flutter plugin to store data in secure storage:
+
+  - Keychain is used for iOS
+  - AES encryption is used for Android. AES secret key is encrypted with RSA and RSA key is stored in KeyStore
+  - With V5.0.0 we can use EncryptedSharedPreferences on Android
+
 - ![](https://img.shields.io/github/stars/vitusortner/floor?style=social) [floor](https://github.com/vitusortner/floor) - Floor provides a neat SQLite abstraction for your Flutter applications inspired by the Room persistence library. It comes with automatic mapping between in-memory objects and database rows while still offering full control of the database with the use of SQL. As a consequence, it's necessary to have an understanding of SQL and SQLite in order to harvest Floor's full potential.
 
 - ![](https://img.shields.io/github/stars/realm/realm-dart?style=social) [Realm](https://github.com/realm/realm-dart) -  a mobile database that runs directly inside phones, tablets or wearables. This repository holds the source code for the Realm SDK for Flutter™ and Dart™.
 - ![](https://img.shields.io/github/stars/lesnitsky/flutter_localstorage?style=social) [flutter_localstorage](https://github.com/lesnitsky/flutter_localstorage) - Simple json file-based storage for flutter
 
 - ![](https://img.shields.io/github/stars/flutterdata/flutter_data?style=social) [flutter_data](https://github.com/flutterdata/flutter_data/) - Persistent reactive models in Flutter with zero boilerplate. Flutter Data is an offline-first persistence framework that gives you a configurable REST client and powerful model relationships. Heavily inspired by [Ember Data](https://github.com/emberjs/data) and [ActiveRecord](https://guides.rubyonrails.org/active_record_basics.html)
+
+- ![](https://img.shields.io/github/stars/camus-design/simple_shared_preferences?style=social) [simple_shared_preferences](https://github.com/camus-design/simple_shared_preferences) - A simple wrapper for SharedPreferences
 
 ### State management
 
@@ -692,6 +701,8 @@ Check the `packages` directory for all plugins.
 
 - ![](https://img.shields.io/github/stars/google/quiver-dart?style=social) [google/quiver-dart](https://github.com/google/quiver-dart) - Quiver is a set of utility libraries for Dart that makes using many Dart libraries easier and more convenient, or adds additional functionality. [👉 API Doc](https://pub.dev/documentation/quiver/latest/)
 
+- ![](https://img.shields.io/github/stars/dart-lang/intl?style=social)  [dart-lang/intl](https://github.com/dart-lang/intl) - Provides internationalization and localization facilities, including message translation, plurals and genders, date/number formatting and parsing, and bidirectional text.
+
 - ![](https://img.shields.io/github/stars/ReinBentdal/styled_widget?style=social) 💗👍 [styled_widget](https://github.com/ReinBentdal/styled_widget) - Simplifying your widget tree structure by defining widgets using methods.
 
 - ![](https://img.shields.io/github/stars/flutterchina/lpinyin?style=social) [lpinyin](https://github.com/flutterchina/lpinyin) - 汉字转拼音
@@ -705,9 +716,9 @@ Check the `packages` directory for all plugins.
 
   1. [Snapshots](https://docs.fastlane.tools/getting-started/ios/screenshots/)
   This is used to capture screenshots on iOS using iOS UI Tests.
-  2. [Screengrab](https://docs.fastlane.tools/actions/screengrab/)
+  1. [Screengrab](https://docs.fastlane.tools/actions/screengrab/)
   This captures screenshots on android using Android Espresso tests.
-  3. [FrameIt](https://docs.fastlane.tools/actions/frameit/)
+  1. [FrameIt](https://docs.fastlane.tools/actions/frameit/)
   This is used to place captured iOS screenshots in a device frame.
 
   Since all three of these Fastlane tools do not work with Flutter, Screenshots combines key features of these Fastlane tools into one tool.
