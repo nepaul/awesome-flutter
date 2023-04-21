@@ -972,10 +972,10 @@ for iOS, Android and Web.
 
 - ![](https://img.shields.io/github/stars/mdanics/fluttergram?style=social) [fluttergram](https://github.com/mdanics/fluttergram) - A working Instagram clone written in Flutter using Firebase / Firestore
 
-- ![](https://img.shields.io/github/stars/aaronoe/FlutterCinematic?style=social) [❤️ FlutterCinematic](https://github.com/aaronoe/FlutterCinematic) - This app is a Flutter port of the native Android App [Cinematic](https://github.com/aaronoe/Cinematic). My intention in creating this app was understanding the intricacies of building apps in Flutter. Just like the native Android App this app does **not make any efforts in being a nicely architectured application**. That being said the whole point is to showcase Flutter's capabilities for building simple apps and to understand key difference and advantages to native development.
-
 - ![](https://img.shields.io/github/stars/trentpiercy/trace?style=social) [trace](https://github.com/trentpiercy/trace) - Modern Crypto Portfolio & Market Explorer. Built with Flutter.
 Open Source. Lightweight. Clean. Straightforward. Fast. Powerful.
+
+- ![](https://img.shields.io/github/stars/aaronoe/FlutterCinematic?style=social) [❤️ FlutterCinematic](https://github.com/aaronoe/FlutterCinematic) - This app is a Flutter port of the native Android App [Cinematic](https://github.com/aaronoe/Cinematic). My intention in creating this app was understanding the intricacies of building apps in Flutter. Just like the native Android App this app does **not make any efforts in being a nicely architectured application**. That being said the whole point is to showcase Flutter's capabilities for building simple apps and to understand key difference and advantages to native development.
 
 - ![](https://img.shields.io/github/stars/MarcinusX/flutter_ui_challenge_flight_search?style=social) [Flight search](https://github.com/MarcinusX/flutter_ui_challenge_flight_search) - This is my second UI Challenge. I picked a [Jhony Vino's Flight search design](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e36a3e53917017.594779c56ecbf.gif) from [100 Mobile App UI Interactions](https://github.com/MarcinusX/flutter_ui_challenge_flight_search#:~:text=100%20Mobile%20App%20UI%20Interactions) and implemented it in Flutter.
 
@@ -984,6 +984,15 @@ Open Source. Lightweight. Clean. Straightforward. Fast. Powerful.
 - ![](https://img.shields.io/github/stars/jesusrp98/spacex-go?style=social) [spacex-go](https://github.com/jesusrp98/spacex-go) - The purpose of this project is to develop the ultimate SpaceX experience in a variety of platforms. A single experience, from a single codebase.
 
   From the start, SpaceX GO! has been developed to be light-weight, fast and easy to use. It takes all the data from the open-source r/SpaceX REST API, which can be found [here](https://github.com/r-spacex/SpaceX-API).
+
+- ![](https://img.shields.io/github/stars/pawlik92/flutter_whirlpool?style=social) [flutter_whirlpool](https://github.com/pawlik92/flutter_whirlpool) - Flutter UI Challenge- SMART Washing Machine
+
+  *App in action:*
+
+  ![Washing machine GIF 1](https://github.com/pawlik92/flutter_whirlpool/raw/master/doc/img/1.gif)
+  ![Washing machine GIF 2](https://github.com/pawlik92/flutter_whirlpool/raw/master/doc/img/2.gif)
+  ![Washing machine GIF 3](https://github.com/pawlik92/flutter_whirlpool/raw/master/doc/img/3.gif)
+  ![Washing machine GIF 4](https://github.com/pawlik92/flutter_whirlpool/raw/master/doc/img/4.gif)
 
 - ![](https://img.shields.io/github/stars/matthewtory/trinity-orientation-2018?style=social) [Trinity Orientation 2018](https://github.com/matthewtory/trinity-orientation-2018) - An app created for Trinity College at University of Toronto. The app is acts as a companion for all first year students during orientation week. Available on [Google Play](https://play.google.com/store/apps/details?id=com.tory.trinityOrientation) and the [App Store](https://itunes.apple.com/us/app/trinity-orientation-2t2000s/id1431022073)
 
