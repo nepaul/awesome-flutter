@@ -1033,6 +1033,8 @@ Open Source. Lightweight. Clean. Straightforward. Fast. Powerful.
 
 - ![](https://img.shields.io/github/stars/kaina404/FlutterDouBant?style=social) [FlutterDouBan](https://github.com/kaina404/FlutterDouBan)
 
+- ![](https://img.shields.io/github/stars/cybercying/coffee_coupon_full_system_demo?style=social) [Full Flutter System Demo for Coffee Coupons](https://github.com/cybercying/coffee_coupon_full_system_demo) - This project provides a full Flutter/Dart system template from front-end APPs to the backend database to demonstrate a coupon management system, which is suitable for a coffeehouse chain (or any restaurant chain) to build customer loyalty.
+ 
 ## Desktop Only
 
 - ![](https://img.shields.io/github/stars/google/flutter-desktop-embedding?style=social) [flutter-desktop-embedding](https://github.com/google/flutter-desktop-embedding/) - This project was originally created to develop Windows, macOS, and Linux embeddings of Flutter. That work has since become part of Flutter, and all that remains here are experimental, early-stage desktop plugins.
