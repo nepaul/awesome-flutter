@@ -340,6 +340,8 @@ With drift, persistence on Flutter is fun!
 
 - ![](https://img.shields.io/github/stars/iampawan/Flutter-UI-Kit?style=social) [Flutter-UI-Kit: Flutter app for collection of UI in a UIKit](https://github.com/iampawan/Flutter-UI-Kit)
 
+- ![](https://img.shields.io/github/stars/samarthagarwal/FlutterScreens?style=social) [Flutter Screens: A collection of Login Screens, Buttons, Loaders and Widgets with attractive UIs, built with Flutter, ready to be used in your applications.](https://github.com/samarthagarwal/FlutterScreens)
+
 - ![](https://img.shields.io/github/stars/nb312/flutter-ui-nice?style=social) [flutter-ui-nice](https://github.com/nb312/flutter-ui-nice)
 
 - ![](https://img.shields.io/github/stars/ionicfirebaseapp/getwidget?style=social) [getwidget](https://github.com/ionicfirebaseapp/getwidget) - Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app.
