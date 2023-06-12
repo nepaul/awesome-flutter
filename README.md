@@ -126,6 +126,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 - ![](https://img.shields.io/github/stars/iampawan/FlutterExampleApps?style=social) [FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps) - Example APPS Basic Flutter apps, for flutter devs.
 - ![](https://img.shields.io/github/stars/flutter/samples?style=social) 🥰 [Flutter Official Samples](https://github.com/flutter/samples) -  A collection of open source samples that illustrate best practices for Flutter.
 - ![](https://img.shields.io/github/stars/brianegan/flutter_architecture_samples?style=social)[flutter_architecture_samples](https://github.com/brianegan/flutter_architecture_samples) -  TodoMVC for Flutter <http://fluttersamples.com/>
+- ![](https://img.shields.io/github/stars/kaina404/FlutterDouBan?style=social)[FlutterDouBan](https://github.com/kaina404/FlutterDouBan) -  A Douban client that uses Flutter to restore
 - ![](https://img.shields.io/github/stars/Sky24n/flutter_wanandroid?style=social) [flutter_wanandroid](https://github.com/Sky24n/flutter_wanandroid)
 - ![](https://img.shields.io/github/stars/FilledStacks/flutter-tutorials?style=social)[flutter-tutorials](https://github.com/FilledStacks/flutter-tutorials) -  The repo contains the source code for all the tutorials on the FilledStacks Youtube channel.
 
