@@ -561,6 +561,13 @@ Easy creation of city list or contact list interfaces.
 
 - ![](https://img.shields.io/github/stars/MayLau-CbL/flutter_horizontal_data_table?style=social)  [flutter_horizontal_data_table](https://github.com/MayLau-CbL/flutter_horizontal_data_table) - A Flutter Widget that create a horizontal table with fixed column on left hand side.
 
+
+- ![](https://img.shields.io/github/stars/LinXunFeng/flutter_scrollview_observer?style=social) [LinXunFeng/flutter_scrollview_observer](https://github.com/LinXunFeng/flutter_scrollview_observer) - A widget for observing data related to the child widgets being displayed in a ScrollView.
+  - Observing child widgets those are being displayed in ScrollView.
+  - Support for scrolling to a specific item in ScrollView.
+  - Quickly implement the chat session page effect.
+  - Support for keeping IM message position when inserting or updating messages, avoiding jitter.
+
 ### Input & Form
 
 - ![](https://img.shields.io/github/stars/danvick/flutter_form_builder?style=social) [Flutter Form Builder](https://github.com/danvick/flutter_form_builder) - Flutter Form Builder provides an easy way of working with forms in Flutter by removing the boilerplate needed to build a form, validate fields, react to changes, and collect final user input.
