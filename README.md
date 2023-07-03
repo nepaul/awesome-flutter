@@ -127,6 +127,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 - ![](https://img.shields.io/github/stars/iampawan/FlutterExampleApps?style=social) [FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps) - Example APPS Basic Flutter apps, for flutter devs.
 - ![](https://img.shields.io/github/stars/flutter/samples?style=social) 🥰 [Flutter Official Samples](https://github.com/flutter/samples) -  A collection of open source samples that illustrate best practices for Flutter.
 - ![](https://img.shields.io/github/stars/brianegan/flutter_architecture_samples?style=social)[flutter_architecture_samples](https://github.com/brianegan/flutter_architecture_samples) -  TodoMVC for Flutter <http://fluttersamples.com/>
+- ![](https://img.shields.io/github/stars/kaina404/FlutterDouBan?style=social)[FlutterDouBan](https://github.com/kaina404/FlutterDouBan) -  A Douban client that uses Flutter to restore
 - ![](https://img.shields.io/github/stars/Sky24n/flutter_wanandroid?style=social) [flutter_wanandroid](https://github.com/Sky24n/flutter_wanandroid)
 - ![](https://img.shields.io/github/stars/FilledStacks/flutter-tutorials?style=social)[flutter-tutorials](https://github.com/FilledStacks/flutter-tutorials) -  The repo contains the source code for all the tutorials on the FilledStacks Youtube channel.
 
@@ -339,6 +340,8 @@ With drift, persistence on Flutter is fun!
 - ![](https://img.shields.io/github/stars/mitesh77/Best-Flutter-UI-Templates?style=social) [💗Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates)
 
 - ![](https://img.shields.io/github/stars/iampawan/Flutter-UI-Kit?style=social) [Flutter-UI-Kit: Flutter app for collection of UI in a UIKit](https://github.com/iampawan/Flutter-UI-Kit)
+
+- ![](https://img.shields.io/github/stars/samarthagarwal/FlutterScreens?style=social) [Flutter Screens: A collection of Login Screens, Buttons, Loaders and Widgets with attractive UIs, built with Flutter, ready to be used in your applications.](https://github.com/samarthagarwal/FlutterScreens)
 
 - ![](https://img.shields.io/github/stars/nb312/flutter-ui-nice?style=social) [flutter-ui-nice](https://github.com/nb312/flutter-ui-nice)
 
@@ -558,6 +561,13 @@ Easy creation of city list or contact list interfaces.
   Limitation: The list is always infinite both to positive and negative indexes. In other words, it can be scrolled indefinitely both to the top and to the bottom.
 
 - ![](https://img.shields.io/github/stars/MayLau-CbL/flutter_horizontal_data_table?style=social)  [flutter_horizontal_data_table](https://github.com/MayLau-CbL/flutter_horizontal_data_table) - A Flutter Widget that create a horizontal table with fixed column on left hand side.
+
+
+- ![](https://img.shields.io/github/stars/LinXunFeng/flutter_scrollview_observer?style=social) [LinXunFeng/flutter_scrollview_observer](https://github.com/LinXunFeng/flutter_scrollview_observer) - A widget for observing data related to the child widgets being displayed in a ScrollView.
+  - Observing child widgets those are being displayed in ScrollView.
+  - Support for scrolling to a specific item in ScrollView.
+  - Quickly implement the chat session page effect.
+  - Support for keeping IM message position when inserting or updating messages, avoiding jitter.
 
 ### Input & Form
 
@@ -1034,10 +1044,12 @@ Open Source. Lightweight. Clean. Straightforward. Fast. Powerful.
 
 - ![](https://img.shields.io/github/stars/Blakexx/CryptoTracker?style=social) [Platypus Crypto](https://github.com/Blakexx/CryptoTracker) - Platypus Crypto is an ad-free cross-platform robust solution for tracking cryptocurrency assets. Our intuitive interface includes real-time 7-day graphs, current prices and market caps, and percent change over time. Featuring rapid sort, search and refresh features, and support for 32 fiat currencies, Platypus Crypto enables casual and power users alike to monitor cryptocurrency assets on-the-go! Our customization options allow for the removal of 7-day graphs for a more compact feel and a dark theme.
 
+- ![](https://img.shields.io/github/stars/AminBhst/brisk?style=social)  [Brisk](https://github.com/AminBhst/brisk) -  A fast, multithreaded, cross-platform download manager for desktop
+
 - ![](https://img.shields.io/github/stars/PierreBresson/flutter-wordpress-podcast?style=social)  [Flutter Wordpress Podcast](https://github.com/PierreBresson/flutter-wordpress-podcast) -  🎤 Podcast white label app based on Wordpress API
 
-- ![](https://img.shields.io/github/stars/kaina404/FlutterDouBant?style=social) [FlutterDouBan](https://github.com/kaina404/FlutterDouBan)
-
+- ![](https://img.shields.io/github/stars/cybercying/coffee_coupon_full_system_demo?style=social) [Full Flutter System Demo for Coffee Coupons](https://github.com/cybercying/coffee_coupon_full_system_demo) - This project provides a full Flutter/Dart system template from front-end APPs to the backend database to demonstrate a coupon management system, which is suitable for a coffeehouse chain (or any restaurant chain) to build customer loyalty.
+ 
 ## Desktop Only
 
 - ![](https://img.shields.io/github/stars/google/flutter-desktop-embedding?style=social) [flutter-desktop-embedding](https://github.com/google/flutter-desktop-embedding/) - This project was originally created to develop Windows, macOS, and Linux embeddings of Flutter. That work has since become part of Flutter, and all that remains here are experimental, early-stage desktop plugins.
