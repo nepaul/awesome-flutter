@@ -48,6 +48,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
     - [Images](#images)
     - [List \& Grid](#list--grid)
     - [Input \& Form](#input--form)
+    - [Select](#select)
     - [Steps \& Timelines](#steps--timelines)
     - [Progress](#progress)
     - [Menu](#menu)
@@ -563,6 +564,10 @@ Easy creation of city list or contact list interfaces.
 - ![](https://img.shields.io/github/stars/danvick/flutter_form_builder?style=social) [Flutter Form Builder](https://github.com/danvick/flutter_form_builder) - Flutter Form Builder provides an easy way of working with forms in Flutter by removing the boilerplate needed to build a form, validate fields, react to changes, and collect final user input.
 
 - ![](https://img.shields.io/github/stars/TinoGuo/pin_input_text_field?style=social)  [pin_input_text_field](https://github.com/TinoGuo/pin_input_text_field) - PinInputTextField is a TextField widget to help display different style pin. It supports all the platforms flutter supports.
+
+### Select
+
+- ![](https://img.shields.io/github/stars/LanarsInc/direct-select-flutter?style=social) [https://github.com/LanarsInc/direct-select-flutter](https://github.com/LanarsInc/direct-select-flutter) - DirectSelect is a selection widget with an ethereal, full-screen modal popup displaying the available choices when the widget is interact with. Inspired by dribble shot.
 
 ### Steps & Timelines
 
