@@ -562,7 +562,6 @@ Easy creation of city list or contact list interfaces.
 
 - ![](https://img.shields.io/github/stars/MayLau-CbL/flutter_horizontal_data_table?style=social)  [flutter_horizontal_data_table](https://github.com/MayLau-CbL/flutter_horizontal_data_table) - A Flutter Widget that create a horizontal table with fixed column on left hand side.
 
-
 - ![](https://img.shields.io/github/stars/LinXunFeng/flutter_scrollview_observer?style=social) [LinXunFeng/flutter_scrollview_observer](https://github.com/LinXunFeng/flutter_scrollview_observer) - A widget for observing data related to the child widgets being displayed in a ScrollView.
   - Observing child widgets those are being displayed in ScrollView.
   - Support for scrolling to a specific item in ScrollView.
@@ -989,7 +988,6 @@ for iOS, Android and Web.
 
 > Complete Projects(Open Source)
 
-- ![](https://img.shields.io/github/stars/AppFlowy-IO/appflowy?style=social) [appflowy](https://github.com/AppFlowy-IO/appflowy) - Desktop App! The Open Source Notion Alternative(53+% Rust, 41+%Dart, C++...).
 - ![](https://img.shields.io/github/stars/roughike/inKino?style=social) [inKino](https://github.com/roughike/inKino) - inKino is a multiplatform Dart app for browsing movies and showtimes for Finnkino cinemas.
 
   InKino showcases **Redux**, has an extensive set of automated tests and 40% code sharing between Flutter and web. The Android & iOS apps are made with a single Flutter codebase. The progressive web app is made with AngularDart. This project is generally something that I believe is a good example of a multiplatform Dart project.
@@ -1049,9 +1047,10 @@ Open Source. Lightweight. Clean. Straightforward. Fast. Powerful.
 - ![](https://img.shields.io/github/stars/PierreBresson/flutter-wordpress-podcast?style=social)  [Flutter Wordpress Podcast](https://github.com/PierreBresson/flutter-wordpress-podcast) -  🎤 Podcast white label app based on Wordpress API
 
 - ![](https://img.shields.io/github/stars/cybercying/coffee_coupon_full_system_demo?style=social) [Full Flutter System Demo for Coffee Coupons](https://github.com/cybercying/coffee_coupon_full_system_demo) - This project provides a full Flutter/Dart system template from front-end APPs to the backend database to demonstrate a coupon management system, which is suitable for a coffeehouse chain (or any restaurant chain) to build customer loyalty.
- 
+
 ## Desktop Only
 
+- ![](https://img.shields.io/github/stars/AppFlowy-IO/appflowy?style=social) [appflowy](https://github.com/AppFlowy-IO/appflowy) - Desktop App! The Open Source Notion Alternative(53+% Rust, 41+%Dart, C++...).
 - ![](https://img.shields.io/github/stars/google/flutter-desktop-embedding?style=social) [flutter-desktop-embedding](https://github.com/google/flutter-desktop-embedding/) - This project was originally created to develop Windows, macOS, and Linux embeddings of Flutter. That work has since become part of Flutter, and all that remains here are experimental, early-stage desktop plugins.
 
   If you want to get started with Flutter on desktop, the place to start is now the Flutter documentation, rather than this project. You will already need to have followed the instructions there to get an application running on desktop before using any of the plugins here.
