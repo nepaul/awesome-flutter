@@ -48,6 +48,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
     - [Images](#images)
     - [List \& Grid](#list--grid)
     - [Input \& Form](#input--form)
+    - [Select](#select)
     - [Steps \& Timelines](#steps--timelines)
     - [Progress](#progress)
     - [Menu](#menu)
@@ -126,6 +127,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 - ![](https://img.shields.io/github/stars/iampawan/FlutterExampleApps?style=social) [FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps) - Example APPS Basic Flutter apps, for flutter devs.
 - ![](https://img.shields.io/github/stars/flutter/samples?style=social) 🥰 [Flutter Official Samples](https://github.com/flutter/samples) -  A collection of open source samples that illustrate best practices for Flutter.
 - ![](https://img.shields.io/github/stars/brianegan/flutter_architecture_samples?style=social)[flutter_architecture_samples](https://github.com/brianegan/flutter_architecture_samples) -  TodoMVC for Flutter <http://fluttersamples.com/>
+- ![](https://img.shields.io/github/stars/kaina404/FlutterDouBan?style=social)[FlutterDouBan](https://github.com/kaina404/FlutterDouBan) -  A Douban client that uses Flutter to restore
 - ![](https://img.shields.io/github/stars/Sky24n/flutter_wanandroid?style=social) [flutter_wanandroid](https://github.com/Sky24n/flutter_wanandroid)
 - ![](https://img.shields.io/github/stars/FilledStacks/flutter-tutorials?style=social)[flutter-tutorials](https://github.com/FilledStacks/flutter-tutorials) -  The repo contains the source code for all the tutorials on the FilledStacks Youtube channel.
 
@@ -338,6 +340,8 @@ With drift, persistence on Flutter is fun!
 - ![](https://img.shields.io/github/stars/mitesh77/Best-Flutter-UI-Templates?style=social) [💗Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates)
 
 - ![](https://img.shields.io/github/stars/iampawan/Flutter-UI-Kit?style=social) [Flutter-UI-Kit: Flutter app for collection of UI in a UIKit](https://github.com/iampawan/Flutter-UI-Kit)
+
+- ![](https://img.shields.io/github/stars/samarthagarwal/FlutterScreens?style=social) [Flutter Screens: A collection of Login Screens, Buttons, Loaders and Widgets with attractive UIs, built with Flutter, ready to be used in your applications.](https://github.com/samarthagarwal/FlutterScreens)
 
 - ![](https://img.shields.io/github/stars/nb312/flutter-ui-nice?style=social) [flutter-ui-nice](https://github.com/nb312/flutter-ui-nice)
 
@@ -560,11 +564,21 @@ Easy creation of city list or contact list interfaces.
 
 - ![](https://img.shields.io/github/stars/MayLau-CbL/flutter_horizontal_data_table?style=social)  [flutter_horizontal_data_table](https://github.com/MayLau-CbL/flutter_horizontal_data_table) - A Flutter Widget that create a horizontal table with fixed column on left hand side.
 
+- ![](https://img.shields.io/github/stars/LinXunFeng/flutter_scrollview_observer?style=social) [LinXunFeng/flutter_scrollview_observer](https://github.com/LinXunFeng/flutter_scrollview_observer) - A widget for observing data related to the child widgets being displayed in a ScrollView.
+  - Observing child widgets those are being displayed in ScrollView.
+  - Support for scrolling to a specific item in ScrollView.
+  - Quickly implement the chat session page effect.
+  - Support for keeping IM message position when inserting or updating messages, avoiding jitter.
+
 ### Input & Form
 
 - ![](https://img.shields.io/github/stars/danvick/flutter_form_builder?style=social) [Flutter Form Builder](https://github.com/danvick/flutter_form_builder) - Flutter Form Builder provides an easy way of working with forms in Flutter by removing the boilerplate needed to build a form, validate fields, react to changes, and collect final user input.
 
 - ![](https://img.shields.io/github/stars/TinoGuo/pin_input_text_field?style=social)  [pin_input_text_field](https://github.com/TinoGuo/pin_input_text_field) - PinInputTextField is a TextField widget to help display different style pin. It supports all the platforms flutter supports.
+
+### Select
+
+- ![](https://img.shields.io/github/stars/LanarsInc/direct-select-flutter?style=social) [https://github.com/LanarsInc/direct-select-flutter](https://github.com/LanarsInc/direct-select-flutter) - DirectSelect is a selection widget with an ethereal, full-screen modal popup displaying the available choices when the widget is interact with. Inspired by dribble shot.
 
 ### Steps & Timelines
 
@@ -976,7 +990,6 @@ for iOS, Android and Web.
 
 > Complete Projects(Open Source)
 
-- ![](https://img.shields.io/github/stars/AppFlowy-IO/appflowy?style=social) [appflowy](https://github.com/AppFlowy-IO/appflowy) - Desktop App! The Open Source Notion Alternative(53+% Rust, 41+%Dart, C++...).
 - ![](https://img.shields.io/github/stars/roughike/inKino?style=social) [inKino](https://github.com/roughike/inKino) - inKino is a multiplatform Dart app for browsing movies and showtimes for Finnkino cinemas.
 
   InKino showcases **Redux**, has an extensive set of automated tests and 40% code sharing between Flutter and web. The Android & iOS apps are made with a single Flutter codebase. The progressive web app is made with AngularDart. This project is generally something that I believe is a good example of a multiplatform Dart project.
@@ -985,10 +998,10 @@ for iOS, Android and Web.
 
 - ![](https://img.shields.io/github/stars/mdanics/fluttergram?style=social) [fluttergram](https://github.com/mdanics/fluttergram) - A working Instagram clone written in Flutter using Firebase / Firestore
 
-- ![](https://img.shields.io/github/stars/aaronoe/FlutterCinematic?style=social) [❤️ FlutterCinematic](https://github.com/aaronoe/FlutterCinematic) - This app is a Flutter port of the native Android App [Cinematic](https://github.com/aaronoe/Cinematic). My intention in creating this app was understanding the intricacies of building apps in Flutter. Just like the native Android App this app does **not make any efforts in being a nicely architectured application**. That being said the whole point is to showcase Flutter's capabilities for building simple apps and to understand key difference and advantages to native development.
-
 - ![](https://img.shields.io/github/stars/trentpiercy/trace?style=social) [trace](https://github.com/trentpiercy/trace) - Modern Crypto Portfolio & Market Explorer. Built with Flutter.
 Open Source. Lightweight. Clean. Straightforward. Fast. Powerful.
+
+- ![](https://img.shields.io/github/stars/aaronoe/FlutterCinematic?style=social) [❤️ FlutterCinematic](https://github.com/aaronoe/FlutterCinematic) - This app is a Flutter port of the native Android App [Cinematic](https://github.com/aaronoe/Cinematic). My intention in creating this app was understanding the intricacies of building apps in Flutter. Just like the native Android App this app does **not make any efforts in being a nicely architectured application**. That being said the whole point is to showcase Flutter's capabilities for building simple apps and to understand key difference and advantages to native development.
 
 - ![](https://img.shields.io/github/stars/MarcinusX/flutter_ui_challenge_flight_search?style=social) [Flight search](https://github.com/MarcinusX/flutter_ui_challenge_flight_search) - This is my second UI Challenge. I picked a [Jhony Vino's Flight search design](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e36a3e53917017.594779c56ecbf.gif) from [100 Mobile App UI Interactions](https://github.com/MarcinusX/flutter_ui_challenge_flight_search#:~:text=100%20Mobile%20App%20UI%20Interactions) and implemented it in Flutter.
 
@@ -997,6 +1010,15 @@ Open Source. Lightweight. Clean. Straightforward. Fast. Powerful.
 - ![](https://img.shields.io/github/stars/jesusrp98/spacex-go?style=social) [spacex-go](https://github.com/jesusrp98/spacex-go) - The purpose of this project is to develop the ultimate SpaceX experience in a variety of platforms. A single experience, from a single codebase.
 
   From the start, SpaceX GO! has been developed to be light-weight, fast and easy to use. It takes all the data from the open-source r/SpaceX REST API, which can be found [here](https://github.com/r-spacex/SpaceX-API).
+
+- ![](https://img.shields.io/github/stars/pawlik92/flutter_whirlpool?style=social) [flutter_whirlpool](https://github.com/pawlik92/flutter_whirlpool) - Flutter UI Challenge- SMART Washing Machine
+
+  *App in action:*
+
+![Washing machine GIF 1](https://github.com/pawlik92/flutter_whirlpool/raw/master/doc/img/1.gif)
+![Washing machine GIF 2](https://github.com/pawlik92/flutter_whirlpool/raw/master/doc/img/2.gif)
+![Washing machine GIF 3](https://github.com/pawlik92/flutter_whirlpool/raw/master/doc/img/3.gif)
+![Washing machine GIF 4](https://github.com/pawlik92/flutter_whirlpool/raw/master/doc/img/4.gif)
 
 - ![](https://img.shields.io/github/stars/matthewtory/trinity-orientation-2018?style=social) [Trinity Orientation 2018](https://github.com/matthewtory/trinity-orientation-2018) - An app created for Trinity College at University of Toronto. The app is acts as a companion for all first year students during orientation week. Available on [Google Play](https://play.google.com/store/apps/details?id=com.tory.trinityOrientation) and the [App Store](https://itunes.apple.com/us/app/trinity-orientation-2t2000s/id1431022073)
 
@@ -1022,12 +1044,15 @@ Open Source. Lightweight. Clean. Straightforward. Fast. Powerful.
 
 - ![](https://img.shields.io/github/stars/Blakexx/CryptoTracker?style=social) [Platypus Crypto](https://github.com/Blakexx/CryptoTracker) - Platypus Crypto is an ad-free cross-platform robust solution for tracking cryptocurrency assets. Our intuitive interface includes real-time 7-day graphs, current prices and market caps, and percent change over time. Featuring rapid sort, search and refresh features, and support for 32 fiat currencies, Platypus Crypto enables casual and power users alike to monitor cryptocurrency assets on-the-go! Our customization options allow for the removal of 7-day graphs for a more compact feel and a dark theme.
 
+- ![](https://img.shields.io/github/stars/AminBhst/brisk?style=social)  [Brisk](https://github.com/AminBhst/brisk) -  A fast, multithreaded, cross-platform download manager for desktop
+
 - ![](https://img.shields.io/github/stars/PierreBresson/flutter-wordpress-podcast?style=social)  [Flutter Wordpress Podcast](https://github.com/PierreBresson/flutter-wordpress-podcast) -  🎤 Podcast white label app based on Wordpress API
 
-- ![](https://img.shields.io/github/stars/kaina404/FlutterDouBant?style=social) [FlutterDouBan](https://github.com/kaina404/FlutterDouBan)
+- ![](https://img.shields.io/github/stars/cybercying/coffee_coupon_full_system_demo?style=social) [Full Flutter System Demo for Coffee Coupons](https://github.com/cybercying/coffee_coupon_full_system_demo) - This project provides a full Flutter/Dart system template from front-end APPs to the backend database to demonstrate a coupon management system, which is suitable for a coffeehouse chain (or any restaurant chain) to build customer loyalty.
 
 ## Desktop Only
 
+- ![](https://img.shields.io/github/stars/AppFlowy-IO/appflowy?style=social) [appflowy](https://github.com/AppFlowy-IO/appflowy) - Desktop App! The Open Source Notion Alternative(53+% Rust, 41+%Dart, C++...).
 - ![](https://img.shields.io/github/stars/google/flutter-desktop-embedding?style=social) [flutter-desktop-embedding](https://github.com/google/flutter-desktop-embedding/) - This project was originally created to develop Windows, macOS, and Linux embeddings of Flutter. That work has since become part of Flutter, and all that remains here are experimental, early-stage desktop plugins.
 
   If you want to get started with Flutter on desktop, the place to start is now the Flutter documentation, rather than this project. You will already need to have followed the instructions there to get an application running on desktop before using any of the plugins here.
