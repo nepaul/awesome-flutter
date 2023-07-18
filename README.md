@@ -152,8 +152,6 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
   - [linked_scroll_controller](https://github.com/google/flutter.widgets/blob/master/packages/linked_scroll_controller/README.md) - This package provides a way to set up a set of scrollable widgets whose scrolling is synchronized. The set can be stable across the lifetime of the containing screen, or can change dynamically (for example, a vertically scrolling ListView.builder() whose items are Scrollables that scroll horizontally in unison).
   - [flutter_simple_treeview](https://github.com/google/flutter.widgets/blob/master/packages/flutter_simple_treeview/README.md) - This widget visualises a tree structure, where a node can be any widget.
 
-- ![](https://img.shields.io/github/stars/aagarwal1012/IntroViews-Flutter?style=social) [IntroViews-Flutter](https://github.com/aagarwal1012/IntroViews-Flutter) - IntroViews is inspired by [Paper Onboarding](https://github.com/Ramotion/paper-onboarding-android) and developed with love from scratch. Checkout our fully responsive [live example app](https://introviews-flutter.web.app/).
-
 - ![](https://img.shields.io/github/stars/flutter/codelabs?style=social) [Flutter Official CodeLabs](https://github.com/flutter/codelabs) - This repository contains the code for a variety of Flutter Codelabs. Here is a list of the codelabs represented here:
   - [Adaptive Apps in Flutter](https://codelabs.developers.google.com/codelabs/flutter-adaptive-app) is in `adaptive_app`
   - [Adding Google Maps to a Flutter app](https://codelabs.developers.google.com/codelabs/google-maps-in-flutter) is in `google-maps-in-flutter`
@@ -176,6 +174,9 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
   [flutter.dev/get-started][].
 
   [flutter.dev/get-started]: https://flutter.dev/docs/get-started
+
+- ![](https://img.shields.io/github/stars/aagarwal1012/IntroViews-Flutter?style=social) [IntroViews-Flutter](https://github.com/aagarwal1012/IntroViews-Flutter) - IntroViews is inspired by [Paper Onboarding](https://github.com/Ramotion/paper-onboarding-android) and developed with love from scratch. Checkout our fully responsive [live example app](https://introviews-flutter.web.app/)
+- ![](https://img.shields.io/github/stars/abuanwar072/Furniture-App-UI-2-Flutter?style=social)  ![Furniture-App-UI-2-Flutter](https://github.com/abuanwar072/Furniture-App-UI-2-Flutter) -  A responsive furniture app UI using flutter, all of the data come from API so that you can learn how to use API on flutter. There are two pages Home page which contains a horizontal category list then the list of recommended products.
 
 - ![](https://img.shields.io/github/stars/MarcusNg/flutter_covid_dashboard_ui?style=social) [flutter_covid_dashboard_ui](https://github.com/MarcusNg/flutter_covid_dashboard_ui)[[YouTube Video](https://www.youtube.com/watch?v=krU-ASLb8lM&feature=youtu.be&ab_channel=MarcusNg))
 
