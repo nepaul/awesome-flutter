@@ -1053,6 +1053,8 @@ Open Source. Lightweight. Clean. Straightforward. Fast. Powerful.
 
 - ![](https://img.shields.io/github/stars/cybercying/coffee_coupon_full_system_demo?style=social) [Full Flutter System Demo for Coffee Coupons](https://github.com/cybercying/coffee_coupon_full_system_demo) - This project provides a full Flutter/Dart system template from front-end APPs to the backend database to demonstrate a coupon management system, which is suitable for a coffeehouse chain (or any restaurant chain) to build customer loyalty.
 
+- ![](https://img.shields.io/github/stars/mateusz-bak/openreads-android?style=social) [A mobile books tracker that respects your privacy](https://github.com/mateusz-bak/openreads-android) - A simple privacy oriented mobile books tracker using Open Library API.
+
 ## Desktop Only
 
 - ![](https://img.shields.io/github/stars/AppFlowy-IO/appflowy?style=social) [appflowy](https://github.com/AppFlowy-IO/appflowy) - Desktop App! The Open Source Notion Alternative(53+% Rust, 41+%Dart, C++...).
