@@ -679,6 +679,8 @@ Check the `packages` directory for all plugins.
   Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. Flutter is used by developers and organizations around the world, and is free and open source.
 - ![](https://img.shields.io/github/stars/OpenFlutter/flutter_screenutil?style=social) [flutter_screenutil](https://github.com/OpenFlutter/flutter_screenutil) - A flutter plugin for adapting screen and font size.Let your UI display a reasonable layout on different screen sizes!
 
+- ![](https://img.shields.io/github/stars/jonbhanson/flutter_native_splash?style=social) [flutter_native_splash](https://github.com/jonbhanson/flutter_native_splash) - When your app is opened, there is a brief time while the native app loads Flutter. By default, during this time, the native app displays a white splash screen. This package automatically generates iOS, Android, and Web-native code for customizing this native splash screen background color and splash image. Supports dark mode, full screen, and platform-specific options.
+
 - ![](https://img.shields.io/github/stars/fluttercommunity/flutter_downloader?style=social) [flutter_downloader](https://github.com/fluttercommunity/flutter_downloader) - A plugin for creating and managing download tasks. Supports iOS and Android.
 
   This plugin is based on WorkManager in Android and NSURLSessionDownloadTask in iOS to run download task in background mode.
