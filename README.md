@@ -176,6 +176,9 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
   [flutter.dev/get-started]: https://flutter.dev/docs/get-started
 
 - ![](https://img.shields.io/github/stars/aagarwal1012/IntroViews-Flutter?style=social) [IntroViews-Flutter](https://github.com/aagarwal1012/IntroViews-Flutter) - IntroViews is inspired by [Paper Onboarding](https://github.com/Ramotion/paper-onboarding-android) and developed with love from scratch. Checkout our fully responsive [live example app](https://introviews-flutter.web.app/)
+
+- ![](https://img.shields.io/github/stars/AliAnilKocak/Flutter-Shopping-UI-Kit?style=social) [Flutter-Shopping-UI-Kit](https://github.com/AliAnilKocak/Flutter-Shopping-UI-Kit) - Shopping UI design in Flutter
+
 - ![](https://img.shields.io/github/stars/abuanwar072/Furniture-App-UI-2-Flutter?style=social)  ![Furniture-App-UI-2-Flutter](https://github.com/abuanwar072/Furniture-App-UI-2-Flutter) -  A responsive furniture app UI using flutter, all of the data come from API so that you can learn how to use API on flutter. There are two pages Home page which contains a horizontal category list then the list of recommended products.
 
 - ![](https://img.shields.io/github/stars/MarcusNg/flutter_covid_dashboard_ui?style=social) [flutter_covid_dashboard_ui](https://github.com/MarcusNg/flutter_covid_dashboard_ui)[[YouTube Video](https://www.youtube.com/watch?v=krU-ASLb8lM&feature=youtu.be&ab_channel=MarcusNg))
