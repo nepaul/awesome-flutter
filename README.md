@@ -615,6 +615,8 @@ Easy creation of city list or contact list interfaces.
 
   Demo App: <https://bulletjournal.us/home/index.html>
 
+- ![](https://img.shields.io/github/stars/AppFlowy-IO/appflowy-editor?style=social)  [appflowy-editor](https://github.com/AppFlowy-IO/appflowy-editor) - A highly customizable rich-text editor for Flutter
+
 ### Effect
 
 - ![](https://img.shields.io/github/stars/2d-inc/Flare-Flutter?style=social) [Flare-Flutter](https://github.com/2d-inc/Flare-Flutter) - Rive 1 (previously Flare) offers powerful realtime vector design and animation for app and game designers alike. The primary goal of Flare is to allow designers to work directly with assets that run in their final product, eliminating the need to redo that work in code.
