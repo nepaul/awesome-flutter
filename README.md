@@ -829,6 +829,10 @@ Note: As opposed to many alternatives, when using Freezed, that copyWith method 
 
   See [the example](https://github.com/rrousselGit/freezed/blob/master/packages/freezed/example/lib/main.dart) for a preview on what's available
 
+- ![](https://img.shields.io/github/stars/netglade/auto_mappr?style=social) [auto_mappr](https://github.com/netglade/auto_mappr) - AutoMappr is a code-generation package that helps with writing object-to-object mappings, so you don't have to write code by hand.
+
+  - Mapping objects to other objects can be for sure done by hand. While it works, it's incredibly boring. Most of the time, object mapping can occur in places like mapping network DTOs from/to domain layer's models, domain layer's models from/to UI models, etc. In other words: if you care about code segregation and single responsibility, you do a lot of mappings. Tools like AutoMappr can help you with reducing boilerplate code and reduce the time you would spend on mapping objects or updating the mappings.
+  
 - ![](https://img.shields.io/github/stars/FlutterGen/flutter_gen?style=social) [json_to_dart](https://github.com/javiercbk/json_to_dart) - Given a JSON string, this library will generate all the necessary Dart classes to parse and generate JSON.
 
   This library is designed to generate Flutter friendly model classes following the [flutter's doc recommendation](https://flutter.io/json/#serializing-json-manually-using-dartconvert).
