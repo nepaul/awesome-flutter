@@ -127,12 +127,16 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 - ![](https://img.shields.io/github/stars/alibaba/flutter-go?style=social) [FlutterGo](https://github.com/alibaba/flutter-go)
 - ![](https://img.shields.io/github/stars/iampawan/FlutterExampleApps?style=social) [FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps) - Example APPS Basic Flutter apps, for flutter devs.
 - ![](https://img.shields.io/github/stars/flutter/samples?style=social) 🥰 [Flutter Official Samples](https://github.com/flutter/samples) -  A collection of open source samples that illustrate best practices for Flutter.
+
 - ![](https://img.shields.io/github/stars/brianegan/flutter_architecture_samples?style=social)[flutter_architecture_samples](https://github.com/brianegan/flutter_architecture_samples) -  TodoMVC for Flutter <http://fluttersamples.com/>
+
 - ![](https://img.shields.io/github/stars/kaina404/FlutterDouBan?style=social)[FlutterDouBan](https://github.com/kaina404/FlutterDouBan) -  A Douban client that uses Flutter to restore
-- ![](https://img.shields.io/github/stars/Sky24n/flutter_wanandroid?style=social) [flutter_wanandroid](https://github.com/Sky24n/flutter_wanandroid)
-- ![](https://img.shields.io/github/stars/FilledStacks/flutter-tutorials?style=social)[flutter-tutorials](https://github.com/FilledStacks/flutter-tutorials) -  The repo contains the source code for all the tutorials on the FilledStacks Youtube channel.
 
 - ![](https://img.shields.io/github/stars/flutter/gallery?style=social) [Flutter Gallery](https://github.com/flutter/gallery) s a resource to help developers evaluate and use Flutter. It is a collection of Material Design & Cupertino widgets, behaviors, and vignettes implemented with Flutter. We often get asked how one can see Flutter in action, and this gallery demonstrates what Flutter provides and how it behaves in the wild.
+
+- ![](https://img.shields.io/github/stars/Sky24n/flutter_wanandroid?style=social) [flutter_wanandroid](https://github.com/Sky24n/flutter_wanandroid)
+
+- ![](https://img.shields.io/github/stars/FilledStacks/flutter-tutorials?style=social)[flutter-tutorials](https://github.com/FilledStacks/flutter-tutorials) -  The repo contains the source code for all the tutorials on the FilledStacks Youtube channel.
 
 - ![](https://img.shields.io/github/stars/gskinnerTeam/flutter_vignettes?style=social) [The Flutter Vignettes](https://github.com/gskinnerTeam/flutter_vignettes) - A collection of explorations into the exciting user experience possibilities enabled by the Flutter platform. Built by [gskinner](https://gskinner.com/) in partnership with Google, these vignettes range from the practical to the novel. They aim to inspire both developers and designers to build delightful and beautiful experiences with Flutter.
 
@@ -140,11 +144,13 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 
 - ![](https://img.shields.io/github/stars/diegoveloper/flutter-samples?style=social) [flutter-samples](https://github.com/diegoveloper/flutter-samples)
 
-- ![](https://img.shields.io/github/stars/yukilzw/dy_flutter?style=social) [dy_flutter](https://github.com/yukilzw/dy_flutter) - The Douyu Live APP refactored by flutter. The home page and entertainment are Material components; the live room and fish bar are purely custom-written. In addition, various high-quality third-party open source libraries are integrated to create a silky user experience for native APPs.
-
 - ![](https://img.shields.io/github/stars/bdlukaa/fluent_ui?style=social) [fluent_ui](https://github.com/bdlukaa/fluent_ui) - Unofficial implementation of Fluent UI for Flutter. It's written based on the official documentation
 
+- ![](https://img.shields.io/github/stars/yukilzw/dy_flutter?style=social) [dy_flutter](https://github.com/yukilzw/dy_flutter) - The Douyu Live APP refactored by flutter. The home page and entertainment are Material components; the live room and fish bar are purely custom-written. In addition, various high-quality third-party open source libraries are integrated to create a silky user experience for native APPs.
+
 - ![](https://img.shields.io/github/stars/syncfusion/flutter-examples?style=social) [syncfusion/flutter-examples](https://github.com/syncfusion/flutter-examples) - This repository contains awesome demos of Syncfusion Flutter UI widgets. This is the best place to check our widgets to get more insight into the usage of APIs. You can also check our widgets by installing the complete Flutter sample browser from Google Play Store or App Store, in which you can browse the demo for all the widgets and view the source code of each sample within the app itself.
+
+- ![](https://img.shields.io/github/stars/JideGuru/FlutterFoodybite?style=social) [FlutterFoodybite](https://github.com/JideGuru/FlutterFoodybite) - Flutter representation of a Restaurant app UI i found in Uplabs. It only consists of 2 screens.
 
 - ![](https://img.shields.io/github/stars/google/flutter.widgets?style=social) 💗[google/flutter.widgets](https://github.com/google/flutter.widgets) - This repository contains the source code for various Flutter widgets that are developed by Google but not by the core Flutter team.
   - [visibility_detector](https://github.com/google/flutter.widgets/blob/master/packages/visibility_detector/README.md)
@@ -615,6 +621,8 @@ Easy creation of city list or contact list interfaces.
   This library is a WYSIWYG editor built for the modern mobile platform, with web compatibility under development. Check out our Youtube Playlist to take a detailed walkthrough of the code base. You can join our Slack Group for discussion.
 
   Demo App: <https://bulletjournal.us/home/index.html>
+
+- ![](https://img.shields.io/github/stars/AppFlowy-IO/appflowy-editor?style=social)  [appflowy-editor](https://github.com/AppFlowy-IO/appflowy-editor) - A highly customizable rich-text editor for Flutter
 
 ### Effect
 
