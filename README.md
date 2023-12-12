@@ -674,7 +674,7 @@ Easy creation of city list or contact list interfaces.
 
 - ![](https://img.shields.io/github/stars/letsar/local_hero?style=social) [local_hero](https://github.com/letsar/local_hero) - A widget which implicitly launches a hero animation when its position changed within the same route.
 
-- ![](https://img.shields.io/github/stars/canopas/animated-visibility-widget?style=social) [animated-visibility-widget](https://github.com/canopas/animated-visibility-widget) - Animate appearance and disappearance using pre-built effects with the AnimatedVisibility widget.
+- ![](https://img.shields.io/github/stars/canopas/animated-visibility?style=social) [animated-visibility](https://github.com/canopas/animated-visibility) - Animate appearance and disappearance using pre-built effects with the AnimatedVisibility.
 
 ## Plugins
 
