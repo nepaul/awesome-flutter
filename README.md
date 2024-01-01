@@ -628,6 +628,8 @@ Easy creation of city list or contact list interfaces.
 
 - ![](https://img.shields.io/github/stars/2d-inc/Flare-Flutter?style=social) [Flare-Flutter](https://github.com/2d-inc/Flare-Flutter) - Rive 1 (previously Flare) offers powerful realtime vector design and animation for app and game designers alike. The primary goal of Flare is to allow designers to work directly with assets that run in their final product, eliminating the need to redo that work in code.
 
+- ![](https://img.shields.io/github/stars/glorylab/wave?style=social)  [Wave](https://github.com/glorylab/wave) - A Flutter package for displaying waves.
+
 - ![](https://img.shields.io/github/stars/felixblaschke/simple_animations?style=social) 💗[simple_animations](https://github.com/felixblaschke/simple_animations) - Simple Animations is a powerful package to create beautiful custom animations in no time.
   - 💪 fully tested
   - 📝 well documented
