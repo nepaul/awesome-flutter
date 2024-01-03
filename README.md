@@ -585,7 +585,10 @@ Easy creation of city list or contact list interfaces.
 
 - ![](https://img.shields.io/github/stars/danvick/flutter_form_builder?style=social) [Flutter Form Builder](https://github.com/danvick/flutter_form_builder) - Flutter Form Builder provides an easy way of working with forms in Flutter by removing the boilerplate needed to build a form, validate fields, react to changes, and collect final user input.
 
+- ![](https://img.shields.io/github/stars/AbdulRahmanAlHamali/flutter_typeahead?style=social)  [flutter_typeahead](https://github.com/AbdulRahmanAlHamali/flutter_typeahead) - A TypeAhead (autocomplete) widget for Flutter, where you can show suggestions to users as they type.
+
 - ![](https://img.shields.io/github/stars/Tkko/Flutter_Pinput?style=social)  [Pinput](https://github.com/Tkko/Flutter_Pinput) is a package that provides an easy-to-use and customizable Pin code input field. It offers several features such as animated decoration switching, form validation, SMS autofill, custom cursor, copying from clipboard, and more. It also provides beautiful examples that you can choose from.
+
 - ![](https://img.shields.io/github/stars/TinoGuo/pin_input_text_field?style=social)  [pin_input_text_field](https://github.com/TinoGuo/pin_input_text_field) - PinInputTextField is a TextField widget to help display different style pin. It supports all the platforms flutter supports.
 
 ### Select
