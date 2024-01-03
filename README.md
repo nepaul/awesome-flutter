@@ -1011,6 +1011,10 @@ for iOS, Android and Web.
 
 > Complete Projects(Open Source)
 
+- ![](https://img.shields.io/github/stars/KRTirtho/spotube?style=social)   [spotube](https://github.com/KRTirtho/spotube) - An open source, cross-platform Spotify client compatible across multiple platforms
+utilizing Spotify's data API and YouTube (or Piped.video or JioSaavn) as an audio source,
+eliminating the need for Spotify Premium
+  
 - ![](https://img.shields.io/github/stars/roughike/inKino?style=social) [inKino](https://github.com/roughike/inKino) - inKino is a multiplatform Dart app for browsing movies and showtimes for Finnkino cinemas.
 
   InKino showcases **Redux**, has an extensive set of automated tests and 40% code sharing between Flutter and web. The Android & iOS apps are made with a single Flutter codebase. The progressive web app is made with AngularDart. This project is generally something that I believe is a good example of a multiplatform Dart project.
