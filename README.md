@@ -652,8 +652,6 @@ Easy creation of city list or contact list interfaces.
 
   It works on Android, iOS, macOS, linux, windows and web.
 
-- ![](https://img.shields.io/github/stars/i-protoss/wave?style=social) [wave](https://github.com/i-protoss/wave) - Widget for displaying waves with custom color, duration, floating and blur effects.
-
 - ![](https://img.shields.io/github/stars/YYFlutter/flutter-animation-set?style=social) [flutter-animation-set](https://github.com/YYFlutter/flutter-animation-set) - Simplified Flutter stagger animation.To drive the Flutter stagger animation through a timeline in the form of an animation configuration.You can
 
   1. Uses the existing Animation Widget of Flutter Animation Set
