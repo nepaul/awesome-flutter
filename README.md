@@ -547,6 +547,10 @@ Adorable color pickers out of the box with highly customized widgets to all deve
 ### List & Grid
 
 - ![](https://img.shields.io/github/stars/letsar/flutter_staggered_grid_view?style=social) [flutter_staggered_grid_view](https://github.com/letsar/flutter_staggered_grid_view) - Provides a collection of Flutter grids layouts. This package contains various grid layouts. In the following section, you'll discover each one of them. The explanation of the layout will always considered a top-to-bottom and left-to-right directions to simplify the description. However it is possible to change these directions in the code.
+
+- ![](https://img.shields.io/github/stars/The-ring-io/flutter_staggered_animations?style=social) [flutter_staggered_animation](https://github.com/The-ring-io/flutter_staggered_animations) - Easily add staggered animations to your ListView, GridView, Column and Row children as shown in Material Design guidelines
+  ![](https://github.com/mobiten/flutter_staggered_animations/raw/master/assets/card_grid.gif?raw=true)
+
 - [flutterchina/azlistview](https://github.com/flutterchina/azlistview) - A Flutter sticky headers & index ListView. Based on scrollable_positioned_list.
 AzListView, SuspensionView, IndexBar.
 Easy creation of city list or contact list interfaces.
