@@ -749,6 +749,8 @@ Check the `packages` directory for all plugins.
 
 - ![](https://img.shields.io/github/stars/Sub6Resources/flutter_html?style=social) [flutter_html](https://github.com/Sub6Resources/flutter_html) - A Flutter widget for rendering HTML and CSS as Flutter widgets.
 
+- ![](https://img.shields.io/github/stars/netdur/llama_cpp_dart?style=social) [LLAMA.cpp Dart](https://github.com/netdur/llama_cpp_dart) - A Dart port of LLAMA.cpp library for running open source LLM in local environment.
+
 - ![](https://img.shields.io/github/stars/google/quiver-dart?style=social) [google/quiver-dart](https://github.com/google/quiver-dart) - Quiver is a set of utility libraries for Dart that makes using many Dart libraries easier and more convenient, or adds additional functionality. [👉 API Doc](https://pub.dev/documentation/quiver/latest/)
 
 - ![](https://img.shields.io/github/stars/dart-lang/intl?style=social)  [dart-lang/intl](https://github.com/dart-lang/intl) - Provides internationalization and localization facilities, including message translation, plurals and genders, date/number formatting and parsing, and bidirectional text.
