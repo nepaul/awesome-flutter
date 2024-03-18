@@ -1022,6 +1022,8 @@ for iOS, Android and Web.
 
 > Complete Projects(Open Source)
 
+- ![](https://img.shields.io/github/stars/rustdesk/rustdesk?style=social)  [rustdesk](https://github.com/rustdesk/rustdesk) - Another remote desktop software
+
 - ![](https://img.shields.io/github/stars/KRTirtho/spotube?style=social)   [spotube](https://github.com/KRTirtho/spotube) - An open source, cross-platform Spotify client compatible across multiple platforms
 utilizing Spotify's data API and YouTube (or Piped.video or JioSaavn) as an audio source,
 eliminating the need for Spotify Premium
