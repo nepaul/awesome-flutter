@@ -1112,6 +1112,8 @@ Open Source. Lightweight. Clean. Straightforward. Fast. Powerful.
 
     This is a prototype, and in the long term is expected to be replaced by [functionality within the Flutter framework](https://docs.google.com/document/d/11_4wntz_9IJTQOo_Qhp7QF4RfpIMTfVygtOTxQ4OGHY/edit).
 
+- ![](https://img.shields.io/github/stars/flutter-rs/flutter-rs?style=social) [flutter-rs](https://github.com/flutter-rs/flutter-rs) - Build flutter desktop app in dart & rust. (WIP)
+
 - ![](https://img.shields.io/github/stars/leanflutter/window_manager?style=social) ![](https://img.shields.io/badge/platform-mac%20%7C%20linux%20%7C%20windows-lightgrey) [window_manager](https://github.com/leanflutter/window_manager) - This plugin allows Flutter desktop apps to resizing and repositioning the window.
 
 - ![](https://img.shields.io/github/stars/leanflutter/launch_at_startup?style=social) ![](https://img.shields.io/badge/platform-mac%20%7C%20linux%20%7C%20windows-lightgrey) [launch_at_startup](https://github.com/leanflutter/launch_at_startup) - This plugin allows Flutter desktop apps to Auto launch on startup / login.
