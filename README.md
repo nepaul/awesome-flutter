@@ -938,6 +938,8 @@ Note: As opposed to many alternatives, when using Freezed, that copyWith method 
 
 ## Tools
 
+- 👍👍👍 ![](https://img.shields.io/github/stars/shorebirdtech/shorebird?style=social) [shorebird](https://github.com/shorebirdtech/shorebird) -
+Code Push for Flutter and other tools for Flutter businesses.
 - ![](https://img.shields.io/github/stars/aloisdeniel/flutter_device_preview?style=social) [Device Preview](https://github.com/aloisdeniel/flutter_device_preview) - Approximate how your app looks and performs on another device.
 - ![](https://img.shields.io/github/stars/rxlabz/panache?style=social) [panache](https://github.com/rxlabz/panache) - A Flutter Material Theme editor. Panache helps you to create beautiful Material themes for your Flutter applications. Customize widgets colors and shapes, and download your theme.dart file.
 - [fvm](https://github.com/befovy/fvm/) - Flutter Version Management: A simple cli to manage Flutter SDK versions.
