@@ -540,9 +540,11 @@ Adorable color pickers out of the box with highly customized widgets to all deve
 
 - ![](https://img.shields.io/github/stars/xsahil03x/before_after?style=social) [before_after](https://github.com/xsahil03x/before_after) - A flutter package which makes it easier to display the differences between two images.
 
-- ![](https://img.shields.io/github/stars/fluttercandies/flutter_image_compress?style=social) [](https://github.com/fluttercandies/flutter_image_compress) - Compresses image as native plugin (Obj-C/Kotlin). This library works on Android and iOS.
+- ![](https://img.shields.io/github/stars/fluttercandies/flutter_image_compress?style=social) [flutter_image_compress](https://github.com/fluttercandies/flutter_image_compress) - Compresses image as native plugin (Obj-C/Kotlin). This library works on Android and iOS.
 
 - ![](https://img.shields.io/github/stars/alibaba/power_image?style=social) [alibaba/power_image](https://github.com/alibaba/power_image) - A powerful plugin that fully uses the native image library's ability to display images on the flutter side.
+
+- ![](https://img.shields.io/github/stars/fluttercandies/flutter_image_editor?style=social) [flutter_image_editor](https://github.com/fluttercandies/flutter_image_editor) - A Flutter plugin for Android and iOS supports image editing.
 
 ### List & Grid
 
