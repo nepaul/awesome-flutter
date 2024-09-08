@@ -793,6 +793,8 @@ Check the `packages` directory for all plugins.
   - Enum - Java-like enum.
   - DisableOverscroll - Prevent glowing when scrolling over the edge
 
+- ![](https://img.shields.io/github/stars/stevenroose/dart-eventsource?style=social) [dart-eventsource](https://github.com/stevenroose/dart-eventsource) - A library for using EventSource or Server-Sent Events (SSE). Both client and server functionality is provided.
+
 **Dynamic**:
 
 - ![](https://img.shields.io/github/stars/dengyin2000/dynamic_widget?style=social) [Flutter Dynamic Widget](https://github.com/dengyin2000/dynamic_widget) - A Backend-Driven UI toolkit, build your dynamic UI with json, and the json format is very similar with flutter widget code.
