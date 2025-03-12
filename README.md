@@ -1110,6 +1110,8 @@ Open Source. Lightweight. Clean. Straightforward. Fast. Powerful.
 
 - ![](https://img.shields.io/github/stars/mateusz-bak/openreads-android?style=social) [A mobile books tracker that respects your privacy](https://github.com/mateusz-bak/openreads-android) - A simple privacy oriented mobile books tracker using Open Library API.
 
+- ![](https://img.shields.io/github/stars/ChunhThanhDe/Cinema-Booking?style=social) [Cinema Booking - A Completed Functional Flutter App](https://github.com/ChunhThanhDe/Cinema-Booking) - A fully functional Flutter app for booking movie tickets, built with Flutter Clean Template, BLoC, REST API, Firebase Auth, and Unit Tests.
+
 ## Desktop Only
 
 - ![](https://img.shields.io/github/stars/AppFlowy-IO/appflowy?style=social) [appflowy](https://github.com/AppFlowy-IO/appflowy) - Desktop App! The Open Source Notion Alternative(53+% Rust, 41+%Dart, C++...).
