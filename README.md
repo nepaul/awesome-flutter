@@ -955,6 +955,7 @@ Code Push for Flutter and other tools for Flutter businesses.
   - Ability to install and cache multiple Flutter SDK Versions
   - Easily switch between Flutter channels & versions
 - ![](https://img.shields.io/github/stars/filiph/linkcheck?style=social) [linkcheck](https://github.com/filiph/linkcheck) - Very fast link-checking.
+- ![](https://img.shields.io/github/stars/Duit-Foundation/flutter_duit?style=social) [flutter_duit](https://github.com/Duit-Foundation/flutter_duit) - Backend-Driven UI Framework and an actively growing [open-source ecosystem](https://duit.pro/en/) of libraries and tools aimed at helping developers easily and effectively implement the Backend-Driven UI approach in their Flutter-based applications.
 
 **Lint & Format:**
 
