@@ -680,6 +680,8 @@ Easy creation of city list or contact list interfaces.
 
 - ![](https://img.shields.io/github/stars/canopas/animated-visibility?style=social) [animated-visibility](https://github.com/canopas/animated-visibility) - Animate appearance and disappearance using pre-built effects with the AnimatedVisibility.
 
+### Splash Screen
+- ![](https://img.shields.io/github/stars/ksokolovskyi/wise_splash_screen?style=social) [wise_splash_screen](https://github.com/ksokolovskyi/wise_splash_screen) - A splash screen widget for Flutter.
 ### Others
 
 - ![](https://img.shields.io/github/stars/kevmoo/qr.dart?style=social) [qr.dart](https://github.com/kevmoo/qr.dart) - A QR code generation library for Dart and Flutter..
