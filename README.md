@@ -523,6 +523,7 @@ Adorable color pickers out of the box with highly customized widgets to all deve
 ### Calendars
 
 - ![](https://img.shields.io/github/stars/aleksanderwozniak/table_calendar?style=social) [table_calendar](https://github.com/aleksanderwozniak/table_calendar) - Highly customizable, feature-packed Flutter Calendar with gestures, animations and multiple formats
+- ![](https://img.shields.io/github/stars/pickywawa/infinite_calendar_view?style=social) [infinite_calendar_view](https://github.com/pickywawa/infinite_calendar_view) - Infinite scrolling calendar views (planner, day, multi-day, month and events list) with drag and drop, pinch to zoom and multi-column support
 
 ### Clippers
 
