@@ -85,6 +85,7 @@ A curated list of awesome Flutter libraries, tools, tutorials, articles and more
 **Best Practices**:
 
 - ![](https://img.shields.io/github/stars/erluxman/awesomefluttertips?style=social) [awesomefluttertips](https://github.com/erluxman/awesomefluttertips)
+- [Swavent Guides](https://swavent.com/en/guides) - Free Shopify, ecommerce, SEO and web development guides.
 
 ## Style Guide
 
